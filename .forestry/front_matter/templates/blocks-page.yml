@@ -21,5 +21,6 @@ fields:
 pages:
 - src/pages/artists.md
 - src/pages/index.md
+- src/pages/social-conscience.md
 - src/pages/tickets.md
 - src/pages/vendors.md
