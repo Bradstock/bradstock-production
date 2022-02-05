@@ -1,0 +1,34 @@
+[
+    {
+        "type": "internal",
+        "url": "/artists",
+        "title": "Artists",
+        "text_color": "text-cyan-600"
+    },
+    {
+        "type": "internal",
+        "url": "/vendors",
+        "title": "Vendors",
+        "text_color": "text-emerald-600"
+
+    },
+    {
+        "type": "internal",
+        "url": "/social-conscience",
+        "title": "Social Conscience",
+        "text_color": "text-pink-600"
+
+    },
+    {
+        "type": "internal",
+        "url": "/sponsors",
+        "title": "Supporters and Partners",
+        "text_color": "text-rose-700"
+    },
+    {
+        "type": "Tickets",
+        "url": "/tickets",
+        "title": "Tickets",
+        "text_color": "text-amber-500"
+    }
+]

@@ -30,6 +30,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+        // name: 'src-images',
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -47,13 +54,15 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
-    `gatsby-plugin-feed`,
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
+    //   },
+    // },
+    
+    // `gatsby-plugin-feed`,
+
     // {
     //   resolve: `gatsby-plugin-manifest`,
     //   options: {
@@ -69,12 +78,14 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-transformer-json',
+    // 'gatsby-plugin-postcss',
+
     {
       resolve: `gatsby-plugin-sass`,
       options: {
         postCssPlugins: [
           require("tailwindcss"),
-          // require("./tailwind.config.js"), // Optional: Load custom Tailwind CSS configuration
+          require("./tailwind.config.js"), // Optional: Load custom Tailwind CSS configuration
         ],
       },
     },

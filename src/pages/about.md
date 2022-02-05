@@ -1,32 +1,20 @@
 ---
-title: What is this?
+title: About Us
 
 ---
-You're currently viewing a demo site built with [GatsbyJS](https://www.gatsbyjs.org/) and [Forestry](https://forestry.io). This website is meant to demonstrate some of the features of Forestry's CMS and how it integrates with the Gatsby static site generator, but you are encouraged to copy it, hack on it, and make it your own!
 
-[About Gatsby »](/about-the-ssg)
 
-## Demo Features
-This demo is heavily influenced by Gatsby's [tutorial for using Markdown](https://www.gatsbyjs.org/docs/adding-markdown-pages/) and Kyle Mathews' [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog). It is intended to serve as a starting point for developing markdown websites using Gatsby. Among its features are:
+## Our History
+Over Labor Day weekend in 1994, several friends from the Bayport-Sayville area organized a day of music, food and fun. Held in the backyard of Bayport resident Brad Ringhouse, the event, which proved to be a rousing success, was aptly dubbed “Bradstock.” With enthusiasm sky high, the all-volunteer organizers planned Bradstock II for the following Labor Day. However, two extra ingredients were to be added to the original, successful formula - a focus on our environment, and a determination to raise funds to donate to area organizations. The good time had by all was to be complemented with a good cause supported by all. Which is exactly what has happened.
 
-- Pages created from markdown files
-- _List_ and _single_ templates (add an `index.md` file to a directory to create a list page for the directory's contents)
-- Styling with Sass and [Bulma](https://bulma.io)
-- A _blocks_ template to use with Forestry's [blocks](https://forestry.io/docs/settings/fields/blocks/) page builder capability.
-- CMS-friendly content strategy, such as defining main navigation items in a JSON file.
+#### Building a Community
 
-## How to Use This With Forestry
+With the buzz of the first two Bradstocks encouraging new participants to join the cause, and with the success of the festivals far surpassing what the organizers could have ever imagined, Bradstocks III and IV were held on the grounds of Meadowcroft in Bayport. Artists came to display their work, various not-for-profit environmental organizations set up informative, educational booths, and new musicians eagerly joined Bradstock‘s solid line-up of performers. Best of all, the events generated profits, as well as canned foodstuffs, which was donated and distributed to local good causes.
 
-1. [Fork this repo to your GitHub, GitLab, or Bitbucket userspace](https://github.com/forestryio/gatsby-starter-forestry)
-2. [Sign up for a Forestry account](https://app.forestry.io/signup)
-3. Click the **Add Site** button, connect to your Git provider, and select the repo you just forked to begin the import process.
+#### Our Mission
 
-Alternatively, you can have Forestry copy and import this project for your with our [quick importer](https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby).
+Thanks to the generosity of the many friends of Bradstock, in the past twenty-three years we have donated over $275,000 including $120,000 to Camp-Pa-Qua-Tuck. Other beneficiaries include the Long Island Maritime Museum, Friends of Connetquot River State Park, the Sayville Kiwanis Club,  G.R.O.W., WUSB, They Often Cry Out, the Unbroken Chain Foundation, the Sayville Village Improvement Society, the Bayport and West Sayville Civic Associations and the Peconic Baykeeper   And let’s not forget our friends from the U.S. Coast Guard Chief Petty Officers Association,  who man and woman the grills to keep us in grub over the weekend.  The profits from the sale of the food goes to fund their own charitable cause – and they kick in a contribution to Bradstock as well.   And over these many years,  the Bradstock organization has donated a mountain of food and ongoing monetary contributions to Island Harvest to help those less fortunate than ourselves.  The Chiefs presented  a check for $3,000 to Island Harvest at this year’s Platinum Party.
+We are confident that the Circle of Chiefs moves forward in a manner befitting the labor that we expend. May the circle be unbroken.
 
-## About Forestry
-
-Forestry is a content management UI for static sites. Forestry currently works with any SSG, as long as your content is stored in Markdown, YAML or JSON files.
-
-Forestry works by importing your static site from a cloud Git provider like GitHub, GitLab, or Bitbucket. You can then use our WYSIWYG and front matter UI to edit your Markdown content and data files. When you save your content, Forestry creates a commit and pushes it back to your Git provider. This capability allows Forestry to be used alongside other workflows a team may be using to edit their static sites.
 
 [Learn more at Forestry.io »](https://forestry.io)

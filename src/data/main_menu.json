@@ -2,36 +2,16 @@
     {
         "type": "internal",
         "url": "/",
-        "title": "Home"
+        "title": "HOME"
     },
     {
         "type": "internal",
         "url": "/tickets",
-        "title": "Tickets"
-    },
-    {
-        "type": "internal",
-        "url": "/participate",
-        "title": "participate"
-    },
-    {
-        "type": "internal",
-        "url": "/line-up",
-        "title": "Lineup"
-    },
-    {
-        "type": "internal",
-        "url": "/archive",
-        "title": "Archive"
+        "title": "TICKETS"
     },
     {
         "type": "internal",
         "url": "/about",
-        "title": "About"
-    },
-    {
-        "type": "internal",
-        "url": "/posts",
-        "title": "Blog"
+        "title": "ABOUT"
     }
 ]

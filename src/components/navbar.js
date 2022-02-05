@@ -3,56 +3,46 @@ import { Link } from 'gatsby'
 
 import { graphql, StaticQuery } from 'gatsby'
 
-class Navbar extends Component {
-  state = {
-    navbarOpen: false,
-  }
+import Image from './Image';
+import Menu from './menu';
 
-  toggleNavState = () => {
-    this.setState({
-      navbarOpen: !this.state.navbarOpen,
-    })
-  }
+class Navbar extends Component {
 
   render() {
+
+    // function classNames(...classes) {
+    //   return classes.filter(Boolean).join(' ')
+    // }
+
     return (
-      <nav
-        className="navbar is-primary main-navigation"
-        role="navigation"
-        aria-label="main navigation"
-      >
-        <div className="navbar-brand">
+      // TODO: max width of the edges
+      <div className='group z-0 hover:bg-gradient-to-t from-transparent via-transparent to-shadow text-gray-500 group-hover:text-white'>
+        <Menu />
+      <div className='z-40 grid grid-cols-1 md:grid-cols-3 items-top pt-2 pb-6 '>
+
+        {/* column 1 */}
+        <div className='justify-start hidden md:flex'>     
+        </div>
+        
+        {/* column 2 */}
+        {/* TODO: fix justify-rught on mobile */}
+        <div className='flex justify-end md:justify-center'>
           <Link
-            className="navbar-item has-text-weight-semibold"
             to="/"
           >
-            {this.props.siteTitle}
+            <Image
+              src="logos/bradstock_logo.png"
+              className="w-52 mx-auto"
+              alt="Logo Image"
+              // style={{
+              //   border: '10px solid green',
+              // }}
+            />
           </Link>
-
-          <span
-            onClick={this.toggleNavState}
-            role="button"
-            className={
-              this.state.navbarOpen
-                ? 'navbar-burger burger is-active'
-                : 'navbar-burger burger'
-            }
-            aria-label="menu"
-            aria-expanded="false"
-            data-target="mainMenu"
-          >
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-            <span aria-hidden="true" />
-          </span>
         </div>
-        <div
-          id="mainMenu"
-          className={
-            this.state.navbarOpen ? 'navbar-menu is-active' : 'navbar-menu'
-          }
-        >
-          <div className="navbar-start">
+
+        {/* column 3 */}
+        <div className="justify-end mr-5 hidden md:flex">
             <StaticQuery
               query={graphql`
                 {
@@ -74,14 +64,14 @@ class Navbar extends Component {
                     <Link
                       key={edge.node.id}
                       to={edge.node.url}
-                      className="navbar-item"
+                      className="whitespace-nowrap text-base mx-2 link-hover text-gray-500 group-hover:text-white hover:text-gray-300 font-medium"
                     >
-                      {edge.node.title}
-                    </Link>
+                       {edge.node.title} 
+                    </Link> 
                   ) : (
                     <a
                       key={edge.node.id}
-                      className="navbar-item"
+                      className="whitespace-nowrap text-base mx-2 link-hover text-gray-500 group-hover:text-white hover:text-gray-300 font-medium"
                       target="_blank"
                       rel="noopener noreferrer"
                       href={edge.node.url}
@@ -92,9 +82,9 @@ class Navbar extends Component {
                 })
               }
             />
-          </div>
         </div>
-      </nav>
+      </div>
+    </div>
     )
   }
 }

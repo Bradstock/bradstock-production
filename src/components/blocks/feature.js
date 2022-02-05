@@ -8,7 +8,7 @@ const Feature = ({ block }) => (
         : 'block-feature hero is-medium'
     }
   >
-    {console.log(block)}
+    {/* {console.log(block)} */}
     <div className="hero-body">
       <div className="container is-fluid">
         <div
@@ -22,7 +22,7 @@ const Feature = ({ block }) => (
             {block.image && (
               <img
                 alt={block.title}
-                srcset={block.image.childImageSharp.fluid.srcSet}
+                srcSet={block.image.childImageSharp.fluid.srcSet}
               />
             )}
           </div>

@@ -8,7 +8,7 @@ import Layout from '../components/layout'
 // import blocks
 import ThreeCol from '../components/blocks/3col'
 import Feature from '../components/blocks/feature'
-import CTA from '../components/blocks/cta'
+import Cta from '../components/blocks/cta'
 import Hero from '../components/blocks/hero'
 
 class BlocksTemplate extends React.Component {
@@ -31,7 +31,7 @@ class BlocksTemplate extends React.Component {
             case 'feature':
               return <Feature block={block} />
             case 'cta':
-              return <CTA block={block} />
+              return <Cta block={block} />
             case 'hero':
               return <Hero block={block} />
             default:
