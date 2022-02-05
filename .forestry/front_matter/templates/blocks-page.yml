@@ -19,5 +19,6 @@ fields:
   - block__3col
   - block__cta
 pages:
+- src/pages/artists.md
 - src/pages/index.md
 - src/pages/tickets.md
