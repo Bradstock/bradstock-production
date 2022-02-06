@@ -18,7 +18,7 @@ class SingleTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <section className=" section page-content">
+        <section className="section box-shadow mx-auto pb-[6rem] bg-white max-w-7xl">
           <div className="container article-header has-text-centered">
             <h1 className="title is-1">{post.frontmatter.title}</h1>
             {post.frontmatter.date && (

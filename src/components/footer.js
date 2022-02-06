@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = ({ content }) => (
   <footer className="section site-footer">
-    <div className="container has-text-centered" dangerouslySetInnerHTML={{__html: content}} />
+    <div className="max-w-5xl has-text-centered" dangerouslySetInnerHTML={{__html: content}} />
   </footer>
 )
 

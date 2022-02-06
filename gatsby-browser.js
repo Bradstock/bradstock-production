@@ -6,6 +6,7 @@
 
 import "./src/css/index.scss"
 
+// fix for https://github.com/gatsbyjs/gatsby/issues/8357
 import {globalHistory} from '@reach/router';
 
 export const onInitialClientRender = () => {

@@ -11,6 +11,11 @@
     },
     {
         "type": "internal",
+        "url": "/archive",
+        "title": "ARCHIVE"
+    },
+    {
+        "type": "internal",
         "url": "/about",
         "title": "ABOUT"
     }
