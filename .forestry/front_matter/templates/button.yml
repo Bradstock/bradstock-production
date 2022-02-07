@@ -1,0 +1,19 @@
+---
+label: Button
+hide_body: true
+fields:
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  label: Button
