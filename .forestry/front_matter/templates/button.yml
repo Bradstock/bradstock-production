@@ -11,9 +11,9 @@ fields:
     config:
       required: false
     label: Label
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
   label: Button
-- name: url
-  type: text
-  config:
-    required: false
-  label: URL
