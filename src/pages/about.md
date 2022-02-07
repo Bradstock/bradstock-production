@@ -2,6 +2,12 @@
 template: blocks
 title: About
 blocks:
+- template: hero
+  component: hero
+  background: primary
+  title: ''
+  subtitle: ''
+  background_image: ''
 - template: textarea
   text_area: |-
     ## **Our History**
