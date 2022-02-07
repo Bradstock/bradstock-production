@@ -1,0 +1,14 @@
+---
+label: TextArea
+hide_body: true
+fields:
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  hidden: false
+  label: Text Area
