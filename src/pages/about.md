@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   background: primary
-  title: ''
+  title: About Us
   subtitle: ''
   background_image: ''
 - template: textarea
