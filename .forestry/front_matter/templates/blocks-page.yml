@@ -19,6 +19,7 @@ fields:
   - block__3col
   - block__cta
 pages:
+- src/pages/about-1.md
 - src/pages/archive.md
 - src/pages/artists.md
 - src/pages/eats.md
