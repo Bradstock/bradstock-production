@@ -19,7 +19,7 @@ class SingleTemplate extends React.Component {
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
         <section className="section box-shadow mx-auto pb-[6rem] bg-white max-w-7xl">
-          <div className="container article-header has-text-centered">
+          <div className="max-w-5xl article-header has-text-centered">
             <h1 className="title is-1">{post.frontmatter.title}</h1>
             {post.frontmatter.date && (
               <em className="is-size-6">
@@ -28,7 +28,7 @@ class SingleTemplate extends React.Component {
             )}
             <hr />
           </div>
-          <main className="container content-container">
+          <main className="max-w-5xl content-container">
             <div
               className="content"
               dangerouslySetInnerHTML={{ __html: post.html }}

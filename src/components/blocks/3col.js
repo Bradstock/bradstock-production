@@ -5,7 +5,7 @@ import Column from './inc/column'
 const ThreeCol = ({ block }) => (
   <section className="block-3col hero is-medium">
     <div className="hero-body">
-      <div className="container section box-shadow">
+      <div className="max-w-5xl section box-shadow">
         {block.title && (
           <>
           <h2 className="title is-3 has-text-centered">{block.title}</h2>

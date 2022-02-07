@@ -9,7 +9,7 @@ const Hero = ({ block }) => (
     }
   >
     <div className="hero-body">
-      <div className="container">
+      <div className="max-w-5xl">
         <h1 className="title is-1">{block.title}</h1>
         {block.subtitle && <p className="subtitle is-4">{block.subtitle}</p>}
       </div>

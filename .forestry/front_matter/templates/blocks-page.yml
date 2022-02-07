@@ -18,8 +18,9 @@ fields:
   - block__feature
   - block__3col
   - block__cta
+  - textarea
 pages:
-- src/pages/about-1.md
+- src/pages/about.md
 - src/pages/archive.md
 - src/pages/artists.md
 - src/pages/eats.md

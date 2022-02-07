@@ -10,7 +10,7 @@ const Feature = ({ block }) => (
   >
     {/* {console.log(block)} */}
     <div className="hero-body">
-      <div className="container is-fluid">
+      <div className="max-w-5xl is-fluid">
         <div
           className={
             block.orientation && block.orientation === 'reverse'

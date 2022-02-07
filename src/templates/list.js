@@ -20,12 +20,12 @@ class ListTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <section className="section page-content">
-          <div class="container article-header has-text-centered">
+        <section className="section box-shadow mx-auto pb-[6rem] bg-white max-w-7xl">
+          <div class="max-w-5xl article-header has-text-centered">
             <h1 class="title is-1">{post.frontmatter.title}</h1>
             <hr />
           </div>
-          <main className="container content-container">
+          <main className="max-w-5xl content-container">
             <div
               className="content"
               dangerouslySetInnerHTML={{ __html: post.html }}
