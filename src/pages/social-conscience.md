@@ -2,7 +2,7 @@
 template: blocks
 title: Social Conscience
 blocks:
-- template: block__hero
+- template: hero
   component: hero
   background: transparent
   title: ''

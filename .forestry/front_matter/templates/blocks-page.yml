@@ -14,10 +14,10 @@ fields:
   name: blocks
   label: Blocks
   template_types:
-  - block__hero
-  - block__feature
-  - block__3col
-  - block__cta
+  - hero
+  - feature
+  - 3col
+  - cta
   - textarea
 pages:
 - src/pages/about.md

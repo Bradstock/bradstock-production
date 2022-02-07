@@ -2,7 +2,7 @@
 template: blocks
 title: Vendors
 blocks:
-- template: block__hero
+- template: hero
   component: hero
   background: transparent
   title: ''
