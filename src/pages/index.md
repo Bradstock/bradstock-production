@@ -1,5 +1,5 @@
 ---
-title: 'Home Page'
+title: Home Page
 template: blocks
 blocks:
 - template: hero
@@ -7,6 +7,7 @@ blocks:
   background: transparent
   title: Bradstock
   subtitle: subtitle
+  background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
 - template: feature
   component: feature
   image: "/images/forestry-markdown-editor.jpg"
@@ -32,14 +33,17 @@ blocks:
   component: 3col
   title: table
   col1:
-    title: Content 
-    content: Content 
+    title: Content
+    content: Content
+    image: ''
   col2:
     title: Content
     content: Content
+    image: ''
   col3:
     title: Content
     content: Content
+    image: ''
 - template: cta
   component: cta
   background: primary
