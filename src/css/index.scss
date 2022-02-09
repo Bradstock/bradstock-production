@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "variables.scss";
+@import "bulma";
+
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&display=swap');
 // font-family: 'IBM Plex Sans Thai Looped', sans-serif;
 
@@ -28,8 +31,16 @@
     color: lightgrey !important;
 }
 
-html body{
+html 
+{
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+
+}
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    // width: 100vh;
 }
 
 // menu colors
@@ -46,7 +57,6 @@ html body{
 .text-rose-700{
     color: #BE123C;
 }
-
 .text-amber-500{
     color: #F59E0B;
 }

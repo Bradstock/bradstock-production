@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown'
 
 const TextArea = ({ block }) => (
   <section>
-      <div className="max-w-5xl">
+      <div className="max-w-5xl mx-auto ">
       <ReactMarkdown children={block.text_area} allowDangerousHtml />
       </div>
   </section>
