@@ -77,6 +77,13 @@ export const pageQuery = graphql`
           orientation
           background
           text_area
+          background_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
           button {
             url
             text

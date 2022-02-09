@@ -16,9 +16,9 @@ class Navbar extends Component {
 
     return (
       // TODO: max width of the edges
-      <div className='group z-0 hover:bg-gradient-to-t from-transparent via-transparent to-shadow text-gray-500 group-hover:text-white'>
+      <div className='group z-2 hover:bg-gradient-to-t from-transparent via-transparent to-shadow text-gray-500 group-hover:text-white'>
         <Menu />
-      <div className='z-40 grid grid-cols-1 md:grid-cols-3 items-top pt-2 pb-6 '>
+      <div className='grid grid-cols-1 md:grid-cols-3 items-top pt-2 pb-6 '>
 
         {/* column 1 */}
         <div className='justify-start hidden md:flex'>     

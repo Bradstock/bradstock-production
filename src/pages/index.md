@@ -4,10 +4,10 @@ template: blocks
 blocks:
 - template: hero
   component: hero
-  background: transparent
+  background: dark
   title: Bradstock
-  subtitle: subtitle
-  background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
+  subtitle: subtitle test home
+  background_image: ""
 - template: feature
   component: feature
   image: "/images/forestry-markdown-editor.jpg"
