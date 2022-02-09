@@ -7,7 +7,7 @@ blocks:
   background: dark
   title: Bradstock
   subtitle: subtitle
-  background_image: ''
+  background_image: "/images/pawel-czerwinski-3k9PGKWt7ik-unsplash.jpg"
 - template: feature
   component: feature
   image: "/images/forestry-markdown-editor.jpg"
