@@ -6,8 +6,8 @@ blocks:
   component: hero
   background: dark
   title: Bradstock
-  subtitle: subtitle test home
-  background_image: ""
+  subtitle: subtitle
+  background_image: ''
 - template: feature
   component: feature
   image: "/images/forestry-markdown-editor.jpg"
