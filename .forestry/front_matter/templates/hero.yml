@@ -1,5 +1,5 @@
 ---
-label: block__hero
+label: hero
 hide_body: false
 display_field: title
 fields:

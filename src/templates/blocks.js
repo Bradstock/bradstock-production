@@ -10,13 +10,14 @@ import ThreeCol from '../components/blocks/3col'
 import Feature from '../components/blocks/feature'
 import Cta from '../components/blocks/cta'
 import Hero from '../components/blocks/hero'
+import TextArea from '../components/blocks/textarea'
 
 class BlocksTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const siteDescription = post.excerpt
-
+    console.log(this.props)
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet
@@ -34,6 +35,8 @@ class BlocksTemplate extends React.Component {
               return <Cta block={block} />
             case 'hero':
               return <Hero block={block} />
+            case 'textarea':
+              return <TextArea block={block} />
             default:
               return ''
           }
@@ -73,6 +76,7 @@ export const pageQuery = graphql`
           content
           orientation
           background
+          text_area
           button {
             url
             text

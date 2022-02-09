@@ -1,7 +1,12 @@
 ---
-label: TextArea
-hide_body: true
+label: textarea
+hide_body: false
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: textarea
 - name: text_area
   type: textarea
   default: ''

@@ -9,6 +9,7 @@ blocks:
   subtitle: ''
   background_image: ''
 - template: textarea
+  component: textarea
   text_area: |-
     ## **Our History**
 
