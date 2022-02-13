@@ -25,3 +25,10 @@ fields:
       path: 
   label: Position
   description: Choose the size and position of image on page
+- name: alt
+  type: text
+  config:
+    required: true
+    min: 1
+  label: Alt
+  description: add description
