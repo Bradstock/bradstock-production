@@ -1,4 +1,10 @@
 ---
 label: Iframe
 hide_body: true
-fields: []
+fields:
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
+  description: enter the form url
