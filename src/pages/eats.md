@@ -7,5 +7,6 @@ blocks:
   background: dark
   title: Eats
   subtitle: dark bg
+  background_image: "/images/sharon-mccutcheon-bnkKG5cRTJ4-unsplash.jpg"
 
 ---
