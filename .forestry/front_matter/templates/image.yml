@@ -8,3 +8,20 @@ fields:
     maxSize: 64
   label: Image
   description: Add image here
+  hidden: false
+- name: position
+  type: select
+  default: Center
+  config:
+    required: true
+    options:
+    - Center
+    - Left
+    - Right
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Position
+  description: Choose the size and position of image on page
