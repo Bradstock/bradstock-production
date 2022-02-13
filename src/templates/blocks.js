@@ -11,6 +11,11 @@ import Feature from '../components/blocks/feature'
 import Cta from '../components/blocks/cta'
 import Hero from '../components/blocks/hero'
 import TextArea from '../components/blocks/textarea'
+import Image from '../components/blocks/image'
+import Iframe from '../components/blocks/iframe'
+import Button from '../components/blocks/button'
+
+
 
 class BlocksTemplate extends React.Component {
   render() {
@@ -75,13 +80,7 @@ export const pageQuery = graphql`
               }
             }
           }
-          feature_image {
-            childImageSharp {
-              fluid(maxWidth: 800) {
-                srcSet
-              }
-            }
-          }
+          
           title
           subtitle
           content
@@ -89,6 +88,13 @@ export const pageQuery = graphql`
           background
           text_area
           background_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
+          feature_image {
             childImageSharp {
               fluid(maxWidth: 800) {
                 srcSet
