@@ -10,18 +10,11 @@ blocks:
   background_image: "/images/pawel-czerwinski-3k9PGKWt7ik-unsplash.jpg"
 - template: feature
   component: feature
-  image: "/images/forestry-markdown-editor.jpg"
+  feature_image: "/images/bsxxi-tie-dye4.jpg"
   background: primary
-  orientation: reverse
-  title: Title
-  content: content
-- template: feature
-  component: feature
-  background: light
   orientation: normal
-  title: Title
-  content: Content
-  image: "/images/quickstart.png"
+  title: title the dye
+  content: ''
 - template: feature
   component: feature
   background: dark
@@ -29,6 +22,7 @@ blocks:
   title: Title
   content: Content
   image: "/images/forestry-instant-preview.png"
+  feature_image: "/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 - template: 3col
   component: 3col
   title: table

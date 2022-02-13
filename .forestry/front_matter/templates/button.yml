@@ -17,3 +17,18 @@ fields:
       required: false
     label: URL
   label: Button
+- name: button_type
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - Internal
+    - External
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Button Type
+  description: is the link external or internal
