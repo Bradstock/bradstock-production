@@ -1,5 +1,5 @@
 ---
-label: Forms
+label: Iframe
 hide_body: true
 fields:
 - name: url
@@ -7,4 +7,4 @@ fields:
   config:
     required: false
   label: URL
-  description: Enter the form URL
+  description: enter the form url

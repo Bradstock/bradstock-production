@@ -19,11 +19,11 @@ fields:
     schema:
       format: html
 - type: file
-  name: image
-  label: Image
+  name: feature_image
   default: "/images/gatsby-astronaut.png"
   config:
     maxSize: 2
+  label: Feature Image
 - type: select
   name: background
   config:
