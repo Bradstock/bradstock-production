@@ -19,6 +19,8 @@ fields:
   - 3col
   - cta
   - text_area
+  - image
+  - iframe
 pages:
 - src/pages/about.md
 - src/pages/archive.md

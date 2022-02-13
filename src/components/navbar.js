@@ -64,14 +64,14 @@ class Navbar extends Component {
                     <Link
                       key={edge.node.id}
                       to={edge.node.url}
-                      className="whitespace-nowrap text-base mx-2 link-hover text-gray-500 group-hover:text-white hover:text-gray-300 font-medium"
+                      className="whitespace-nowrap text-base mx-2 link-hover text-black group-hover:text-white hover:text-gray-300 font-medium"
                     >
                        {edge.node.title} 
                     </Link> 
                   ) : (
                     <a
                       key={edge.node.id}
-                      className="whitespace-nowrap text-base mx-2 link-hover text-gray-500 group-hover:text-white hover:text-gray-300 font-medium"
+                      className="whitespace-nowrap text-base mx-2 link-hover text-black group-hover:text-white hover:text-gray-300 font-medium"
                       target="_blank"
                       rel="noopener noreferrer"
                       href={edge.node.url}

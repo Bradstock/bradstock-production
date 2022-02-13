@@ -19,10 +19,10 @@ const Feature = ({ block }) => (
           }
         >
           <div class="column is-one-half">
-            {block.image && (
+            {block.feature_image && (
               <img
                 alt={block.title}
-                srcSet={block.image.childImageSharp.fluid.srcSet}
+                srcSet={block.feature_image.childImageSharp.fluid.srcSet}
               />
             )}
           </div>

@@ -49,6 +49,9 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: { maxWidth: 800 },
           },
+          {
+            plugins: [`gatsby-remark-responsive-iframe`],
+          },
         ],
       },
     },

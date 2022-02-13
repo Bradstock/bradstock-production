@@ -37,6 +37,10 @@ class BlocksTemplate extends React.Component {
               return <Hero block={block} />
             case 'textarea':
               return <TextArea block={block} />
+            case 'iframe':
+              return <Iframe block={block} />
+            case 'Image':
+              return <Image block={block} />
             default:
               return ''
           }
@@ -65,6 +69,13 @@ export const pageQuery = graphql`
         blocks {
           component
           image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
+          feature_image {
             childImageSharp {
               fluid(maxWidth: 800) {
                 srcSet
