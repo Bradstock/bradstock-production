@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 
-const TextArea = ({ block }) => (
+const TestArea = ({ block }) => (
   <section>
       <div className="max-w-5xl mx-auto ">
       <ReactMarkdown children={block.text_area} allowDangerousHtml />
@@ -9,4 +9,4 @@ const TextArea = ({ block }) => (
   </section>
 )
 
-export default TextArea
+export default TestArea
