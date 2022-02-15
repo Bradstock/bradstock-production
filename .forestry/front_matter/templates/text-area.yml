@@ -16,4 +16,3 @@ fields:
     schema:
       format: markdown
   hidden: false
-  label: Text Area
