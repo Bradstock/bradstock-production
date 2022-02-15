@@ -15,4 +15,4 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  hidden: false
+  label: Text Area
