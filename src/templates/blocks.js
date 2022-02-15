@@ -40,7 +40,7 @@ class BlocksTemplate extends React.Component {
               return <Cta block={block} />
             case 'hero':
               return <Hero block={block} />
-            case 'textarea':
+            case 'text_area':
               return <TextArea block={block} />
             case 'iframe':
               return <Iframe block={block} />
