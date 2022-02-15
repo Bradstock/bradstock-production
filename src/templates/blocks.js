@@ -46,6 +46,8 @@ class BlocksTemplate extends React.Component {
               return <Iframe block={block} />
             case 'Image':
               return <Image block={block} />
+            case 'Button':
+              return <Button block={block} />
             default:
               return ''
           }
@@ -80,7 +82,6 @@ export const pageQuery = graphql`
               }
             }
           }
-          
           title
           subtitle
           content
