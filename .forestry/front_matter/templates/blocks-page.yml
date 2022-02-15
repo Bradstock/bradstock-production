@@ -18,7 +18,7 @@ fields:
   - feature
   - 3col
   - cta
-  - Text Area
+  - text-area
   - image
   - iframe
   - button
