@@ -19,7 +19,6 @@ fields:
   - 3col
   - cta
   - text_area
-  - test_area
   - image
   - iframe
   - button

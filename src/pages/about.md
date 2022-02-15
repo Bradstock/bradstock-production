@@ -8,9 +8,8 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: ''
-- template: textarea
-  component: textarea
-  text_area: |-
+- template: text_area
+  textarea: |-
     ![](/images/henry-be-IicyiaPYGGI-unsplash.jpg)
 
     * bullet

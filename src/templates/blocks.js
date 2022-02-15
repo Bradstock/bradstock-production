@@ -8,7 +8,7 @@ import Layout from '../components/layout'
 // import blocks
 import ThreeCol from '../components/blocks/3col'
 import Feature from '../components/blocks/feature'
-import Cta from '../components/blocks/cta'
+import CTA from '../components/blocks/cta'
 import Hero from '../components/blocks/hero'
 import TextArea from '../components/blocks/text-area'
 import Image from '../components/blocks/image'
@@ -37,16 +37,16 @@ class BlocksTemplate extends React.Component {
             case 'feature':
               return <Feature block={block} />
             case 'cta':
-              return <Cta block={block} />
+              return <CTA block={block} />
             case 'hero':
               return <Hero block={block} />
             case 'text_area':
               return <TextArea block={block} />
             case 'iframe':
               return <Iframe block={block} />
-            case 'Image':
+            case 'image':
               return <Image block={block} />
-            case 'Button':
+            case 'button':
               return <Button block={block} />
             default:
               return ''
@@ -74,6 +74,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         blocks {
+          textarea
           component
           image {
             childImageSharp {
@@ -87,7 +88,6 @@ export const pageQuery = graphql`
           content
           orientation
           background
-          text_area
           background_image {
             childImageSharp {
               fluid(maxWidth: 800) {
