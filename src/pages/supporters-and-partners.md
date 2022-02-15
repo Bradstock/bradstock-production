@@ -12,5 +12,10 @@ blocks:
   position: Center
   image: "/images/tie-dye.jpg"
   alt: tidy
+- template: button
+  button_type: External
+  button:
+    label: text
+    url: google.com
 
 ---
