@@ -7,5 +7,10 @@ blocks:
   background: transparent
   title: ''
   subtitle: ''
+  background_image: ''
+- template: image
+  position: Center
+  image: "/images/tie-dye.jpg"
+  alt: tidy
 
 ---
