@@ -8,3 +8,7 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: ''
+- template: text-area
+  text_area: ''
+
+---
