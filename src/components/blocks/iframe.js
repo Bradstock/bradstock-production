@@ -10,6 +10,7 @@ const Iframe = ({ block }) => (
         height="400"
         frameBorder="0"
         className='mx-auto my-4'
+        title='iframe'
         >
             Browser not compatible. Use this <a href={block.url} target="blank">Link </a> instead.
         </iframe>
