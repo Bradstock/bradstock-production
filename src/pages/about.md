@@ -16,6 +16,7 @@ blocks:
 - template: iframe
   component: iframe
   url: https://docs.google.com/forms/u/2/d/1z00GamjBufEHfKqI_tXPQmBMtMvc58cD4slvx1-sKiQ/edit?usp=forms_home&ths=true
+  iframe_height: '2488'
 - template: button
   component: button
   button_type: External
