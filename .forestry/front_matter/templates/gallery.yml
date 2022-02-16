@@ -1,0 +1,33 @@
+---
+label: Gallery
+hide_body: true
+fields:
+- name: gallery_field_group
+  type: field_group_list
+  fields:
+  - name: gallery_image
+    type: file
+    config:
+      maxSize: 64
+    label: Gallery Image
+  - name: alt
+    type: text
+    config:
+      required: true
+      min: 5
+    label: Alt
+  - name: image_info
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Image Info
+    description: optional image description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Gallery Field Group
