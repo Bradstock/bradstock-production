@@ -22,7 +22,7 @@ class BlocksTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const siteDescription = post.excerpt
-    // console.log(this.props)
+    console.log(this.props)
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet
@@ -30,6 +30,7 @@ class BlocksTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
+        {/* switch statmetn with the component name -> the hidden block */}
         {post.frontmatter.blocks.map(block => {
           switch (block.component) {
             case '3col':
@@ -74,7 +75,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         blocks {
-          textarea
           component
           image {
             childImageSharp {
@@ -86,6 +86,7 @@ export const pageQuery = graphql`
           title
           subtitle
           content
+          text_area
           orientation
           background
           background_image {

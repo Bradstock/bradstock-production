@@ -2,6 +2,11 @@
 label: Iframe
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: iframe
 - name: url
   type: text
   config:

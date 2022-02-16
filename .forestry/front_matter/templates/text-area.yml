@@ -2,6 +2,11 @@
 label: Text Area
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: text_area
 - name: text_area
   type: textarea
   default: ''
