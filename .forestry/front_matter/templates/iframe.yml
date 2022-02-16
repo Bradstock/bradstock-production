@@ -12,4 +12,11 @@ fields:
   config:
     required: false
   label: URL
-  description: enter the form url
+  description: enter the form url, if using a google form make sure to get the correct
+    embed code which will allow urls to be embedded in the site. this should also
+    come with height.
+- name: iframe_height
+  type: text
+  config:
+    required: false
+  label: Iframe Height
