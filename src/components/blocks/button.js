@@ -15,7 +15,7 @@ const Button = ({ block }) => (
           }
           href={block.button.url}
         >
-          {block.button.text}
+          {block.button.label}
         </a>
       </div>
   </section>

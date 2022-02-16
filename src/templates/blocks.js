@@ -87,6 +87,7 @@ export const pageQuery = graphql`
           subtitle
           content
           text_area
+          url
           orientation
           background
           background_image {
@@ -106,7 +107,9 @@ export const pageQuery = graphql`
           button {
             url
             text
+            label
           }
+          button_type
           col1 {
             title
             content

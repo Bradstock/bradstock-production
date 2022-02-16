@@ -15,7 +15,7 @@ blocks:
   alt: COLORED WATER
 - template: iframe
   component: iframe
-  url: https://docs.google.com/forms/u/2/d/1z00GamjBufEHfKqI_tXPQmBMtMvc58cD4slvx1-sKiQ/edit?usp=forms_home&ths=true
+  url: https://docs.google.com/forms/d/e/1FAIpQLSc18-HVB6fFYp4GM68q97M5TfxxBLvhBBx2k533gb6jxxu70w/viewform?embedded=true
 - template: button
   component: button
   button_type: External
