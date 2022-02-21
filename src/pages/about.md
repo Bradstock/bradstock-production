@@ -41,6 +41,11 @@ blocks:
     than ourselves. The Chiefs presented a check for $3,000 to Island Harvest at this
     year’s Platinum Party.  \n We are confident that the Circle of Chiefs moves forward
     in a manner befitting the labor that we expend. **_May the circle be unbroken._**"
+- template: image
+  component: image
+  position: Left
+  image: "/images/masaaki-komori-z8tqv3ykqd4-unsplash.jpg"
+  alt: flowers
 - template: text-area
   component: text_area
   text_area: "## Our History\n\nOver Labor Day weekend in 1994, several friends from
@@ -80,10 +85,5 @@ blocks:
   button:
     label: label
     url: google.com
-- template: image
-  component: image
-  position: Left
-  image: "/images/masaaki-komori-z8tqv3ykqd4-unsplash.jpg"
-  alt: flowers
 
 ---
