@@ -4,10 +4,10 @@ template: blocks
 blocks:
 - template: hero
   component: hero
-  background: dark
+  background: transparent
   title: Bradstock
   subtitle: subtitle
-  background_image: "/images/bsxxi-tie-dye.jpg"
+  background_image: "/images/pawel-czerwinski-XLUuAayDyHs-unsplash.jpg"
 - template: feature
   component: feature
   feature_image: "/images/bsxxi-tie-dye4.jpg"
