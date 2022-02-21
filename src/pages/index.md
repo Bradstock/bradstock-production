@@ -85,5 +85,10 @@ blocks:
     1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in
     their exact original form, accompanied by English versions from the 1914 translation
     by H. Rackham.\n\n## Where can I get some?"
+- template: image
+  component: image
+  position: Center
+  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
+  alt: paint
 
 ---
