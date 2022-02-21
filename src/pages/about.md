@@ -80,5 +80,10 @@ blocks:
   button:
     label: label
     url: google.com
+- template: image
+  component: image
+  position: Left
+  image: "/images/masaaki-komori-z8tqv3ykqd4-unsplash.jpg"
+  alt: flowers
 
 ---
