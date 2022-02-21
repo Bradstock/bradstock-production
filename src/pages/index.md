@@ -13,19 +13,19 @@ blocks:
   feature_image: "/images/bsxxi-tie-dye4.jpg"
   background: primary
   orientation: normal
-  title: title the dye
+  title: title the dye (feature)
   content: ''
 - template: feature
   component: feature
   background: dark
   orientation: reverse
-  title: Title
+  title: Title feature 2
   content: Content
   image: "/images/forestry-instant-preview.png"
   feature_image: "/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 - template: 3col
   component: 3col
-  title: table
+  title: table 3col
   col1:
     title: Content
     content: Content
