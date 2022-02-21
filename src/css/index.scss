@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @import "variables.scss";
-@import "bulma";
+// @import "bulma"; 
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&display=swap');
 // font-family: 'IBM Plex Sans Thai Looped', sans-serif;
@@ -17,8 +17,17 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;500&display=swap');
 // font-family: 'JetBrains Mono', monospace;
 
+a {
+    text-decoration: none !important;
+}
 
+a:hover{
+    text-decoration: underline !important;
+}
 
+button{
+    outline: none !important;
+}
 // .link-text{
 //     color: rgb(228, 228, 228);
 // }
@@ -34,12 +43,12 @@
 html 
 {
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
-
 }
 
 body{
-    margin-left: auto;
-    margin-right: auto;
+    color: #414141 !important;
+    margin: unset;
+
     // width: 100vh;
 }
 
@@ -77,4 +86,3 @@ body{
 .block-feature img {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
-// blog end

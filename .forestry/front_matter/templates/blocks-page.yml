@@ -21,6 +21,7 @@ fields:
   - text-area
   - image
   - iframe
+  - gallery
   - button
 pages:
 - src/pages/about.md

@@ -13,6 +13,7 @@ import Hero from '../components/blocks/hero'
 import TextArea from '../components/blocks/text-area'
 import Image from '../components/blocks/image'
 import Iframe from '../components/blocks/iframe'
+import Gallery from '../components/blocks/gallery'
 import Button from '../components/blocks/button'
 
 
@@ -49,6 +50,8 @@ class BlocksTemplate extends React.Component {
               return <Image block={block} />
             case 'button':
               return <Button block={block} />
+            case 'gallery':
+              return <Gallery block={block} />
             default:
               return ''
           }
@@ -83,11 +86,13 @@ export const pageQuery = graphql`
               }
             }
           }
+          
           title
           subtitle
           content
           text_area
           url
+          iframe_height
           orientation
           background
           background_image {
