@@ -28,15 +28,18 @@ blocks:
   title: table 3col
   col1:
     title: Content
-    content: Content
+    content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam.
     image: ''
   col2:
     title: Content
-    content: Content
+    content: 'eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
+      vitae dicta sunt explicabo. '
     image: ''
   col3:
     title: Content
-    content: Content
+    content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+      fugit, sed quia consequuntur magni.
     image: ''
 - template: cta
   component: cta
