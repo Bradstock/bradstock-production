@@ -7,7 +7,7 @@ blocks:
   background: primary
   title: About Us
   subtitle: ''
-  background_image: ''
+  background_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
 - template: image
   component: image
   position: Left
