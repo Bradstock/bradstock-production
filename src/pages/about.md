@@ -13,16 +13,6 @@ blocks:
   position: Left
   image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
   alt: COLORED WATER
-- template: iframe
-  component: iframe
-  url: https://docs.google.com/forms/d/e/1FAIpQLSc18-HVB6fFYp4GM68q97M5TfxxBLvhBBx2k533gb6jxxu70w/viewform?embedded=true
-  iframe_height: '2488'
-- template: button
-  component: button
-  button_type: External
-  button:
-    label: label
-    url: google.com
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
@@ -56,5 +46,11 @@ blocks:
     than ourselves. The Chiefs presented a check for $3,000 to Island Harvest at this
     year’s Platinum Party.  \n We are confident that the Circle of Chiefs moves forward
     in a manner befitting the labor that we expend. **_May the circle be unbroken._**"
+- template: button
+  component: button
+  button_type: External
+  button:
+    label: label
+    url: google.com
 
 ---
