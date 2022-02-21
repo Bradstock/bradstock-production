@@ -5,7 +5,8 @@ blocks:
 - template: hero
   component: hero
   background: transparent
-  title: ''
+  title: Archive
   subtitle: ''
+  background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 
 ---
