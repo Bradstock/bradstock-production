@@ -8,11 +8,6 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
-- template: image
-  component: image
-  position: Right
-  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
-  alt: COLORED WATER
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
@@ -46,11 +41,6 @@ blocks:
     than ourselves. The Chiefs presented a check for $3,000 to Island Harvest at this
     year’s Platinum Party.  \n We are confident that the Circle of Chiefs moves forward
     in a manner befitting the labor that we expend. **_May the circle be unbroken._**"
-- template: image
-  component: image
-  position: Left
-  image: "/images/masaaki-komori-z8tqv3ykqd4-unsplash.jpg"
-  alt: flowers
 - template: text-area
   component: text_area
   text_area: "## Our History\n\nOver Labor Day weekend in 1994, several friends from
