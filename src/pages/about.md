@@ -89,6 +89,7 @@ blocks:
   button_type: External
   button:
     label: label
-    url: google.com
+    url: https://www.google.com
+
 
 ---

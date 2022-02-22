@@ -46,9 +46,10 @@ blocks:
   background: primary
   title: Title
   subtitle: Content
+  button_type: External
   button:
-    url: google.com
-    text: Get Started
+    label: Get Started
+    url: https://www.google.com
 - template: text-area
   component: text_area
   text_area: "## What is Lorem Ipsum?\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*

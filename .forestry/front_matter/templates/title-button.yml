@@ -25,13 +25,33 @@ fields:
     - light
   label: Background
   default: transparent
-- type: field_group
-  name: button
-  label: Button
+- name: button
+  type: field_group
+  config: {}
   fields:
-  - type: text
-    name: url
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: url
+    type: text
+    config:
+      required: false
     label: URL
-  - type: text
-    name: text
-    label: Text
+  label: Button
+- name: button_type
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - Internal
+    - External
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Button Type
+  description: is the link external or internal

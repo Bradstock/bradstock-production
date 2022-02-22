@@ -111,7 +111,6 @@ export const pageQuery = graphql`
           }
           button {
             url
-            text
             label
           }
           button_type
