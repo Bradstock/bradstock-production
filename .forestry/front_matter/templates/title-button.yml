@@ -10,6 +10,8 @@ fields:
 - type: text
   name: title
   label: Title
+  config:
+    required: true
 - type: text
   name: subtitle
   label: Subtitle
@@ -32,13 +34,14 @@ fields:
   - name: label
     type: text
     config:
-      required: false
+      required: true
     label: Label
   - name: url
     type: text
     config:
-      required: false
+      required: true
     label: URL
+    description: if url is external, start with https:// part of address
   label: Button
 - name: button_type
   type: select
