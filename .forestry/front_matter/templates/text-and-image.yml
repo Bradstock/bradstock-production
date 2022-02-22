@@ -44,5 +44,6 @@ fields:
     options:
     - Image Left
     - Image Right
+    required: true
   label: Orientation
   default: Image Left
