@@ -14,13 +14,14 @@ class ListTemplate extends React.Component {
     const childPosts = this.props.pageContext.children
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      // TO DO: add blue bg to back of journal
+      <Layout location={this.props.location} title={siteTitle} >
         <Helmet
           htmlAttribute={{ lang: 'en' }}
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <section className="section box-shadow mx-auto pb-[6rem] bg-white max-w-7xl">
+        <section className="section box-shadow mx-auto pb-[6rem] pt-20 bg-white max-w-7xl">
           <div class="max-w-5xl mx-auto  article-header has-text-centered">
             <h1 class="title is-1">{post.frontmatter.title}</h1>
             <hr />

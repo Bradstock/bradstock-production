@@ -5,7 +5,7 @@ const PostList = ({ posts }) => (
   <section className="post-list">
     {posts.map(({ node }) => (
       <div key={node.fields.slug} className="post box">
-        <h2 className="subtitle is-3 is-marginless">
+        <h2 className="subtitle pt-8">
           {node.frontmatter.title}
         </h2>
         <p class="is-size-6">{node.frontmatter.date}</p>

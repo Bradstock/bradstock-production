@@ -18,5 +18,10 @@
         "type": "internal",
         "url": "/about",
         "title": "ABOUT"
+    },
+    {
+        "type": "internal",
+        "url": "/posts",
+        "title": "Journal"
     }
 ]
