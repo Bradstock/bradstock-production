@@ -24,6 +24,12 @@ fields:
   config:
     maxSize: 2
   label: TaI Image
+- name: alt
+  type: text
+  config:
+    required: true
+  label: Alt
+  description: add description
 - type: select
   name: background
   config:
