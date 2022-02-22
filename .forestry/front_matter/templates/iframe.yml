@@ -10,7 +10,7 @@ fields:
 - name: url
   type: text
   config:
-    required: false
+    required: true
   label: URL
   description: enter the form url, if using a google form make sure to get the correct
     embed code which will allow urls to be embedded in the site. this should also
@@ -18,5 +18,5 @@ fields:
 - name: iframe_height
   type: text
   config:
-    required: false
+    required: true
   label: Iframe Height
