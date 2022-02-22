@@ -1,12 +1,12 @@
 ---
-label: cta
+label: Title Button
 hide_body: false
 display_field: title
 fields:
 - type: text
   name: component
   label: component
-  default: cta
+  default: title_button
 - type: text
   name: title
   label: Title

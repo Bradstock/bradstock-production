@@ -8,6 +8,11 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
+- template: image
+  component: image
+  position: Left
+  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
+  alt: paint
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
@@ -43,9 +48,9 @@ blocks:
     in a manner befitting the labor that we expend. **_May the circle be unbroken._**"
 - template: image
   component: image
-  position: Left
-  image: "/images/masaaki-komori-z8tqv3ykqd4-unsplash.jpg"
-  alt: flowers
+  position: Right
+  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
+  alt: paint
 - template: text-area
   component: text_area
   text_area: "## Our History\n\nOver Labor Day weekend in 1994, several friends from

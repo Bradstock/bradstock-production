@@ -17,7 +17,7 @@ fields:
   - hero
   - feature
   - 3col
-  - cta
+  - title-button
   - text-area
   - image
   - iframe

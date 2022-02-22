@@ -4,7 +4,7 @@ import Column from './inc/column'
 
 const ThreeCol = ({ block }) => (
   <section>
-      <div className="max-w-5xl mx-auto py-10 section box-shadow">
+      <div className="max-w-5xl mx-auto py-10 my-8 section box-shadow">
         {block.title && (
           <>
           {/* todo: fix has-text-centered */}

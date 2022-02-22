@@ -22,12 +22,11 @@ render() {
     return (
       <Popover className="relative">
           <>
-          {/* button */}
           <div className="absolute top-2 ml-5 ">
             <Popover.Button
               className={classNames(
                 // open ? 'text-gray-900' : 'text-gray-500',
-                'border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-base text-black link-hover font-medium hover:text-gray-400 group-hover:text-white'
+                'border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-base text-white link-hover font-medium hover:text-gray-400 group-hover:text-white hover:underline'
               )}
             >
               <span>MENU</span>

@@ -8,7 +8,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'shadow': 'rgba(0, 0, 0, 0.536)'
+        'shadow': 'rgba(0, 0, 0, 0.536)',
+        'primary': 'rgb(211, 196, 174)',
+        'light': 'rgb(209, 209, 209)',
+        'dark': 'rgb(31, 21, 21)',
       },
       maxWidth: { 
         '6/7': '90%',

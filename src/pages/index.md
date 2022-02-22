@@ -41,8 +41,8 @@ blocks:
     content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
       fugit, sed quia consequuntur magni.
     image: ''
-- template: cta
-  component: cta
+- template: title-button
+  component: title_button
   background: primary
   title: Title
   subtitle: Content
@@ -87,7 +87,7 @@ blocks:
     by H. Rackham.\n\n## Where can I get some?"
 - template: image
   component: image
-  position: Center
+  position: Right
   image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
   alt: paint
 

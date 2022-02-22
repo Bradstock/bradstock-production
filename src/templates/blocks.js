@@ -8,7 +8,7 @@ import Layout from '../components/layout'
 // import blocks
 import ThreeCol from '../components/blocks/3col'
 import Feature from '../components/blocks/feature'
-import CTA from '../components/blocks/cta'
+import TitleButton from '../components/blocks/title-button'
 import Hero from '../components/blocks/hero'
 import TextArea from '../components/blocks/text-area'
 import Image from '../components/blocks/image'
@@ -38,8 +38,8 @@ class BlocksTemplate extends React.Component {
               return <ThreeCol block={block} />
             case 'feature':
               return <Feature block={block} />
-            case 'cta':
-              return <CTA block={block} />
+            case 'title_button':
+              return <TitleButton block={block} />
             case 'hero':
               return <Hero block={block} />
             case 'text_area':
@@ -79,6 +79,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         blocks {
           component
+          position
           image {
             childImageSharp {
               fluid(maxWidth: 800) {
@@ -86,7 +87,6 @@ export const pageQuery = graphql`
               }
             }
           }
-          
           title
           subtitle
           content
