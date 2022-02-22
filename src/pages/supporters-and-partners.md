@@ -7,6 +7,6 @@ blocks:
   background: transparent
   title: Partners and Supporters
   subtitle: Thank You for your support
-  background_image: "/images/BSxxi tie dye.jpg"
+  background_image: "/images/pawel-czerwinski-NR7ZrUuVB3Q-unsplash.jpg"
 
 ---
