@@ -23,9 +23,9 @@ blocks:
   content: Content
   image: "/images/forestry-instant-preview.png"
   feature_image: "/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
-- template: 3col
-  component: 3col
-  title: table 3col
+- template: table
+  component: table
+  title: table
   col1:
     title: Content
     content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

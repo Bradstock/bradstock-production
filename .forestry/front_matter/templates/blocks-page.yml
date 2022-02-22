@@ -16,7 +16,7 @@ fields:
   template_types:
   - hero
   - feature
-  - 3col
+  - table
   - title-button
   - text-area
   - image

@@ -2,7 +2,7 @@ import React from 'react'
 
 import Column from './inc/column'
 
-const ThreeCol = ({ block }) => (
+const Table = ({ block }) => (
   <section>
       <div className="max-w-5xl mx-auto py-10 my-8 section box-shadow">
         {block.title && (
@@ -27,4 +27,4 @@ const ThreeCol = ({ block }) => (
   </section>
 )
 
-export default ThreeCol
+export default Table

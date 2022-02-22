@@ -6,7 +6,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/layout'
 
 // import blocks
-import ThreeCol from '../components/blocks/3col'
+import Table from '../components/blocks/table'
 import Feature from '../components/blocks/feature'
 import TitleButton from '../components/blocks/title-button'
 import Hero from '../components/blocks/hero'
@@ -34,8 +34,8 @@ class BlocksTemplate extends React.Component {
         {/* switch statmetn with the component name -> the hidden block */}
         {post.frontmatter.blocks.map(block => {
           switch (block.component) {
-            case '3col':
-              return <ThreeCol block={block} />
+            case 'table':
+              return <Table block={block} />
             case 'feature':
               return <Feature block={block} />
             case 'title_button':
