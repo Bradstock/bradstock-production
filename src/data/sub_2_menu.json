@@ -1,32 +1,32 @@
 [
-    {
-        "type": "internal",
-        "url": "/logistics",
-        "title": "Camping"
-    },
-    {
-        "type": "internal",
-        "url": "/eats",
-        "title": "Eats"
-    },
-    {
-        "type": "internal",
-        "url": "/logistics",
-        "title": "Directions"
-    },
-    {
-        "type": "internal",
-        "url": "/logistics",
-        "title": "Parking"
-    },
-    {
-        "type": "internal",
-        "url": "/logistics",
-        "title": "Accessibility"
-    },
-    {
-        "type": "internal",
-        "url": "/logistics",
-        "title": "Camp Pa Qua Tuck"
-    }
+  {
+    "type": "external",
+    "url": "/logistics",
+    "title": "Camping"
+  },
+  {
+    "type": "internal",
+    "url": "/eats",
+    "title": "Eats"
+  },
+  {
+    "type": "internal",
+    "url": "/logistics",
+    "title": "Directions"
+  },
+  {
+    "type": "internal",
+    "url": "/logistics",
+    "title": "Parking"
+  },
+  {
+    "type": "internal",
+    "url": "/logistics",
+    "title": "Accessibility"
+  },
+  {
+    "type": "internal",
+    "url": "/logistics",
+    "title": "Camp Pa Qua Tuck"
+  }
 ]

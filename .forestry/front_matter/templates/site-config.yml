@@ -2,11 +2,6 @@
 label: Site Config
 hide_body: false
 fields:
-# - name: pathPrefix
-#   label: Pathprefix
-#   type: text
-#   hidden: false
-#   default: ''
 - type: select
   name: type
   config:
