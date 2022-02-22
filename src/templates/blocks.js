@@ -17,7 +17,7 @@ import Gallery from '../components/blocks/gallery'
 import Button from '../components/blocks/button'
 
 
-
+// test
 class BlocksTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
