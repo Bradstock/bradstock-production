@@ -14,13 +14,14 @@ fields:
   - name: label
     type: text
     config:
-      required: false
+      required: true
     label: Label
   - name: url
     type: text
     config:
-      required: false
+      required: true
     label: URL
+    description: Must use the entire url including https:// if using an external link
   label: Button
 - name: button_type
   type: select
