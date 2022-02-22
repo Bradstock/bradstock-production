@@ -24,6 +24,7 @@ fields:
       options:
       - internal
       - external
+      required: true
     label: Type
     default: internal
   hidden: false
