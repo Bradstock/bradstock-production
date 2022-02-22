@@ -42,7 +42,7 @@ fields:
     source:
       type: simple
     options:
-    - normal
-    - reverse
+    - Image Left
+    - Image Right
   label: Orientation
   default: normal
