@@ -1,5 +1,5 @@
 ---
-label: feature
+label: Text And Image
 hide_body: false
 display_field: title
 fields:
@@ -7,7 +7,7 @@ fields:
   name: component
   label: component
   hidden: true
-  default: feature
+  default: text_and_image
 - type: text
   name: title
   label: Title
@@ -19,11 +19,11 @@ fields:
     schema:
       format: html
 - type: file
-  name: feature_image
+  name: tai_image
   default: "/images/gatsby-astronaut.png"
   config:
     maxSize: 2
-  label: Feature Image
+  label: TaI Image
 - type: select
   name: background
   config:
@@ -45,4 +45,4 @@ fields:
     - Image Left
     - Image Right
   label: Orientation
-  default: normal
+  default: Image Left

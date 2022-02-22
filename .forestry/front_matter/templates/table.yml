@@ -1,5 +1,5 @@
 ---
-label: 3col
+label: Table
 hide_body: false
 display_field: title
 fields:
@@ -7,7 +7,7 @@ fields:
   name: component
   label: component
   hidden: true
-  default: 3col
+  default: table
 - type: text
   name: title
   label: Title

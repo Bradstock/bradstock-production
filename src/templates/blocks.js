@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 
 // import blocks
 import Table from '../components/blocks/table'
-import Feature from '../components/blocks/feature'
+import TextAndImage from '../components/blocks/text-and-image'
 import TitleButton from '../components/blocks/title-button'
 import Hero from '../components/blocks/hero'
 import TextArea from '../components/blocks/text-area'
@@ -36,8 +36,8 @@ class BlocksTemplate extends React.Component {
           switch (block.component) {
             case 'table':
               return <Table block={block} />
-            case 'feature':
-              return <Feature block={block} />
+            case 'text-and-image':
+              return <TextAndImage block={block} />
             case 'title_button':
               return <TitleButton block={block} />
             case 'hero':
@@ -102,7 +102,7 @@ export const pageQuery = graphql`
               }
             }
           }
-          feature_image {
+          tai_image {
             childImageSharp {
               fluid(maxWidth: 800) {
                 srcSet
