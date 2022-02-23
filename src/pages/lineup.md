@@ -5,9 +5,9 @@ blocks:
 - template: hero
   component: hero
   background: transparent
-  title: ''
+  title: Lineup
   subtitle: ''
-  background_image: ''
+  background_image: "/images/pawel-czerwinski-aMPfitH2tT0-unsplash.jpg"
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/gatsby-astronaut.png"
