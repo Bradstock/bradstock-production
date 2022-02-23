@@ -29,6 +29,7 @@ pages:
 - src/pages/artists.md
 - src/pages/eats.md
 - src/pages/index.md
+- src/pages/lineup.md
 - src/pages/logistics.md
 - src/pages/social-conscience.md
 - src/pages/supporters-and-partners.md
