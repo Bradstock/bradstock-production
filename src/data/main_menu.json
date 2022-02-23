@@ -1,27 +1,27 @@
 [
-    {
-        "type": "internal",
-        "url": "/",
-        "title": "HOME"
-    },
-    {
-        "type": "internal",
-        "url": "/tickets",
-        "title": "TICKETS"
-    },
-    {
-        "type": "internal",
-        "url": "/archive",
-        "title": "ARCHIVE"
-    },
-    {
-        "type": "internal",
-        "url": "/about",
-        "title": "ABOUT"
-    },
-    {
-        "type": "internal",
-        "url": "/posts",
-        "title": "Journal"
-    }
+  {
+    "type": "internal",
+    "url": "/",
+    "title": "HOME"
+  },
+  {
+    "type": "internal",
+    "url": "/tickets",
+    "title": "TICKETS"
+  },
+  {
+    "type": "internal",
+    "url": "/archive",
+    "title": "ARCHIVE"
+  },
+  {
+    "type": "internal",
+    "url": "/about",
+    "title": "ABOUT"
+  },
+  {
+    "type": "internal",
+    "url": "/posts",
+    "title": "Logbook"
+  }
 ]
