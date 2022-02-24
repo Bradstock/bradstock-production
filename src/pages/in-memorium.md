@@ -6,6 +6,9 @@ blocks:
   gallery_field_group:
   - gallery_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
     alt: Flowers
-    image_info: image description
+    image_info: |-
+      ### Image Title
+
+      Image Description
 
 ---
