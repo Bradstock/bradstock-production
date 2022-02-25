@@ -36,7 +36,7 @@ class BlocksTemplate extends React.Component {
           switch (block.component) {
             case 'table':
               return <Table block={block} />
-            case 'text-and-image':
+            case 'text_and_image':
               return <TextAndImage block={block} />
             case 'title_button':
               return <TitleButton block={block} />

@@ -7,6 +7,14 @@ blocks:
   background: primary
   title: About Us
   subtitle: ''
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/gatsby-astronaut.png"
+  background: primary
+  orientation: Image Left
+  title: Text and image
+  content: content
+  alt: astrochefk
   background_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
 - template: image
   component: image

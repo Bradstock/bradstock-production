@@ -5,7 +5,6 @@ import { Link } from 'gatsby'
 
 const Button = ({ block }) => (
   <section>
-    {console.log(block)}
       <div className="w-full flex justify-center float-center">
       {
         block.button_type === 'Internal' ? (
