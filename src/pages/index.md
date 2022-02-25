@@ -42,7 +42,7 @@ blocks:
   orientation: Image Left
   title: Text and image
   content: content
-  alt: astrochef
+  alt: astrochefk
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/forestry-instant-preview.png"
