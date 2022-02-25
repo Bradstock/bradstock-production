@@ -8,21 +8,6 @@ blocks:
   title: Bradstock
   subtitle: subtitle
   background_image: "/images/pawel-czerwinski-XLUuAayDyHs-unsplash.jpg"
-- template: text_and_image
-  component: text_and_image
-  tai_image: "/images/bsxxi-tie-dye4.jpg"
-  background: primary
-  orientation: Image Right
-  title: title the dye (text_and_image)
-  content: ''
-- template: text_and_image
-  component: text_and_image
-  background: dark
-  orientation: Image Left
-  title: Title text_and_image 2
-  content: Content
-  image: "/images/forestry-instant-preview.png"
-  tai_image: "/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 - template: table
   component: table
   title: table

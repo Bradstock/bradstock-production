@@ -91,6 +91,17 @@ export const pageQuery = graphql`
           subtitle
           content
           text_area
+          gallery_field_group {
+            gallery_image{
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  srcSet
+                }
+              }
+            }
+            alt
+            image_info
+          }
           url
           iframe_height
           orientation
