@@ -7,20 +7,7 @@ blocks:
   background: primary
   title: About Us
   subtitle: ''
-- template: text-and-image
-  component: text_and_image
-  tai_image: "/images/gatsby-astronaut.png"
-  background: primary
-  orientation: Image Left
-  title: Text and image
-  content: content
-  alt: astrochefk
-  background_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
-- template: image
-  component: image
-  position: Left
-  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
-  alt: paint
+  background_image: ''
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
@@ -98,6 +85,5 @@ blocks:
   button:
     label: label
     url: https://www.google.com
-
 
 ---
