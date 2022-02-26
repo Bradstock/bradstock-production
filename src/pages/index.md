@@ -26,23 +26,6 @@ blocks:
     content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
       fugit, sed quia consequuntur magni.
     image: ''
-- template: title-button
-  component: title_button
-  background: primary
-  title: Title
-  subtitle: Content
-  button_type: External
-  button:
-    label: Get Started
-    url: https://www.google.com
-- template: text-and-image
-  component: text_and_image
-  tai_image: "/images/gatsby-astronaut.png"
-  background: primary
-  orientation: Image Left
-  title: Text and image
-  content: content
-  alt: astrochefk
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/forestry-instant-preview.png"
