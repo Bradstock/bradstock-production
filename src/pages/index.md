@@ -102,5 +102,12 @@ blocks:
   position: Right
   image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
   alt: paint
+- template: video
+  orientation: Vertical
+  url: https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fossie.elkins%2Fvideos%2F3570471376311129%2F&show_text=false&width=560&t=0"
+  title: Bradstock Vid
+  subtitle: subtitle
+- template: gallery
+  gallery_field_group: []
 
 ---
