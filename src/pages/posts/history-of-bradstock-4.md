@@ -4,7 +4,6 @@ date: 2022-01-20
 
 ---
 
-<!-- ![](/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg) -->
 
 Last  year we celebrated 24 years of Bradstock magic and hearkened back 50 years to 1967 -  The Summer of Love.  And isn't that really the magic ingredient that propels our Circle of Chiefs year after year? Love. Community. Music. XXIV attendees were treated to a performance by none other than Tom Constanten, former Grateful Dead keyboardist, who with his band Live Dead 69 brought that San Francisco vibe to Center Moriches. Mother Nature once again had us on pins and needles as Saturday night's howling winds had us hold our breaths on what Sunday would bring.  Sunshine poured down and XXIV gloriously played on right up to the Electrix's second encore to close out the festival with a homage to the passing of Chuck Berry – Johnny B. Goode!
 

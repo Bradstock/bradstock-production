@@ -23,6 +23,7 @@ fields:
   - iframe
   - gallery
   - button
+  - video
 pages:
 - src/pages/about.md
 - src/pages/archive.md

@@ -28,7 +28,7 @@ blocks:
     image: ''
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/forestry-instant-preview.png"
+  tai_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
   background: light
   orientation: Image Right
   alt: alt

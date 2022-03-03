@@ -20,7 +20,7 @@ fields:
       format: html
 - type: file
   name: tai_image
-  default: "/images/gatsby-astronaut.png"
+  default: "/images/pawel-czerwinski-NR7ZrUuVB3Q-unsplash.jpg"
   config:
     maxSize: 2
   label: TaI Image

@@ -7,6 +7,6 @@ blocks:
   background: transparent
   title: Social Conscience
   subtitle: Be the change that you wish to see in the world.
-  background_image: "/images/forestry-instant-preview.png"
+  background_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
 
 ---

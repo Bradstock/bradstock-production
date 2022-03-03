@@ -4,7 +4,6 @@ date: 2022-01-02
 
 ---
 
-<!-- ![](/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg) -->
 
 Every end is a new beginning. With guidance provided by our own KC Cowan, Bradstock packed up its bags and arrived at beautiful Camp Pa-Qua-Tuck  (a camp whose mission for the past 60 years has been to provide a summer camp experience for children with physical challenges. We thank our hosts the Rotary Club of Center Moriches and salute them for their success in carrying out such an excellent program). 
 

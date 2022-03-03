@@ -15,6 +15,8 @@ import Image from '../components/blocks/image'
 import Iframe from '../components/blocks/iframe'
 import Gallery from '../components/blocks/gallery'
 import Button from '../components/blocks/button'
+import Video from '../components/blocks/video'
+
 
 
 // test
@@ -52,6 +54,8 @@ class BlocksTemplate extends React.Component {
               return <Button block={block} />
             case 'gallery':
               return <Gallery block={block} />
+            case 'video':
+              return <Video block={block} />
             default:
               return ''
           }
