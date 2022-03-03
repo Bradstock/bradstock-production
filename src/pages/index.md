@@ -108,6 +108,18 @@ blocks:
   title: Bradstock Vid
   subtitle: subtitle
 - template: gallery
-  gallery_field_group: []
+  gallery_field_group:
+  - gallery_image: "/images/raimond-klavins-bSSjxQzrlNA-unsplash.jpg"
+    alt: alt6kjh
+    image_info: ''
+  - gallery_image: "/images/rodion-kutsaev-pVoEPpLw818-unsplash.jpg"
+    alt: altlkjn
+    image_info: ''
+  - gallery_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
+    alt: jhgjhb
+    image_info: ''
+  - gallery_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
+    alt: kjhbjbn
+    image_info: jhbjbjhb
 
 ---
