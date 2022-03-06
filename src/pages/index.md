@@ -7,7 +7,7 @@ blocks:
   background: transparent
   title: Bradstock
   subtitle: subtitle
-  background_image: "/images/pawel-czerwinski-XLUuAayDyHs-unsplash.jpg"
+  background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
 - template: table
   component: table
   title: table
