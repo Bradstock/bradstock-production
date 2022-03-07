@@ -2,6 +2,11 @@
 label: Video
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: video
 - name: url
   type: text
   config:

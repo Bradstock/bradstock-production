@@ -2,6 +2,11 @@
 label: Gallery
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: gallery
 - name: gallery_field_group
   type: field_group_list
   fields:

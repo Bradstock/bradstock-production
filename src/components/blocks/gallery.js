@@ -1,10 +1,32 @@
 import React from 'react'
+import ReactMarkdown from 'react-markdown'
 
 const Gallery = ({ block }) => (
-  <section
-    className='flex justify-center'
-  >
-        {console.log(block)}
+  <section>
+        {console.log(block.gallery_field_group)}
+  {/* map */}
+
+                  
+  <div className="bg-white w-full mx-auto py-12 px-4 max-w-[90%]">
+          <div
+            className="grid grid-cols-4 gap-4"
+          >
+              {block.gallery_field_group.map((chunk)=> (
+                <div>
+                  <h2>{chunk.title}</h2>
+                    <img
+                      alt={chunk.alt}
+                      className="object-cover shadow-lg rounded-lg max-w-full"
+                      srcSet={chunk.gallery_image.childImageSharp.fluid.srcSet}
+                      />
+                    <div className="text-lg leading-6 font-medium space-y-1">
+                      <ReactMarkdown children={chunk.image_info} allowDangerousHtml></ReactMarkdown>
+                    </div>
+                  </div>
+            ))}
+        </div>
+    </div>
+      
   </section>
 
   )

@@ -8,9 +8,9 @@ const PostList = ({ posts }) => (
         <h2 className="subtitle pt-8">
           {node.frontmatter.title}
         </h2>
-        <p class="is-size-6">{node.frontmatter.date}</p>
+        <p className="is-size-6">{node.frontmatter.date}</p>
         <p>
-          <em class="">{node.excerpt}</em>
+          <em className="">{node.excerpt}</em>
         </p>
         <Link to={node.fields.slug}>Read More &raquo;</Link>
       </div>

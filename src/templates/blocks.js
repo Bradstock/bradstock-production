@@ -25,7 +25,7 @@ class BlocksTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const siteDescription = post.excerpt
-    console.log(this.props)
+    // console.log(this.props)
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet

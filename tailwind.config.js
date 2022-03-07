@@ -14,12 +14,14 @@ module.exports = {
         'dark': 'rgb(31, 21, 21)',
       },
       maxWidth: { 
+        '1/4': '35%',
         '6/7': '90%',
     },
     },
   },
   plugins: [
     require('@tailwindcss/typography'),
+    require('@tailwindcss/aspect-ratio'),
   ],
 
 }

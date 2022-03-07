@@ -97,17 +97,14 @@ blocks:
     Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham.\n\n## Where can I get some?"
-- template: image
-  component: image
-  position: Right
-  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
-  alt: paint
 - template: video
-  orientation: Vertical
-  url: https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fossie.elkins%2Fvideos%2F3570471376311129%2F&show_text=false&width=560&t=0"
+  component: video
+  orientation: Horizontal
+  url: https://www.youtube.com/embed/2-wrfPu3gnc
   title: Bradstock Vid
   subtitle: subtitle
 - template: gallery
+  component: gallery
   gallery_field_group:
   - gallery_image: "/images/raimond-klavins-bSSjxQzrlNA-unsplash.jpg"
     alt: alt6kjh

@@ -62,6 +62,10 @@ footer{
     position: relative;
     min-height: 90vh;
 }
+
+.hero-shadow{
+    box-shadow: 0 0 15px 30px rgba(255, 255, 255, 0.4);
+}
 // menu colors
 // TODO: make this tailwinds
 .text-cyan-600{
