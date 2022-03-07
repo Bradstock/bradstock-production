@@ -41,6 +41,11 @@ blocks:
     than ourselves. The Chiefs presented a check for $3,000 to Island Harvest at this
     year’s Platinum Party.  \n We are confident that the Circle of Chiefs moves forward
     in a manner befitting the labor that we expend. **_May the circle be unbroken._**"
+- template: image
+  component: image
+  position: Right
+  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
+  alt: paint
 - template: title-button
   component: title_button
   background: transparent
@@ -50,5 +55,4 @@ blocks:
     url: "/posts"
   title: 'Check out more of our story '
   subtitle: Click below to see more of the beginnings of Bradstock.
-
 ---

@@ -14,6 +14,7 @@ import TextArea from '../components/blocks/text-area'
 import Image from '../components/blocks/image'
 import Iframe from '../components/blocks/iframe'
 import Gallery from '../components/blocks/gallery'
+import Tag from '../components/blocks/tag'
 import Button from '../components/blocks/button'
 import Video from '../components/blocks/video'
 
@@ -56,6 +57,8 @@ class BlocksTemplate extends React.Component {
               return <Gallery block={block} />
             case 'video':
               return <Video block={block} />
+            case 'tag':
+            return <Tag block={block} />
             default:
               return ''
           }
