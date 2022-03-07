@@ -7,7 +7,7 @@ blocks:
   background: primary
   title: About Us
   subtitle: ''
-  background_image: "/images/1233166_499890960094060_1886180335_o.jpg"
+  background_image: ''
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
