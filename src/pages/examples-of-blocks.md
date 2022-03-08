@@ -1,0 +1,72 @@
+---
+template: blocks
+title: Examples of Blocks
+blocks:
+- template: hero
+  component: hero
+  background: transparent
+  title: 'Hero '
+  subtitle: Hero has a subtitle and background image
+  background_image: ''
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/pawel-czerwinski-NR7ZrUuVB3Q-unsplash.jpg"
+  background: dark
+  orientation: Image Right
+  title: Text and Image
+  content: 'content has an image and text in two columns<br><br>you can change the
+    background colour of the text<br><br>and the position of the image to the right
+    or left '
+  alt: Bubbles
+- template: table
+  component: table
+  title: Table
+  col1:
+    title: col 1
+    content: Has text and image options
+    image: "/images/logo-good-steer.png"
+  col2:
+    title: col 2
+    content: content
+    image: "/images/41984dd6a3327c2e96ed-1536x552.png"
+  col3:
+    title: col 3
+    content: content
+    image: "/images/pqt-logo.png"
+- template: title-button
+  component: title_button
+  background: dark
+  button_type: External
+  title: Title Button
+  subtitle: has a button and title option, must choose whether the link is internal
+    or external
+  button:
+    label: Label
+    url: https://www.google.com
+- template: text-area
+  component: text_area
+  text_area: "## text area\n\ncan do a ton of stuff with the wisywig editor\n\n![Alt](/images/1268877_502150969868059_1409849511_o.jpg
+    \"Title\")\n\n# Image\n\n#####  \n\ncan choose Center which is big \n\nor left
+    and right \n\nwhich are smaller"
+- template: image
+  component: image
+  position: Center
+  image: "/images/1270557_504084633008026_916297456_o.jpg"
+  alt: face
+- template: iframe
+  component: iframe
+  url: https://www.lipsum.com/feed/html
+  iframe_height: '1000'
+- template: gallery
+  component: gallery
+  gallery_field_group: []
+- template: button
+  component: button
+  button_type: External
+  button:
+    label: Button Example
+    url: https://www.google.com
+- template: tag
+  tag: tag
+
+---
