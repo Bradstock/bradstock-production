@@ -156,7 +156,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
-  tag: Accessibility
+  tag: accessibility
 - template: text-area
   component: text_area
   text_area: "# Accessibility\n\n## \n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*
@@ -193,7 +193,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
-  tag: Camp Pa Qua Tuck
+  tag: camp
 - template: text-area
   component: text_area
   text_area: "## Camp pa qua tuk\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n*
