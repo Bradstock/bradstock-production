@@ -10,7 +10,7 @@ blocks:
   background_image: ''
 - template: table
   component: table
-  title: Ticketing
+  title: Festival Admission
   col1:
     title: 1 Day Ticket
     image: ''
