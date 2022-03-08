@@ -21,7 +21,7 @@ blocks:
     content: ''
   col3:
     image: ''
-    title: ''
+    title: 'Platinum Ticket '
     content: ''
 
 ---
