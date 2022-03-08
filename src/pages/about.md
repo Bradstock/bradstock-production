@@ -7,11 +7,6 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: ''
-- template: image
-  component: image
-  position: Right
-  image: "/images/jacob-capener-Xza_TAAZ46I-unsplash.jpg"
-  alt: paint
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
