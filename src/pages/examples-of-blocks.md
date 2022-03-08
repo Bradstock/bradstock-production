@@ -54,6 +54,9 @@ blocks:
   image: "/images/1270557_504084633008026_916297456_o.jpg"
   alt: face
   image_center_width: 25%
+- template: text-area
+  component: text_area
+  text_area: "## Iframe \n\nuse a url and choose a height"
 - template: iframe
   component: iframe
   url: https://www.lipsum.com/feed/html
