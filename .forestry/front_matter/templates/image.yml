@@ -34,7 +34,7 @@ fields:
   type: select
   default: N/A
   config:
-    required: true
+    required: false
     options:
     - N/A
     - 25%

@@ -4,7 +4,7 @@ title: Examples of Blocks
 blocks:
 - template: hero
   component: hero
-  background: transparent
+  background: ''
   title: 'Hero '
   subtitle: Hero has a subtitle and background image
   background_image: ''
@@ -53,6 +53,7 @@ blocks:
   position: Center
   image: "/images/1270557_504084633008026_916297456_o.jpg"
   alt: face
+  image_center_width: 25%
 - template: iframe
   component: iframe
   url: https://www.lipsum.com/feed/html
