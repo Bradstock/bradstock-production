@@ -29,7 +29,24 @@ fields:
       file: 
       path: 
   label: Position
-  description: Choose the size and position of image on page
+  description: Choose the position of image on page
+- name: Center Image Width
+  type: select
+  default: N/A
+  config:
+    required: true
+    options:
+    - N/A
+    - 25%
+    - 50%
+    - 75%
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Center Width
+  description: Choose the size if using center image
 - name: alt
   type: text
   config:
