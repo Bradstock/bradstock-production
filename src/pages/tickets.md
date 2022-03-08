@@ -29,7 +29,7 @@ blocks:
   col2:
     title: 'Camp- Add On '
     image: ''
-    content: ''
+    content: "$40 per camper (21 &amp; older)<br>"
   col1:
     image: ''
     title: ''
