@@ -7,7 +7,7 @@ blocks:
   background: ''
   title: 'Hero '
   subtitle: Hero has a subtitle and background image
-  background_image: ''
+  background_image: "/images/pawel-czerwinski-av06lm42mvo-unsplash.jpg"
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/pawel-czerwinski-NR7ZrUuVB3Q-unsplash.jpg"
