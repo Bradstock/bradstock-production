@@ -49,3 +49,7 @@ If you are publishing the site to a subdirectory, such as GitHub pages, you will
 ## Limitations
 
 The build will fail if there isn't at least 1 instance of a given front matter value used in your content. For example, if every markdown file had an empty `date` field, the build would fail because `frontmatter.date` is referenced in the graphQL queries for the page templates. (If anyone knows a way to query front matter without this limitation, I'd love to hear about it - post an issue!)
+
+# test
+package.json
+    "test": "echo \"Error: no test specified\" && exit 1"
