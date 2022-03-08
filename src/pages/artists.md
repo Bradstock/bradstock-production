@@ -7,7 +7,10 @@ blocks:
   background: transparent
   title: Artists
   subtitle: Apply to be an artist at Bradstock
-  background_image: "/images/raimond-klavins-bSSjxQzrlNA-unsplash.jpg"
+  background_image: "/images/14203139_1097232923693191_1748357548291967710_n.jpg"
+- template: text-area
+  component: text_area
+  text_area: "# this is a \n\n#### test"
 - template: iframe
   component: iframe
   url: https://docs.google.com/forms/d/e/1FAIpQLSeuw9kU54-ThSJc470RzMYOGAaeYk1Tgzh-XXm4X1Ppeoy_mw/viewform?embedded=true

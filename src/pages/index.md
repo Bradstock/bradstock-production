@@ -55,10 +55,9 @@ blocks:
 - template: text-area
   component: text_area
   text_area: "## What is Lorem Ipsum?\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*
-    sdfj\n* sdf\n\n> \n>\n> ![](/images/sonika-agarwal-h_g83u1vl0s-unsplash.jpg)t
-    has survived not only five centuries, but also the leap into electronic typesetting,\n\n1.
-    \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n   t has
-    survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
+    sdfj\n* sdf\n\n> as survived not only five centuries, but also the leap into electronic
+    typesetting,\n\n1. \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n
+    \  t has survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
     Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
     has been the industry's standard dummy text ever since the 1500s, when an unknown
     printer took a galley of type and scrambled it to make a type specimen book. It
