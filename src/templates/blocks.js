@@ -113,6 +113,13 @@ export const pageQuery = graphql`
           iframe_height
           orientation
           background
+          image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
           background_image {
             childImageSharp {
               fluid(maxWidth: 800) {
