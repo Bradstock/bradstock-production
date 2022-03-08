@@ -4,7 +4,6 @@ title: Vendors
 blocks:
 - template: hero
   component: hero
-  background: transparent
   title: Vendors
   subtitle: Apply to be a Vendor
   background_image: "/images/sharon-mccutcheon-bnkKG5cRTJ4-unsplash.jpg"

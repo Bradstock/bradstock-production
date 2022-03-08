@@ -4,7 +4,6 @@ title: Logistics
 blocks:
 - template: hero
   component: hero
-  background: transparent
   title: Logistics
   subtitle: All the info about your visit
   background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"

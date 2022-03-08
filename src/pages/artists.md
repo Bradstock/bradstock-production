@@ -4,7 +4,6 @@ title: Artists
 blocks:
 - template: hero
   component: hero
-  background: transparent
   title: Artists
   subtitle: Apply to be an artist at Bradstock
   background_image: "/images/14203139_1097232923693191_1748357548291967710_n.jpg"

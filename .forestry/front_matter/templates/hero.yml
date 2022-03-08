@@ -14,18 +14,6 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
-- type: select
-  name: background
-  config:
-    source:
-      type: simple
-    options:
-    - transparent
-    - primary
-    - light
-    - dark
-  label: Background
-  default: transparent
 - name: background_image
   type: file
   config:

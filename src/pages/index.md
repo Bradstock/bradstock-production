@@ -4,7 +4,6 @@ template: blocks
 blocks:
 - template: hero
   component: hero
-  background: transparent
   title: Bradstock
   subtitle: subtitle
   background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
