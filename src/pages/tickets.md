@@ -23,5 +23,20 @@ blocks:
     image: ''
     title: 'Platinum Ticket '
     content: ''
+- template: table
+  component: table
+  title: 'Camping '
+  col2:
+    title: 'Camp- Add On '
+    image: ''
+    content: ''
+  col1:
+    image: ''
+    title: ''
+    content: ''
+  col3:
+    image: ''
+    title: ''
+    content: ''
 
 ---
