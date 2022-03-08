@@ -1,6 +1,6 @@
 ---
 template: blocks
-title: Lineup
+title: Lineups
 blocks:
 - template: hero
   component: hero
