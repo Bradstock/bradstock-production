@@ -46,8 +46,8 @@ blocks:
 - template: text-area
   component: text_area
   text_area: "## text area\n\ncan do a ton of stuff with the wisywig editor\n\n![Alt](/images/1268877_502150969868059_1409849511_o.jpg
-    \"Title\")\n\n# Image\n\n#####  \n\ncan choose Center which is big \n\nor left
-    and right \n\nwhich are smaller"
+    \"Title\")\n\n# Image\n\n##### \n\ncan choose Center and then the width 25% 50%
+    or 75%\n\nor left and right\n\nwhich are smaller"
 - template: image
   component: image
   position: Center
