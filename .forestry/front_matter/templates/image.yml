@@ -30,7 +30,7 @@ fields:
       path: 
   label: Position
   description: Choose the position of image on page
-- name: Center Image Width
+- name: image_center_width
   type: select
   default: N/A
   config:
