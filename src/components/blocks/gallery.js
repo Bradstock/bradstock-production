@@ -9,7 +9,7 @@ const Gallery = ({ block }) => (
                   
   <div className="bg-white w-full mx-auto py-12 px-4 max-w-[90%]">
           <div
-            className="grid grid-cols-4 gap-4"
+            className="grid grid-cols-1 sm:grid-cols-2 sm:gap-2 md:grid-cols-3 md:gap-3 xl:grid-cols-4 xl:gap-4 "
           >
               {block.gallery_field_group.map((chunk)=> (
                 <div>

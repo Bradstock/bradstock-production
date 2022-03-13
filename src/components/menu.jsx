@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { graphql, StaticQuery } from 'gatsby'
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
@@ -12,6 +13,7 @@ import {
 import {
   faFacebook,
 } from '@fortawesome/free-brands-svg-icons'
+
 
 class Menu extends React.Component {
 
@@ -107,13 +109,22 @@ render() {
                         <div className=''>
                         {this.props.sub2.edges.map(edge => {
                           return edge.node.type === 'internal' ? (
-                            <Link
-                              key={edge.node.id}
-                              to={edge.node.url}
+                             edge.node.url.includes('#') ? (
+                              <AnchorLink 
+                              to={edge.node.url} 
+                              title={edge.node.title} 
                               className="list-item list-none text-4xl leading-[3rem] text-orange-300 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
-                            >
-                              {edge.node.title} 
-                            </Link> 
+                              
+                              />
+                             ) : (
+                              <Link
+                                key={edge.node.id}
+                                to={edge.node.url}
+                                className="list-item list-none text-4xl leading-[3rem] text-orange-300 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
+                              >
+                                {edge.node.title} 
+                              </Link> 
+                              )
                           ) : (
                             <a
                               key={edge.node.id}
@@ -134,13 +145,13 @@ render() {
                         <div className="justify-start my-4">
                           {this.props.mainMenu.edges.map(edge => {
                             return edge.node.type === 'internal' ? (
-                                <Link
+                                <a
                                   key={edge.node.id}
                                   to={edge.node.url}
                                   className="whitespace-nowrap text-2xl mx-2 text-gray-500 hover:text-gray-300 hover:underline"
                                 >
                                   {edge.node.title} 
-                                </Link> 
+                                </a> 
                               ) : (
                                 <a
                                   key={edge.node.id}

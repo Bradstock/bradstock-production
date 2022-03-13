@@ -8,6 +8,7 @@ blocks:
   subtitle: All the info about your visit
   background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
 - template: tag
+  component: tag
   tag: camping
 - template: text-area
   component: text_area
@@ -45,6 +46,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
+  component: tag
   tag: eats
 - template: text-area
   component: text_area
@@ -82,7 +84,8 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
-  tag: Directions
+  component: tag
+  tag: directions
 - template: text-area
   component: text_area
   text_area: "# Directions\n\n## \n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n*
@@ -119,6 +122,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
+  component: tag
   tag: parking
 - template: text-area
   component: text_area
@@ -156,6 +160,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
+  component: tag
   tag: accessibility
 - template: text-area
   component: text_area
@@ -193,6 +198,7 @@ blocks:
     are also reproduced in their exact original form, accompanied by English versions
     from the 1914 translation by H. Rackham."
 - template: tag
+  component: tag
   tag: camp
 - template: text-area
   component: text_area
