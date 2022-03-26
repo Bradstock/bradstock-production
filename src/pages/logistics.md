@@ -15,198 +15,81 @@ blocks:
   tai_image: "/images/10647046_679854022097752_2969450405587432375_n.jpg"
   background: primary
   orientation: Image Left
-  content: Camping
+  content: ''
   alt: Bradstock overhead view
-  title: ''
+  title: Camping
+- template: text-area
+  component: text_area
+  text_area: Camping Info here
 - template: tag
   component: tag
   tag: eats
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/pexels-photo-1533864.jpeg"
+  background: primary
+  orientation: Image Right
+  title: Eats
+  alt: Man drinking a beer from a glass boot
+  content: ''
 - template: text-area
   component: text_area
-  text_area: "## Eats\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n* sdf\n\n>
-    as survived not only five centuries, but also the leap into electronic typesetting,\n\n1.
-    \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n   t has
-    survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
-    Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-    has been the industry's standard dummy text ever since the 1500s, when an unknown
-    printer took a galley of type and scrambled it to make a type specimen book. It
-    has survived not only five centuries, but also the leap into electronic typesetting,
-    remaining essentially unchanged. It was popularised in the 1960s with the release
-    of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-    publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n##
-    Why do we use it?\n\nIt is a long established fact that a reader will be distracted
-    by the readable content of a page when looking at its layout. The point of using
-    Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-    to using 'Content here, content here', making it look like readable English. Many
-    desktop publishing packages and web page editors now use Lorem Ipsum as their
-    default model text, and a search for 'lorem ipsum' will uncover many web sites
-    still in their infancy. Various versions have evolved over the years, sometimes
-    by accident, sometimes on purpose (injected humour and the like).\n\n## Where
-    does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random
-    text. It has roots in a piece of classical Latin literature from 45 BC, making
-    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-    College in Virginia, looked up one of the more obscure Latin words, consectetur,
-    from a Lorem Ipsum passage, and going through the cites of the word in classical
-    literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good
-    and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-    ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem
-    ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard
-    chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
-    Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
-    are also reproduced in their exact original form, accompanied by English versions
-    from the 1914 translation by H. Rackham."
+  text_area: eats info
 - template: tag
   component: tag
   tag: directions
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/screen-shot-2022-03-26-at-3-18-46-pm.png"
+  background: primary
+  orientation: Image Left
+  title: Directions
+  alt: image of a map of camp Pa Qua Tuck
+  content: ''
 - template: text-area
   component: text_area
-  text_area: "# Directions\n\n## \n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n*
-    sdf\n\n> as survived not only five centuries, but also the leap into electronic
-    typesetting,\n\n1. \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n
-    \  t has survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
-    Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-    has been the industry's standard dummy text ever since the 1500s, when an unknown
-    printer took a galley of type and scrambled it to make a type specimen book. It
-    has survived not only five centuries, but also the leap into electronic typesetting,
-    remaining essentially unchanged. It was popularised in the 1960s with the release
-    of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-    publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n##
-    Why do we use it?\n\nIt is a long established fact that a reader will be distracted
-    by the readable content of a page when looking at its layout. The point of using
-    Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-    to using 'Content here, content here', making it look like readable English. Many
-    desktop publishing packages and web page editors now use Lorem Ipsum as their
-    default model text, and a search for 'lorem ipsum' will uncover many web sites
-    still in their infancy. Various versions have evolved over the years, sometimes
-    by accident, sometimes on purpose (injected humour and the like).\n\n## Where
-    does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random
-    text. It has roots in a piece of classical Latin literature from 45 BC, making
-    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-    College in Virginia, looked up one of the more obscure Latin words, consectetur,
-    from a Lorem Ipsum passage, and going through the cites of the word in classical
-    literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good
-    and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-    ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem
-    ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard
-    chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
-    Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
-    are also reproduced in their exact original form, accompanied by English versions
-    from the 1914 translation by H. Rackham."
+  text_area: directions info
 - template: tag
   component: tag
   tag: parking
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/cars.jpg"
+  background: primary
+  orientation: Image Right
+  title: Parking
+  alt: cars in a field
+  content: ''
 - template: text-area
   component: text_area
-  text_area: "## Parking\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n* sdf\n\n>
-    as survived not only five centuries, but also the leap into electronic typesetting,\n\n1.
-    \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n   t has
-    survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
-    Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-    has been the industry's standard dummy text ever since the 1500s, when an unknown
-    printer took a galley of type and scrambled it to make a type specimen book. It
-    has survived not only five centuries, but also the leap into electronic typesetting,
-    remaining essentially unchanged. It was popularised in the 1960s with the release
-    of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-    publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n##
-    Why do we use it?\n\nIt is a long established fact that a reader will be distracted
-    by the readable content of a page when looking at its layout. The point of using
-    Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-    to using 'Content here, content here', making it look like readable English. Many
-    desktop publishing packages and web page editors now use Lorem Ipsum as their
-    default model text, and a search for 'lorem ipsum' will uncover many web sites
-    still in their infancy. Various versions have evolved over the years, sometimes
-    by accident, sometimes on purpose (injected humour and the like).\n\n## Where
-    does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random
-    text. It has roots in a piece of classical Latin literature from 45 BC, making
-    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-    College in Virginia, looked up one of the more obscure Latin words, consectetur,
-    from a Lorem Ipsum passage, and going through the cites of the word in classical
-    literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good
-    and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-    ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem
-    ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard
-    chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
-    Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
-    are also reproduced in their exact original form, accompanied by English versions
-    from the 1914 translation by H. Rackham."
+  text_area: parking info
 - template: tag
   component: tag
   tag: accessibility
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/istock-1035083396-850x567.jpg"
+  background: primary
+  orientation: Image Left
+  title: Accessibility
+  content: Accessibility info
+  alt: Wheelchair accessible ramp
 - template: text-area
   component: text_area
-  text_area: "# Accessibility\n\n## \n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*
-    sdfj\n* sdf\n\n> as survived not only five centuries, but also the leap into electronic
-    typesetting,\n\n1. \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n
-    \  t has survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
-    Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-    has been the industry's standard dummy text ever since the 1500s, when an unknown
-    printer took a galley of type and scrambled it to make a type specimen book. It
-    has survived not only five centuries, but also the leap into electronic typesetting,
-    remaining essentially unchanged. It was popularised in the 1960s with the release
-    of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-    publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n##
-    Why do we use it?\n\nIt is a long established fact that a reader will be distracted
-    by the readable content of a page when looking at its layout. The point of using
-    Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-    to using 'Content here, content here', making it look like readable English. Many
-    desktop publishing packages and web page editors now use Lorem Ipsum as their
-    default model text, and a search for 'lorem ipsum' will uncover many web sites
-    still in their infancy. Various versions have evolved over the years, sometimes
-    by accident, sometimes on purpose (injected humour and the like).\n\n## Where
-    does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random
-    text. It has roots in a piece of classical Latin literature from 45 BC, making
-    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-    College in Virginia, looked up one of the more obscure Latin words, consectetur,
-    from a Lorem Ipsum passage, and going through the cites of the word in classical
-    literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good
-    and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-    ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem
-    ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard
-    chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
-    Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
-    are also reproduced in their exact original form, accompanied by English versions
-    from the 1914 translation by H. Rackham."
+  text_area: Accessibility info
 - template: tag
   component: tag
   tag: camp
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/dining-hall-camp-pa-qua-tuck.jpg"
+  background: primary
+  orientation: Image Right
+  title: Camp Pa Qua Tuck
+  alt: Camp pa qua tuck dining hall
+  content: ''
 - template: text-area
   component: text_area
-  text_area: "## Camp pa qua tuk\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n* sdfj\n*
-    sdf\n\n> as survived not only five centuries, but also the leap into electronic
-    typesetting,\n\n1. \n2. sodijfsd\n3. \\\\sdkjfhsdkjfh\n4. sdkfjhsdkjfh\n5. sdkfjhkjh\n\n
-    \  t has survived not only five centuries, but also the leap into electronic typesetting,\n\n**Lorem
-    Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-    has been the industry's standard dummy text ever since the 1500s, when an unknown
-    printer took a galley of type and scrambled it to make a type specimen book. It
-    has survived not only five centuries, but also the leap into electronic typesetting,
-    remaining essentially unchanged. It was popularised in the 1960s with the release
-    of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-    publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n##
-    Why do we use it?\n\nIt is a long established fact that a reader will be distracted
-    by the readable content of a page when looking at its layout. The point of using
-    Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-    to using 'Content here, content here', making it look like readable English. Many
-    desktop publishing packages and web page editors now use Lorem Ipsum as their
-    default model text, and a search for 'lorem ipsum' will uncover many web sites
-    still in their infancy. Various versions have evolved over the years, sometimes
-    by accident, sometimes on purpose (injected humour and the like).\n\n## Where
-    does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random
-    text. It has roots in a piece of classical Latin literature from 45 BC, making
-    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-    College in Virginia, looked up one of the more obscure Latin words, consectetur,
-    from a Lorem Ipsum passage, and going through the cites of the word in classical
-    literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good
-    and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-    ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem
-    ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard
-    chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
-    Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero
-    are also reproduced in their exact original form, accompanied by English versions
-    from the 1914 translation by H. Rackham."
+  text_area: Camp pa qua tuk info
 
 ---
