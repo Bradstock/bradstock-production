@@ -1,13 +1,21 @@
 import React from 'react'
 
 const TextAndImage = ({ block }) => (
+  
   <section
     className={
       block.background
-        ? `bg-${block.background}`
+        ? 
+        (
+          block.background === 'primary' ? 'bg-primary' :
+          block.background === 'light' ? 'bg-light' :
+          block.background === 'dark' ? 'bg-dark'
+          : 'bg-transparent'
+        ) 
         : 'bg-white'
     }
   >
+    {console.log(block.background)}
     <div className={
       block.orientation === 'Image Right'
       ? 'w-full flex flex-row-reverse'

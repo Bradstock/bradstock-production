@@ -3,7 +3,6 @@ import ReactMarkdown from 'react-markdown'
 
 const Gallery = ({ block }) => (
   <section>
-        {console.log(block.gallery_field_group)}
   {/* map */}
 
                   

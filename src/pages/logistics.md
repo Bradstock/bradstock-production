@@ -13,7 +13,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/10647046_679854022097752_2969450405587432375_n.jpg"
-  background: dark
+  background: light
   orientation: Image Left
   content: ''
   alt: Bradstock overhead view
@@ -41,7 +41,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/screen-shot-2022-03-26-at-3-18-46-pm.png"
-  background: primary
+  background: light
   orientation: Image Left
   title: Directions
   alt: image of a map of camp Pa Qua Tuck
@@ -55,7 +55,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/cars.jpg"
-  background: primary
+  background: light
   orientation: Image Right
   title: Parking
   alt: cars in a field
@@ -69,7 +69,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/istock-1035083396-850x567.jpg"
-  background: primary
+  background: light
   orientation: Image Left
   title: Accessibility
   content: Accessibility info
@@ -83,7 +83,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/dining-hall-camp-pa-qua-tuck.jpg"
-  background: primary
+  background: light
   orientation: Image Right
   title: Camp Pa Qua Tuck
   alt: Camp pa qua tuck dining hall
