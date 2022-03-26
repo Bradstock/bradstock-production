@@ -3,17 +3,17 @@ import React from 'react'
 const TextAndImage = ({ block }) => (
   
   <section
-    // className={
-    //   block.background
-    //     ? 
-    //     (
-    //       block.background === 'primary' ? 'bg-primary' :
-    //       block.background === 'light' ? 'bg-light' :
-    //       block.background === 'dark' ? 'bg-dark'
-    //       : 'bg-transparent'
-    //     ) 
-    //     : 'bg-white'
-    // }
+    className={
+      block.background
+        ? 
+        (
+          block.background === 'primary' ? 'bg-primary' :
+          block.background === 'light' ? 'bg-light' :
+          block.background === 'dark' ? 'bg-dark'
+          : 'bg-transparent'
+        ) 
+        : 'bg-white'
+    }
   >
     {console.log(block.background)}
     <div className={
