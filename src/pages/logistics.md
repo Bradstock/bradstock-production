@@ -14,7 +14,7 @@ blocks:
   component: text_and_image
   tai_image: "/images/10647046_679854022097752_2969450405587432375_n.jpg"
   background: light
-  orientation: Image Right
+  orientation: Image Left
   content: ''
   alt: Bradstock overhead view
   title: Camping
