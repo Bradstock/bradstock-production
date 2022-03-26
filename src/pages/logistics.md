@@ -13,7 +13,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/10647046_679854022097752_2969450405587432375_n.jpg"
-  background: primary
+  background: dark
   orientation: Image Left
   content: ''
   alt: Bradstock overhead view
@@ -27,7 +27,7 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/pexels-photo-1533864.jpeg"
-  background: primary
+  background: light
   orientation: Image Right
   title: Eats
   alt: Man drinking a beer from a glass boot
