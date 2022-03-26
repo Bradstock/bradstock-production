@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Vendors
   subtitle: Apply to be a Vendor
-  background_image: "/images/sharon-mccutcheon-bnkKG5cRTJ4-unsplash.jpg"
+  background_image: "/images/vending.jpg"
 - template: text-area
   component: text_area
   text_area: "## At vero eos et \n\nAccusamus et iusto odio dignissimos ducimus qui
