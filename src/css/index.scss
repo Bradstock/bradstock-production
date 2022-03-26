@@ -17,6 +17,9 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;500&display=swap');
 // font-family: 'JetBrains Mono', monospace;
 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400;1,500&display=swap');
+//     font-family: 'Playfair Display', serif;
+
 a {
     text-decoration: none !important;
 }
@@ -99,4 +102,48 @@ footer{
 
 .block-feature img {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+// tag button
+.sidebar-btns {
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    right: 10%;
+    z-index: 299;
+    cursor: pointer;
+    font-family: 'Playfair Display', serif;
+  }
+
+.scoll-btn-style {
+    display: none;
+
+	color:black;
+	padding-top:1.8em;
+	border-color:black;
+    background-color: transparent;
+    transition:all .3s ease-out;
+    border: none;
+}
+.scoll-btn-style:before{
+	content:'△';
+	font-size:1em;
+	position:absolute;
+	top:0;
+	left:50%;
+	margin-left:-.7em;
+	// border:solid .10em black;
+	// border-radius:10em;
+	width:1.6em;
+	height:1.6em;
+	line-height:1.45em;
+	border-color:inherit;
+	transition:transform .5s ease-in;
+}
+.scoll-btn-style:hover{
+	color:grey;
+	border-color:grey;
+}
+.scoll-btn-style:hover:before{
+	transform: rotate(360deg);
 }

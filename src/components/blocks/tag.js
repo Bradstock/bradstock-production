@@ -1,8 +1,9 @@
 import React from 'react'
 
 const Tag = ({ block }) => (
+ 
     <section>
-    <div id={block.tag}></div>
+      <div id={block.tag}></div>
     </section>
   )
   
