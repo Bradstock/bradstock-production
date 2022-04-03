@@ -1,7 +1,7 @@
 import React from 'react'
 
 const TextAndImage = ({ block }) => (
-  
+  // TODO: fix responsivness
   <section
     className={
       block.background

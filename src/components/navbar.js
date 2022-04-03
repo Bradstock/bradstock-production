@@ -32,7 +32,7 @@ class Navbar extends Component {
           >
             <Image
               src="logos/bradstock_logo.png"
-              className="w-52 mx-auto"
+              className="w-48 mx-auto mr-5 md:mr-0"
               alt="Logo Image"
               // style={{
               //   border: '10px solid green',

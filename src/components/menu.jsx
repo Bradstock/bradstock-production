@@ -28,7 +28,7 @@ render() {
             <Popover.Button
               className={classNames(
                 // open ? 'text-gray-900' : 'text-gray-500',
-                'border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-base text-white link-hover font-medium hover:text-gray-400 group-hover:text-white hover:underline'
+                'pt-5 md:pt-0 border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-base text-white link-hover font-medium hover:text-gray-400 group-hover:text-white hover:underline'
               )}
             >
               <span>MENU</span>
