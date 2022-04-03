@@ -15,6 +15,7 @@ fields:
   label: Blocks
   template_types:
   - hero
+  - home-hero
   - text-and-image
   - table
   - title-button
