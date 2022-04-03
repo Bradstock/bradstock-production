@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = ({ block }) => (
+const HomeHero = ({ block }) => (
   <section
     className="relative z-0 -mt-[7.75rem] min-h-[27rem]"
   >
@@ -32,4 +32,4 @@ const Hero = ({ block }) => (
   </section>
 )
 
-export default Hero
+export default HomeHero

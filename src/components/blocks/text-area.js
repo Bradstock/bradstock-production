@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 
-
+// TODO: fix responsive
 const TextArea = ({ block }) => (
   <section>
       <div className="max-w-5xl mx-auto my-10">

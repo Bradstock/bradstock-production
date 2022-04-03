@@ -10,6 +10,7 @@ import Table from '../components/blocks/table'
 import TextAndImage from '../components/blocks/text-and-image'
 import TitleButton from '../components/blocks/title-button'
 import Hero from '../components/blocks/hero'
+import HomeHero from '../components/blocks/home-hero'
 import TextArea from '../components/blocks/text-area'
 import Image from '../components/blocks/image'
 import Iframe from '../components/blocks/iframe'
@@ -78,6 +79,8 @@ class BlocksTemplate extends React.Component {
               return <TitleButton block={block} />
             case 'hero':
               return <Hero block={block} />
+            case 'home_hero':
+              return <HomeHero block={block} />
             case 'text_area':
               return <TextArea block={block} />
             case 'iframe':
