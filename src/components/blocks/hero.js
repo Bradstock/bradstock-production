@@ -2,10 +2,10 @@ import React from 'react'
 
 const Hero = ({ block }) => (
   <section
-    className="relative z-0 -mt-[7.75rem] min-h-[30rem]"
+    className="relative z-0 -mt-[7.75rem] min-h-[35rem]"
   >
 <div className="relative">
-      <div className="absolute min-h-[30rem] inset-0">
+      <div className="absolute min-h-[35rem] inset-0">
         {block.background_image && (
               <img
                 alt={block.title}
