@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Tickets
-  subtitle: Bradstock XXVIIII Tickets
+  subtitle: 2022 Bradstock XXIX Tickets
   background_image: "/images/42137701_1996072857142522_1535378618509688832_n-1.jpg"
 - template: text-area
   component: text_area
