@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: About Us
   subtitle: ''
-  background_image: ''
+  background_image: "/images/275557916_10227717602791643_7708293183269079265_n.jpg"
 - template: text-area
   component: text_area
   text_area: "## Our History\n\n  \n Over Labor Day weekend in 1994, several friends
