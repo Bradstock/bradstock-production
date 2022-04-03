@@ -2,6 +2,18 @@
 title: Home Page
 template: blocks
 blocks:
+- template: home-hero
+  home_hero_button:
+    button_type: Internal
+    label: Ticketing Info
+    url: "/tickets"
+  home_logo_image: "/images/favicon.png"
+  home_background_image: "/images/69545965_10220747432659754_3979473236252426240_n.jpg"
+  image_alt: Bradstock Icon with a skull and eagle
+  home_hero_text: |-
+    ## 2022 Bradstock Fest XXIX
+
+    #### September 3 - 4,  2022
 - template: hero
   component: hero
   title: Bradstock
