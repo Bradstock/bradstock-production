@@ -8,7 +8,7 @@ blocks:
     label: Ticketing Info
     url: "/tickets"
   home_logo_image: "/images/favicon.png"
-  home_background_image: "/images/69545965_10220747432659754_3979473236252426240_n.jpg"
+  home_background_image: "/images/70294698_10218011773384776_2128868387860774912_n.jpg"
   image_alt: Bradstock Icon with a skull and eagle
   home_hero_text: |-
     ## 2022 Bradstock Fest XXIX
