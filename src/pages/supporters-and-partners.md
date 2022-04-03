@@ -6,6 +6,6 @@ blocks:
   component: hero
   title: Partners and Supporters
   subtitle: Thank You for your support
-  background_image: "/images/69260461_10157393623378490_3641530769723097088_n.jpg"
+  background_image: "/images/tie-dye-g4d99d4073_1920.jpg"
 
 ---
