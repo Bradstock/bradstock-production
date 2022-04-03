@@ -4,9 +4,9 @@ title: Tickets
 blocks:
 - template: hero
   component: hero
-  title: 
-  subtitle: 
-  background_image: "/images/42137701_1996072857142522_1535378618509688832_n-1.jpg"
+  title: ''
+  subtitle: ''
+  background_image: "/images/ticket-hero-image.png"
 - template: text-area
   component: text_area
   text_area: "#### Proceeds from Bradstock ticketing cover festival operating costs
