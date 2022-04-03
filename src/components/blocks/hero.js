@@ -16,6 +16,11 @@ const Hero = ({ block }) => (
         <div className="absolute inset-0 bg-stone-200 mix-blend-multiply" aria-hidden="true" />
       </div>
       <div className="my-auto max-h-[25rem] max-w-[100%] md:max-w-[80%] pt-20 py-[5%] lg:pl-[10%] mx-auto lg:mx-0 relative text-center lg:text-left">
+        <div className={
+          block.title || block.subtitle 
+          ? 'block'
+          : 'hidden'
+        }>
         <div className='mx-8 px-8 py-0 rounded-2xl bg-white/40 hero-shadow max-w-full lg:max-w-3xl' >
           <h1 className="text-4xl font-extrabold text-gray-800 sm:text-5xl lg:text-6xl">
             {block.title}
@@ -26,7 +31,7 @@ const Hero = ({ block }) => (
           {block.subtitle}
           </p>
           </div>
-        
+          </div>
       </div>
     </div>
   </section>
