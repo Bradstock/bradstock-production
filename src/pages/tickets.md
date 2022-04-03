@@ -18,7 +18,7 @@ blocks:
   title: Festival Admission
   col1:
     title: 1 Day Ticket
-    image: ''
+    image: "/images/1.png"
     content: Good for one day entry Saturday OR Sunday - All Day Pass<br>Does not
       include Camping <br>21 &amp; Over
   col2:
