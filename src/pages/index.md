@@ -14,11 +14,6 @@ blocks:
     ## 2022 Bradstock Fest XXIX
 
     #### September 3 - 4,  2022
-- template: hero
-  component: hero
-  title: Bradstock
-  subtitle: subtitle
-  background_image: "/images/raimond-klavins-azwRXQgJvUI-unsplash.jpg"
 - template: table
   component: table
   title: table
