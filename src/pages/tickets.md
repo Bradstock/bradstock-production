@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Tickets
   subtitle: ''
-  background_image: ''
+  background_image: "/images/jene-stephaniuk-mcrf6hnoju-unsplash.jpg"
 - template: table
   component: table
   title: Festival Admission
