@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Tickets
   subtitle: 2022 Bradstock XXIX Tickets
-  background_image: "/images/42137701_1996072857142522_1535378618509688832_n-1.jpg"
+  background_image: "/images/ticket-hero-image.png"
 - template: text-area
   component: text_area
   text_area: "#### Proceeds from Bradstock ticketing cover festival operating costs
