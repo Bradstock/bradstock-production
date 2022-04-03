@@ -1,4 +1,9 @@
 ---
 label: Draft
 hide_body: true
-fields: []
+fields:
+- name: draft
+  type: boolean
+  label: Draft
+  description: Select if you want the page to be on the website or in editing mode
+  default: false
