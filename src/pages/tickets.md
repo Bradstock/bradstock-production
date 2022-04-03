@@ -27,9 +27,10 @@ blocks:
     content: Good for entry both days Saturday AND Sunday - All Day Pass<br>Does not
       include Camping <br>21 &amp; Over
   col3:
-    image: ''
+    image: "/images/3.png"
     title: 'Platinum Ticket '
-    content: ''
+    content: Good for one day entry Saturday OR Sunday - All Day Pass<br>Does not
+      include Camping <br>21 &amp; Over
 - template: table
   component: table
   title: 'Camping '
