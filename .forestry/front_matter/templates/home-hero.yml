@@ -1,4 +1,59 @@
 ---
 label: Home Hero
 hide_body: true
-fields: []
+fields:
+- name: home_logo_image
+  type: file
+  config:
+    maxSize: 64
+  label: Home Logo Image
+  description: logo for bradstock
+- name: home_background_image
+  type: file
+  config:
+    maxSize: 64
+  label: Home Background Image
+- name: image_alt
+  type: text
+  config:
+    required: false
+  label: Image Alt
+  description: alt for logo image
+- name: home_hero_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Home Hero Text
+- name: home_hero_button
+  type: field_group
+  config: {}
+  fields:
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: button_type
+    type: select
+    default: Internal
+    config:
+      required: true
+      options:
+      - Internal
+      - External
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Button Type
+  label: Home Hero Button
