@@ -45,9 +45,12 @@ blocks:
       to all ticket types</em>).<br>This is a per-person ticket applicable to adult
       campers (21 &amp; over) camping in a tent or a camper.<br>
   col1:
-    image: ''
-    title: ''
-    content: ''
+    image: "/images/4.png"
+    title: Camp- Add On ($40 per-person +tax/fee)
+    content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
+      purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
+      to all ticket types</em>).<br>This is a per-person ticket applicable to adult
+      campers (21 &amp; over) camping in a tent or a camper.
   col3:
     image: "/images/6.png"
     title: 'RV Parking Spot ($100)  '
