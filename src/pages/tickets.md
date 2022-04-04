@@ -24,15 +24,16 @@ blocks:
   col2:
     title: 2-Day Ticket
     image: "/images/2.png"
-    content: Good for entry both days Saturday AND Sunday - All Day Pass<br><br><em>Does
-      not include Camping <br>21 &amp; Over</em>
+    content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
+      Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
   col3:
     image: "/images/3.png"
     title: 'Platinum Ticket '
-    content: 'Good for entry both days Saturday AND Sunday - All Day Pass<br><em>Includes
-      Platinum Perks: </em> Back Stage access w/premium beers, Bradstock reusable
-      mug &amp; Platinum T-Shirt coupon to be redeemed during the festival (while
-      supplies last)<br><br>Does not include Camping<br>21 &amp; Over<em><br></em><br><br>'
+    content: 'Good for entry both days Saturday <strong>AND</strong> Sunday - All
+      Day Pass<br><em>Includes Platinum Perks: </em>Back Stage access w/premium beers,
+      Bradstock reusable mug &amp; Platinum T-Shirt coupon to be redeemed during the
+      festival (while supplies last)<br><br><em>Does not include Camping<br>21 &amp;
+      Over<br></em><br><br>'
 - template: table
   component: table
   title: 'Camping '
