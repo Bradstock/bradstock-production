@@ -53,12 +53,8 @@ blocks:
       to all ticket types</em>).<br>This is a per-person ticket applicable to adult
       campers (21 &amp; over) camping in a tent or a camper.
   col3:
-    image: "/images/6.png"
-    title: 'RV Parking Spot ($100)  '
-    content: "<strong><em>*** SOLD OUT for 2022 ***</em></strong><br><br>If you plan
-      to bring an RV to camp in Saturday <strong>AND/OR</strong> Sunday you must purchase
-      an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
-      Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
-      and they sell out fast.<br>"
+    image: ''
+    title: ''
+    content: ''
 
 ---
