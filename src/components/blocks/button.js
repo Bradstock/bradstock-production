@@ -7,7 +7,7 @@ const Button = ({ block }) => (
   <section>
       <div className="w-full flex justify-center float-center">
       {
-        block.button_type === 'Internal' ? (
+        block.button.button_type === 'Internal' ? (
           <Link
             to={block.button.url}
             className={

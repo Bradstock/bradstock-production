@@ -14,7 +14,7 @@ const TitleButton = ({ block }) => (
         {block.subtitle && <p className="flex justify-center">{block.subtitle}</p>}
       <div className="w-full flex justify-center float-center">
       {
-        block.button_type === 'Internal' ? (
+        block.button.button_type === 'Internal' ? (
           <Link
             to={block.button.url}
             className={
