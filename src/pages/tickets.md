@@ -28,7 +28,7 @@ blocks:
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
   col3:
     image: "/images/3.png"
-    title: 'Platinum Ticket '
+    title: Platinum Ticket ($135 +tax/fee)
     content: 'Good for entry both days Saturday <strong>AND</strong> Sunday - All
       Day Pass<br><em>Includes Platinum Perks: </em>Back Stage access w/premium beers,
       Bradstock reusable mug &amp; Platinum T-Shirt coupon to be redeemed during the
