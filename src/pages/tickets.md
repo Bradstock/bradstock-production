@@ -49,7 +49,7 @@ blocks:
     title: ''
     content: ''
   col3:
-    image: ''
+    image: "/images/6.png"
     title: ''
     content: ''
 
