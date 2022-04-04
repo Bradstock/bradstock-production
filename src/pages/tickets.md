@@ -24,8 +24,8 @@ blocks:
   col2:
     title: 2-Day Ticket
     image: "/images/2.png"
-    content: Good for entry both days Saturday AND Sunday - All Day Pass<br><br>Does
-      not include Camping <br>21 &amp; Over
+    content: Good for entry both days Saturday AND Sunday - All Day Pass<br><br><em>Does
+      not include Camping <br>21 &amp; Over</em>
   col3:
     image: "/images/3.png"
     title: 'Platinum Ticket '
