@@ -38,12 +38,13 @@ blocks:
   component: table
   title: 'Camping '
   col2:
-    title: Camp- Add On ($40 per-person +tax/fee)
-    image: "/images/4.png"
-    content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
-      purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
-      to all ticket types</em>).<br>This is a per-person ticket applicable to adult
-      campers (21 &amp; over) camping in a tent or a camper.<br>
+    title: 'RV Parking Spot ($100 +tax/fee)  '
+    image: "/images/6.png"
+    content: "<strong><em>*** SOLD OUT for 2022 ***</em></strong><br><br>If you plan
+      to bring an RV to camp in Saturday <strong>AND/OR</strong> Sunday you must purchase
+      an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
+      Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
+      and they sell out fast.<br>  "
   col1:
     image: "/images/4.png"
     title: Camp- Add On ($40 per-person +tax/fee)
@@ -57,7 +58,7 @@ blocks:
     content: "<strong><em>*** SOLD OUT for 2022 ***</em></strong><br><br>If you plan
       to bring an RV to camp in Saturday <strong>AND/OR</strong> Sunday you must purchase
       an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
-      Add-On ticket(s).  <br>NOTE: We have a very limited number of RV parking spots
+      Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
       and they sell out fast.<br>"
 
 ---
