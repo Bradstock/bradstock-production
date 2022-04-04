@@ -38,7 +38,7 @@ blocks:
   component: table
   title: 'Camping '
   col2:
-    title: Camp- Add On ($40 per-person)
+    title: Camp- Add On ($40 per-person +tax/fee)
     image: "/images/4.png"
     content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
