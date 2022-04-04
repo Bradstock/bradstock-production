@@ -22,7 +22,7 @@ blocks:
     content: Good for one day entry Saturday <strong>OR </strong>Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
   col2:
-    title: 2-Day Ticket
+    title: 2-Day Ticket ($100 +tax/fee)
     image: "/images/2.png"
     content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
