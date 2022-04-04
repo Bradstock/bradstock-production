@@ -34,7 +34,7 @@ fields:
     schema:
       format: markdown
   label: Home Hero Text
-- name: home_hero_button
+- name: button
   type: field_group
   config: {}
   fields:
@@ -62,4 +62,4 @@ fields:
         file: 
         path: 
     label: Button Type
-  label: Home Hero Button
+  label: Button
