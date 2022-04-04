@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: ''
   subtitle: ''
-  background_image: ''
+  background_image: "/images/ticket-hero-image.png"
 - template: text-area
   component: text_area
   text_area: "#### Proceeds from Bradstock ticketing cover festival operating costs
