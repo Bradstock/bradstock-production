@@ -19,7 +19,7 @@ blocks:
   col1:
     title: 1 Day Ticket
     image: "/images/1.png"
-    content: Good for one day entry Saturday OR Sunday - All Day Pass<br><br>Does
+    content: Good for one day entry<br>Saturday OR Sunday<br>All Day Pass<br><br>Does
       not include Camping <br>21 &amp; Over
   col2:
     title: 2-Day Ticket
