@@ -17,7 +17,7 @@ blocks:
   component: table
   title: Festival Admission
   col1:
-    title: 1 Day Ticket ($60)
+    title: 1 Day Ticket ($60 + tax/fee)
     image: "/images/1.png"
     content: Good for one day entry Saturday <strong>OR </strong>Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
