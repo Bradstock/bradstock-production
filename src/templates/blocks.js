@@ -180,11 +180,25 @@ export const pageQuery = graphql`
               }
             }
           }
+          home_logo_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
+          home_background_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
           button {
             url
             label
+            button_type
           }
-          button_type
           col1 {
             title
             content

@@ -36,13 +36,13 @@ blocks:
 - template: title-button
   component: title_button
   background: dark
-  button_type: External
   title: Title Button
   subtitle: has a button and title option, must choose whether the link is internal
     or external
   button:
     label: Label
     url: https://www.google.com
+    button_type: External
 - template: text-area
   component: text_area
   text_area: "## text area\n\ncan do a ton of stuff with the wisywig editor\n\n![Alt](/images/1268877_502150969868059_1409849511_o.jpg
@@ -66,10 +66,10 @@ blocks:
   gallery_field_group: []
 - template: button
   component: button
-  button_type: External
   button:
     label: Button Example
     url: https://www.google.com
+    button_type: External
 - template: tag
   tag: tag
 

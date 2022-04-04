@@ -41,20 +41,20 @@ fields:
     config:
       required: true
     label: URL
-    description: if url is external, start with https:// part of address
+    description: Must use the entire url including https:// if using an external link
+  - name: button_type
+    type: select
+    default: Internal
+    config:
+      required: true
+      options:
+      - Internal
+      - External
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Button Type
+    description: is the link external or internal
   label: Button
-- name: button_type
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - Internal
-    - External
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Button Type
-  description: is the link external or internal
