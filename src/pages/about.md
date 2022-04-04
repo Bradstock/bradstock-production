@@ -43,10 +43,10 @@ blocks:
 - template: title-button
   component: title_button
   background: transparent
-  button_type: Internal
   button:
     label: Logbook
     url: "/posts"
+    button_type: Internal
   title: 'Check out more of our story '
   subtitle: Click below to see more of the beginnings of Bradstock.
 
