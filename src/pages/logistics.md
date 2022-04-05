@@ -12,7 +12,7 @@ blocks:
   tag: camping
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/10647046_679854022097752_2969450405587432375_n.jpg"
+  tai_image: "/images/118888076_3716970208315761_1069899642486786127_n.jpg"
   background: light
   orientation: Image Left
   content: ''
