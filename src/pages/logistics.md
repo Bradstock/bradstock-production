@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Logistics
   subtitle: All the info about your visit
-  background_image: "/images/jene-stephaniuk-a4omfnoldua-unsplash.jpg"
+  background_image: "/images/69407088_10214795494380937_2574208616160559104_n.jpg"
 - template: tag
   component: tag
   tag: camping
