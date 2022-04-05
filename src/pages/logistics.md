@@ -32,7 +32,7 @@ blocks:
     & considerate Bradstock family."
 - template: tag
   component: tag
-  tag: eats
+  tag: Eats
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/pexels-photo-1533864.jpeg"
