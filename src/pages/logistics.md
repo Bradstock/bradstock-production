@@ -76,18 +76,23 @@ blocks:
   content: ''
 - template: text-area
   component: text_area
-  text_area: parking info
+  text_area: "We have limited parking at the Camp, so if you can car pool with friends
+    - we'd appreciate it.  As the parking filed fill up you may need to park on Montauk
+    Highway.  Please take care while parking and please be respectful of the team
+    helping with parking, they are doing their best. \n\nIf you require Handicapped
+    Parking please let the parking team know and they will direct you on where to
+    park.\n\n "
 - template: tag
   component: tag
   tag: accessibility
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/istock-1035083396-850x567.jpg"
+  tai_image: "/images/handicapped-access.png"
   background: light
   orientation: Image Left
   title: Accessibility
   content: Accessibility info
-  alt: Wheelchair accessible ramp
+  alt: Wheelchair Accessibility
 - template: text-area
   component: text_area
   text_area: Accessibility info
