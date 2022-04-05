@@ -95,7 +95,12 @@ blocks:
   alt: Wheelchair Accessibility
 - template: text-area
   component: text_area
-  text_area: Accessibility info
+  text_area: "Camp Pa Qua Tuck is a camp for children & adults with special needs
+    therefore you can get around Camp with a wheelchair or walker.\n\nBradstock has
+    a limited number of golf carts in regular circulation that can also assist those
+    needing help getting around.  Feel free to let one of our security guards or volunteer
+    staff know if you need assistance getting from here to there.  We will do our
+    best to help you get around ... you just may need to be patient with us.  "
 - template: tag
   component: tag
   tag: camp
@@ -109,6 +114,15 @@ blocks:
   content: ''
 - template: text-area
   component: text_area
-  text_area: Camp pa qua tuk info
+  text_area: |-
+    Camp Pa-Qua-Tuck – dedicated to the benefit of special needs individuals of Long Island and beyond – stands today, not from the efforts of one organization, but rather as a culmination of a tremendous wave of effort from many Rotary Clubs throughout District 7260.
+
+    Camp Pa-Qua-Tuck, The Moriches Rotary Health Camp, Inc., maintains a more than 70-year track record for making the dreams of individuals with disabilities a reality. Each year, we invite thousands of campers to enjoy a session of summer fun at our 37-acre site on the shores of Kaler’s Pond in Center Moriches.
+
+    At Camp Pa-Qua-Tuck, our campers experience the joys of boating, arts and crafts, music, adaptive sports and games, swimming, campfires and more. In a supportive environment, our counselors encourage campers to reach outside their comfort zones and join with their fellow campers in activities designed to enhance their lives.
+
+    Looking back on [our history](https://camppaquatuck.com/about-the-camp/camp-history/), Camp Pa-Qua-Tuck extends the deepest gratitude to the volunteers, Rotarians, community organizations and the Pa-Qua-Tuck Squaws who made our special camp possible. We would not exist today without your help.
+
+    For more information and to donate to the camp: [https://camppaquatuck.com/](https://camppaquatuck.com/ "https://camppaquatuck.com/")
 
 ---
