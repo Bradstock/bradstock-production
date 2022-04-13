@@ -27,6 +27,26 @@ fields:
       required: true
     label: Type
     default: internal
+  - name: text_color
+    type: select
+    default: text-cyan-600
+    config:
+      required: true
+      options:
+      - text-cyan-600
+      - text-emerald-600
+      - text-lime-500
+      - text-yellow-500
+      - text-pink-600
+      - text-rose-700
+      - text-amber-500
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Text Color
+    description: select a color
   hidden: false
   default: ''
   config:
