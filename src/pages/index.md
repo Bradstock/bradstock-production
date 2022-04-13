@@ -115,5 +115,23 @@ blocks:
   - gallery_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
     alt: kjhbjbn
     image_info: jhbjbjhb
+- template: table
+  component: table
+  title: ''
+  col1:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
+  col2:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
+  col3:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
 
 ---
