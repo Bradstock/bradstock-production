@@ -15,6 +15,7 @@ fields:
   showOnly:
     field: show_image
     value: true
+  default: "/images/favicon.png"
 - name: alt
   type: text
   config:
