@@ -22,12 +22,16 @@ blocks:
     alt: Bradstock Ticket info
     content: Good for one day entry Saturday <strong>OR </strong>Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
+    show_image: true
+    alt: Bradstock one day ticket rainbow with daisies
   col2:
     title: 2-Day Ticket ($100 +tax/fee)
     image: "/images/2.png"
     alt: Bradstock Ticket info
     content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
+    show_image: true
+    alt: Bradstock two day ticket rainbow with daisies
   col3:
     image: "/images/3.png"
     alt: Bradstock Ticket info
@@ -37,6 +41,8 @@ blocks:
       Bradstock reusable mug &amp; Platinum T-Shirt coupon to be redeemed during the
       festival (while supplies last)<br><br><em>Does not include Camping<br>21 &amp;
       Over<br></em><br><br>'
+    show_image: true
+    alt: Bradstock platinum ticket rainbow with daisies
 - template: table
   component: table
   title: 'Camping '
@@ -48,6 +54,8 @@ blocks:
       an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
       Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
       and they sell out fast.<br>  "
+    show_image: true
+    alt: RV Parking is sold out camper van
   col1:
     image: "/images/4.png"
     title: Camp- Add On ($40 per-person +tax/fee)
@@ -55,9 +63,13 @@ blocks:
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
       to all ticket types</em>).<br>This is a per-person ticket applicable to adult
       campers (21 &amp; over) camping in a tent or a camper.
+    show_image: true
+    alt: Camp- Add On tent with trees
   col3:
     image: ''
     title: ''
     content: ''
+    show_image: false
+    alt: ''
 
 ---
