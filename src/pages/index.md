@@ -15,30 +15,6 @@ blocks:
     button_type: Internal
     label: Ticketing Info
     url: "/tickets"
-- template: table
-  component: table
-  title: table
-  col1:
-    title: Content
-    content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam.
-    image: ''
-    alt: ''
-    show_image: false
-  col2:
-    title: Content
-    content: 'eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
-      vitae dicta sunt explicabo. '
-    image: ''
-    alt: ''
-    show_image: false
-  col3:
-    title: Content
-    content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-      fugit, sed quia consequuntur magni.
-    image: ''
-    alt: ''
-    show_image: false
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
@@ -47,30 +23,6 @@ blocks:
   alt: alt
   title: title
   content: text <br>text text
-- template: table
-  component: table
-  title: table
-  col1:
-    title: Content
-    content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam.
-    image: ''
-    alt: ''
-    show_image: false
-  col2:
-    title: Content
-    content: 'eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
-      vitae dicta sunt explicabo. '
-    image: ''
-    alt: ''
-    show_image: false
-  col3:
-    title: Content
-    content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-      fugit, sed quia consequuntur magni.
-    image: ''
-    alt: ''
-    show_image: false
 - template: text-area
   component: text_area
   text_area: "## What is Lorem Ipsum?\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*
@@ -127,5 +79,26 @@ blocks:
   - gallery_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
     alt: kjhbjbn
     image_info: jhbjbjhb
+- template: table
+  component: table
+  col1:
+    col_image: "/images/favicon.png"
+    show_image: false
+    alt: ''
+    title: ''
+    content: ''
+  col2:
+    col_image: "/images/favicon.png"
+    show_image: false
+    alt: ''
+    title: ''
+    content: ''
+  col3:
+    col_image: "/images/favicon.png"
+    show_image: false
+    alt: ''
+    title: ''
+    content: ''
+  title: ''
 
 ---
