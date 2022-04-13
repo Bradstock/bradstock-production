@@ -3,11 +3,11 @@ label: column
 hide_body: false
 display_field: title
 fields:
-- name: image
+- name: col_image
   type: file
   config:
     maxSize: 64
-  label: Image
+  label: Col Image
 - name: alt
   type: text
   config:

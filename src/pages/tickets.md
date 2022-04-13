@@ -19,15 +19,18 @@ blocks:
   col1:
     title: 1 Day Ticket ($60 + tax/fee)
     image: "/images/1.png"
+    alt: Bradstock Ticket info
     content: Good for one day entry Saturday <strong>OR </strong>Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
   col2:
     title: 2-Day Ticket ($100 +tax/fee)
     image: "/images/2.png"
+    alt: Bradstock Ticket info
     content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
       Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
   col3:
     image: "/images/3.png"
+    alt: Bradstock Ticket info
     title: Platinum Ticket ($135 +tax/fee)
     content: 'Good for entry both days Saturday <strong>AND</strong> Sunday - All
       Day Pass<br><em>Includes Platinum Perks: </em>Back Stage access w/premium beers,

@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import Helmet from 'react-helmet'
 // eslint-disable-next-line
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 
@@ -167,6 +167,13 @@ export const pageQuery = graphql`
               }
             }
           }
+          col_image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                srcSet
+              }
+            }
+          }
           background_image {
             childImageSharp {
               fluid(maxWidth: 800) {
@@ -201,16 +208,40 @@ export const pageQuery = graphql`
             button_type
           }
           col1 {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  srcSet
+                }
+              }
+            }
             title
             content
+            alt
           }
           col2 {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  srcSet
+                }
+              }
+            }
             title
             content
+            alt
           }
           col3 {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  srcSet
+                }
+              }
+            }
             title
             content
+            alt
           }
         }
       }
