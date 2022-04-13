@@ -15,7 +15,6 @@ const TextAndImage = ({ block }) => (
         : 'bg-white'
     }
   >
-    {console.log(block.background)}
     <div className={
       block.orientation === 'Image Right'
       ? 'w-full flex flex-row-reverse'

@@ -24,11 +24,11 @@ render() {
     return (
       <Popover className="relative">
           <>
-          <div className="absolute top-2 ml-5 ">
+          <div className="absolute top-2 ml-5">
             <Popover.Button
               className={classNames(
                 // open ? 'text-gray-900' : 'text-gray-500',
-                'pt-5 md:pt-0 border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-base text-white link-hover font-medium hover:text-gray-400 group-hover:text-white hover:underline'
+                'pt-5 md:pt-0 border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-lg text-white link-hover font-medium group-hover:text-white hover:underline'
               )}
             >
               <span>MENU</span>
@@ -51,12 +51,12 @@ render() {
               leaveFrom="opacity-100 translate-y-0"
               leaveTo="opacity-0 -translate-y-1"
             >
-              <Popover.Panel className="absolute min-h-[35rem] bg-white top-0 inset-x-0 z-10 shadow-lg box-border" >
+              <Popover.Panel className="absolute min-h-[35rem] bg-white top-0 inset-x-0 z-10 shadow-lg box-border bg-gradient-to-bl from-sky-400/30 via-rose-400/20 to-lime-400/30" >
                   <div className='lg:max-w-[135rem] sm:mx-[.5%] md:mx-[5%] xl:mx-[9%]'>
                     <div className='grid mx-4 my-6 sm:mx-6 md:mx-20'>
                     {/* ROW 1 */}
                       <div className='grid grid-cols-2'>
-                        <div className='flex justify-start items-center hover:text-green-200'>
+                        <div className='flex justify-start items-center hover:text-teal-400'>
                         <span className='text-2xl items-top mr-2'>&#10005;</span> CLOSE
                         </div>
                         <div className='flex justify-start'>
@@ -88,14 +88,14 @@ render() {
                               <Link
                                 key={edge.node.id}
                                 to={edge.node.url}
-                                className={`${edge.node.text_color} font-semibold list-item list-none text-3xl md:text-4xl md:leading-[3.2rem] lg:text-5xl lg:leading-[4.2rem] hover:text-green-300 hover:underline w-3/4`}
+                                className={`${edge.node.text_color} font-semibold list-item list-none text-3xl md:text-4xl md:leading-[3.2rem] lg:text-5xl lg:leading-[4.2rem] hover:text-teal-400 hover:underline w-3/4`}
                               >
                                 {edge.node.title} 
                               </Link> 
                             ) : (
                               <a
                                 key={edge.node.id}
-                                className={`${edge.node.text_color} font-semibold list-item list-none text-3xl md:text-4xl md:leading-[3.2rem] lg:text-5xl lg:leading-[4.2rem] hover:text-green-300 hover:underline`}
+                                className={`${edge.node.text_color} font-semibold list-item list-none text-3xl md:text-4xl md:leading-[3.2rem] lg:text-5xl lg:leading-[4.2rem] hover:text-teal-400 hover:underline`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 href={edge.node.url}
@@ -113,14 +113,14 @@ render() {
                               <AnchorLink 
                               to={edge.node.url} 
                               title={edge.node.title} 
-                              className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-orange-300 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
+                              className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
                               
                               />
                              ) : (
                               <Link
                                 key={edge.node.id}
                                 to={edge.node.url}
-                                className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-orange-300 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
+                                className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
                               >
                                 {edge.node.title} 
                               </Link> 
@@ -128,7 +128,7 @@ render() {
                           ) : (
                             <a
                               key={edge.node.id}
-                              className= "list-item list-none  text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-orange-300 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
+                              className= "list-item list-none  text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
                               target="_blank"
                               rel="noopener noreferrer"
                               href={edge.node.url}
@@ -148,14 +148,14 @@ render() {
                                 <a
                                   key={edge.node.id}
                                   to={edge.node.url}
-                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-gray-300 hover:underline"
+                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-teal-400 hover:underline"
                                 >
                                   {edge.node.title} 
                                 </a> 
                               ) : (
                                 <a
                                   key={edge.node.id}
-                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-gray-300 hover:underline"
+                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-teal-400 hover:underline"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   href={edge.node.url}

@@ -2,12 +2,11 @@
 label: Home Hero
 hide_body: true
 fields:
-- name: component
-  type: text
-  config:
-    required: false
+- type: text
+  name: component
   label: component
   hidden: true
+  default: home_hero
 - name: home_logo_image
   type: file
   config:
@@ -19,12 +18,15 @@ fields:
   config:
     maxSize: 64
   label: Home Background Image
-- name: image_alt
+- name: alt
   type: text
   config:
     required: false
   label: Image Alt
   description: alt for logo image
+- type: text
+  name: title
+  label: Title
 - name: text_area
   type: textarea
   default: ''
@@ -41,13 +43,14 @@ fields:
   - name: label
     type: text
     config:
-      required: false
+      required: true
     label: Label
   - name: url
     type: text
     config:
-      required: false
+      required: true
     label: URL
+    description: Must use the entire url including https:// if using an external link
   - name: button_type
     type: select
     default: Internal
@@ -62,4 +65,5 @@ fields:
         file: 
         path: 
     label: Button Type
+    description: is the link external or internal
   label: Button

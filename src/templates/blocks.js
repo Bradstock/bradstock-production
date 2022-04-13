@@ -104,7 +104,7 @@ class BlocksTemplate extends React.Component {
           ? 'block' 
           : 'none'
         }>
-          <button id="scroll-btn" className="sidebar-btns scoll-btn-style">Scroll To Top</button>
+          <button id="scroll-btn" className="animate-bounce sidebar-btns scoll-btn-style">Scroll To Top</button>
          
         </div>
       </Layout>
@@ -130,6 +130,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         blocks {
           component
+          alt
           position
           image {
             childImageSharp {
