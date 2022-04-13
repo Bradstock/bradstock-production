@@ -6,6 +6,11 @@ fields:
 - type: file
   name: image
   label: Image
+- name: alt
+  type: text
+  config:
+    required: false
+  label: Alt
 - type: text
   name: title
   label: Title
