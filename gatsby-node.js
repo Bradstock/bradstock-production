@@ -104,3 +104,18 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+// To fix null image files in column
+// tried:
+// https://stackoverflow.com/questions/54292012/handle-empty-strings-as-image-paths-when-using-gatsby-transformer-sharp
+// exports.createSchemaCustomization = ({ actions }) => {
+//   actions.createType(`
+//     type RemarkFrontmatter @infer {
+//       col_image: File
+//     }
+
+//     type MarkdownRemark implements Node @infer {
+//       frontmatter: RemarkFrontmatter
+//     }
+//   `)
+// }

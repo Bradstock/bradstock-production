@@ -47,6 +47,7 @@ class BlocksTemplate extends React.Component {
     })
     return tag_page;
   }
+
   componentDidMount(){
     if (document.getElementById("scroll-btn") && this.GetTagBool() === true) {
     this.Initialize();
@@ -59,7 +60,14 @@ class BlocksTemplate extends React.Component {
     const siteDescription = post.excerpt
     // console.log(this.props)
     
-
+  var noImage = (block) => { 
+      if (block.col1.show_image === true || block.col1.show_image === true || block.col1.show_image === true){
+        return true
+      } else {
+        return false
+      }
+    }
+    
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet
@@ -72,7 +80,7 @@ class BlocksTemplate extends React.Component {
         {post.frontmatter.blocks.map(block => {
           switch (block.component) {
             case 'table':
-              return <Table block={block} />
+              return <Table block={block} noImage={noImage(block)}/>
             case 'text_and_image':
               return <TextAndImage block={block} />
             case 'title_button':
@@ -167,13 +175,6 @@ export const pageQuery = graphql`
               }
             }
           }
-          col_image {
-            childImageSharp {
-              fluid(maxWidth: 800) {
-                srcSet
-              }
-            }
-          }
           background_image {
             childImageSharp {
               fluid(maxWidth: 800) {
@@ -208,40 +209,43 @@ export const pageQuery = graphql`
             button_type
           }
           col1 {
-            image {
+            show_image
+            col_image {
               childImageSharp {
                 fluid(maxWidth: 800) {
                   srcSet
                 }
               }
             }
+            alt
             title
             content
-            alt
           }
           col2 {
-            image {
+            show_image
+            col_image {
               childImageSharp {
                 fluid(maxWidth: 800) {
                   srcSet
                 }
               }
             }
+            alt
             title
             content
-            alt
           }
           col3 {
-            image {
+            show_image
+            col_image {
               childImageSharp {
                 fluid(maxWidth: 800) {
                   srcSet
                 }
               }
             }
+            alt
             title
             content
-            alt
           }
         }
       }

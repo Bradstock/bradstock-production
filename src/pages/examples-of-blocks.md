@@ -24,15 +24,15 @@ blocks:
   col1:
     title: col 1
     content: Has text and image options
-    image: "/images/logo-good-steer.png"
+    col_image: "/images/logo-good-steer.png"
   col2:
     title: col 2
     content: content
-    image: "/images/41984dd6a3327c2e96ed-1536x552.png"
+    col_image: "/images/41984dd6a3327c2e96ed-1536x552.png"
   col3:
     title: col 3
     content: content
-    image: "/images/pqt-logo.png"
+    col_image: "/images/pqt-logo.png"
 - template: title-button
   component: title_button
   background: dark
