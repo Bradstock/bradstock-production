@@ -7,11 +7,11 @@ fields:
   type: boolean
   label: Show Image
   default: false
-- name: image
+- name: col_image
   type: file
   config:
     maxSize: 64
-  label: Image
+  label: Col Image
   showOnly:
     field: show_image
     value: true
