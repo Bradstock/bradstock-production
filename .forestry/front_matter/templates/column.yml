@@ -20,6 +20,9 @@ fields:
   config:
     required: false
   label: Alt
+  showOnly:
+    field: show_image
+    value: true
 - type: text
   name: title
   label: Title
