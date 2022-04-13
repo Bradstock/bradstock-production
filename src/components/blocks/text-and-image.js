@@ -36,7 +36,7 @@ const TextAndImage = ({ block }) => (
       : 'w-full sm:w-1/2 py-10 mx-20 text-left' 
     }
     >
-          <h1 className=''>{block.title}</h1>
+          <h1 className='text-cyan-700'>{block.title}</h1>
           <div className=''
             dangerouslySetInnerHTML={{ __html: block.content }}
           />

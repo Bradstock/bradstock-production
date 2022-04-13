@@ -2,10 +2,10 @@ import React from 'react'
 
 const Hero = ({ block }) => (
   <section
-    className="relative z-0 -mt-[7.75rem] min-h-[27rem]"
+    className="relative z-0 -mt-[7.75rem] min-h-[22rem] lg:min-h-[29rem]"
   >
 <div className="relative">
-      <div className="absolute min-h-[27rem] inset-0">
+      <div className="absolute min-h-[22rem] lg:min-h-[29rem] inset-0">
         {block.background_image && (
               <img
                 alt={block.title}
@@ -15,14 +15,15 @@ const Hero = ({ block }) => (
         )}
         <div className="absolute inset-0 bg-stone-200 mix-blend-multiply" aria-hidden="true" />
       </div>
-      <div className="my-auto max-h-[25rem] max-w-[100%] md:max-w-[80%] pt-20 py-[5%] lg:pl-[10%] mx-auto lg:mx-0 relative text-center lg:text-left">
+
+      <div className="mx-auto max-w-[100%] md:max-w-[80%] pt-[8rem] md:pt-[9rem] lg:pl-[10%] lg:mx-0 relative text-center lg:text-left">
         <div className={
           block.title || block.subtitle 
           ? 'block'
           : 'hidden'
         }>
-        <div className='mx-8 px-8 py-0 rounded-2xl bg-white/40 hero-shadow max-w-full lg:max-w-3xl' >
-          <h1 className="text-4xl font-extrabold text-gray-800 sm:text-5xl lg:text-6xl">
+        <div className='mx-8 px-8 py-0 rounded-2xl bg-amber-50/60 hero-shadow max-w-full lg:max-w-3xl' >
+          <h1 className="text-4xl font-extrabold text-cyan-700 sm:text-5xl lg:text-6xl">
             {block.title}
           </h1>
           {/* </div>

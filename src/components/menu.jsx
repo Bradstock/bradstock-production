@@ -28,7 +28,7 @@ render() {
             <Popover.Button
               className={classNames(
                 // open ? 'text-gray-900' : 'text-gray-500',
-                'pt-5 md:pt-0 border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-lg text-white link-hover font-medium group-hover:text-white hover:underline'
+                'pt-5 md:pt-0 border-none focus:outline-none bg-transparent rounded-md inline-flex items-center text-lg text-white link-hover font-medium hover:text-cyan-600 hover:underline'
               )}
             >
               <span>MENU</span>
@@ -56,7 +56,7 @@ render() {
                     <div className='grid mx-4 my-6 sm:mx-6 md:mx-20'>
                     {/* ROW 1 */}
                       <div className='grid grid-cols-2'>
-                        <div className='flex justify-start items-center hover:text-teal-400'>
+                        <div className='flex justify-start items-center hover:text-gray-400'>
                         <span className='text-2xl items-top mr-2'>&#10005;</span> CLOSE
                         </div>
                         <div className='flex justify-start'>
@@ -113,14 +113,14 @@ render() {
                               <AnchorLink 
                               to={edge.node.url} 
                               title={edge.node.title} 
-                              className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
+                              className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-cyan-600 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
                               
                               />
                              ) : (
                               <Link
                                 key={edge.node.id}
                                 to={edge.node.url}
-                                className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
+                                className="list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-cyan-600 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium"
                               >
                                 {edge.node.title} 
                               </Link> 
@@ -128,7 +128,7 @@ render() {
                           ) : (
                             <a
                               key={edge.node.id}
-                              className= "list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
+                              className= "list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-cyan-600 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
                               target="_blank"
                               rel="noopener noreferrer"
                               href={edge.node.url}
@@ -148,14 +148,14 @@ render() {
                                 <a
                                   key={edge.node.id}
                                   to={edge.node.url}
-                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-teal-400 hover:underline"
+                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-cyan-600 hover:underline"
                                 >
                                   {edge.node.title} 
                                 </a> 
                               ) : (
                                 <a
                                   key={edge.node.id}
-                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-teal-400 hover:underline"
+                                  className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-cyan-600 hover:underline"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   href={edge.node.url}

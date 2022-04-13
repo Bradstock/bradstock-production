@@ -21,19 +21,23 @@ class ListTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <section className="section box-shadow mx-auto pb-[6rem] pt-20 bg-white max-w-7xl">
-          <div class="max-w-5xl mx-auto  article-header has-text-centered">
-            <h1 class="title is-1">{post.frontmatter.title}</h1>
-            <hr />
+        <section className='py-20 bg-gradient-to-br from-sky-400/50 via-rose-400/50 to-lime-400/50'>
+        
+          <div className="section box-shadow mx-auto pb-[6rem] pt-10 max-w-7xl bg-white">
+
+            <div class="max-w-5xl mx-auto article-header has-text-centered">
+              <h1 class="title is-1 text-cyan-700 text-3xl">{post.frontmatter.title}</h1>
+            </div>
+            <main className="max-w-5xl mx-auto content-container">
+              <div
+                className="content"
+                dangerouslySetInnerHTML={{ __html: post.html }}
+              />
+              <hr />
+              <PostList posts={childPosts} />
+            </main>
+
           </div>
-          <main className="max-w-5xl mx-auto  content-container">
-            <div
-              className="content"
-              dangerouslySetInnerHTML={{ __html: post.html }}
-            />
-            <hr />
-            <PostList posts={childPosts} />
-          </main>
         </section>
       </Layout>
     )

@@ -8,7 +8,7 @@ const Table = ({ block }) => (
         {block.title && (
           <>
           {/* todo: fix has-text-centered */}
-          <h2 className="flex justify-center">{block.title}</h2>
+          <h2 className="text-cyan-700 flex justify-center">{block.title}</h2>
           <hr class="border-1 w-3/4 border-gray-100"/>
           </>
         )}

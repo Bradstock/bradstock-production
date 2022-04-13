@@ -16,9 +16,9 @@ class Navbar extends Component {
 
     return (
       // TODO: max width of the edges
-      <div className='group z-2 bg-gradient-to-t from-transparent via-black/25 to-black/60 transition delay-300 duration-300 ease-in-out group-hover:text-white hover:bg-gradient-to-t hover:from-transparent hover:via-black/40 hover:to-black/80'>
+      <div className='group z-2 bg-gradient-to-t from-transparent via-black/25 to-black/60 transition delay-300 duration-300 ease-in-out hover:bg-gradient-to-t hover:from-transparent hover:via-black/40 hover:to-black/80'>
            <Menu />           
-      <div className='grid grid-cols-1 md:grid-cols-3 items-top pt-2 pb-2 mb-6 '>
+      <div className='grid grid-cols-1 md:grid-cols-3 items-top pt-2 pb-2'>
 
         {/* column 1 */}
         <div className='justify-start hidden md:flex'>     
@@ -64,14 +64,14 @@ class Navbar extends Component {
                     <Link
                       key={edge.node.id}
                       to={edge.node.url}
-                      className="whitespace-nowrap text-lg mx-2 link-hover text-white hover:text-blue-500 group-hover:text-white hover:font-bold hover:text-xl font-medium"
+                      className="whitespace-nowrap text-lg mx-2 link-hover text-white font-medium hover:text-cyan-600"
                     >
                        {edge.node.title} 
                     </Link> 
                   ) : (
                     <a
                       key={edge.node.id}
-                      className="whitespace-nowrap text-lg mx-2 link-hover text-white hover:text-blue-500 group-hover:text-white hover:font-bold hover:text-xl font-medium"
+                      className="whitespace-nowrap text-lg mx-2 link-hover text-white font-medium  hover:text-cyan-600"
                       target="_blank"
                       rel="noopener noreferrer"
                       href={edge.node.url}
