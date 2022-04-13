@@ -51,8 +51,8 @@ blocks:
       an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
       Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
       and they sell out fast.<br>  "
-    show_image: false
-    alt: ''
+    show_image: true
+    alt: RV Parking is sold out camper van
   col1:
     image: "/images/4.png"
     title: Camp- Add On ($40 per-person +tax/fee)
@@ -60,8 +60,8 @@ blocks:
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
       to all ticket types</em>).<br>This is a per-person ticket applicable to adult
       campers (21 &amp; over) camping in a tent or a camper.
-    show_image: false
-    alt: ''
+    show_image: true
+    alt: Camp- Add On tent with trees
   col3:
     image: ''
     title: ''
