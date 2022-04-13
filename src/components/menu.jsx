@@ -128,7 +128,7 @@ render() {
                           ) : (
                             <a
                               key={edge.node.id}
-                              className= "list-item list-none  text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
+                              className= "list-item list-none text-2xl md:text-3xl lg:text-4xl lg:leading-[3rem] text-blue-400 hover:text-indigo-300 hover:underline mx-2 my-2 font-medium "
                               target="_blank"
                               rel="noopener noreferrer"
                               href={edge.node.url}
