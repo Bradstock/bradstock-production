@@ -3,11 +3,18 @@ label: column
 hide_body: false
 display_field: title
 fields:
+- name: show_image
+  type: boolean
+  label: Show Image
+  default: false
 - name: image
   type: file
   config:
     maxSize: 64
   label: Image
+  showOnly:
+    field: show_image
+    value: true
 - name: alt
   type: text
   config:
