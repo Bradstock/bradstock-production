@@ -18,7 +18,7 @@ fields:
 - name: alt
   type: text
   config:
-    required: true
+    required: false
   label: Alt
   showOnly:
     field: show_image
