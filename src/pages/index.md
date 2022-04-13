@@ -23,16 +23,19 @@ blocks:
     content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam.
     image: ''
+    alt: ''
   col2:
     title: Content
     content: 'eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
       vitae dicta sunt explicabo. '
     image: ''
+    alt: ''
   col3:
     title: Content
     content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
       fugit, sed quia consequuntur magni.
     image: ''
+    alt: ''
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
@@ -49,16 +52,19 @@ blocks:
     content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam.
     image: ''
+    alt: ''
   col2:
     title: Content
     content: 'eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
       vitae dicta sunt explicabo. '
     image: ''
+    alt: ''
   col3:
     title: Content
     content: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
       fugit, sed quia consequuntur magni.
     image: ''
+    alt: ''
 - template: text-area
   component: text_area
   text_area: "## What is Lorem Ipsum?\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*
@@ -115,5 +121,23 @@ blocks:
   - gallery_image: "/images/robert-anasch-McX3XuJRsUM-unsplash.jpg"
     alt: kjhbjbn
     image_info: jhbjbjhb
+- template: table
+  component: table
+  title: ''
+  col1:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
+  col2:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
+  col3:
+    image: ''
+    alt: ''
+    title: ''
+    content: ''
 
 ---
