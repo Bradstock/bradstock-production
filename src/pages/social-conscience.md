@@ -17,5 +17,6 @@ blocks:
     is the current home of Bradstock, we are grateful to have the camp as the venue
     for our annual event.  Bradstock has donated over $xxx since the first Bradstock
     at camp in 2011. "
+  text_center: true
 
 ---
