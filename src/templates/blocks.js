@@ -19,6 +19,7 @@ import Gallery from '../components/blocks/gallery'
 import Tag from '../components/blocks/tag'
 import Button from '../components/blocks/button'
 import Video from '../components/blocks/video'
+import TicketProcessing from '../components/blocks/ticket-processing'
 
 
 class BlocksTemplate extends React.Component {
@@ -106,6 +107,8 @@ class BlocksTemplate extends React.Component {
               return <Video block={block} />
             case 'tag':
             return <Tag block={block} />
+            case 'ticket_processing':
+            return <TicketProcessing block={block} />
             default:
               return ''
           }

@@ -2,6 +2,11 @@
 label: Ticket Processing
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: ticket_processing
 - name: widget_html
   type: textarea
   default: ''
