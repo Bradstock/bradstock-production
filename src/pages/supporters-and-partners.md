@@ -21,22 +21,30 @@ blocks:
     logo_brand: '## [Camp Pa Qua Tuck](https://camppaquatuck.com "camp pa qua tuck
       link")'
     logo: true
+    logo_name: Camp Pa Qua Tuck
+    logo_url: https://camppaquatuck.com
   - gallery_image: "/images/41984dd6a3327c2e96ed-1536x552.png"
     alt: blue point brewing co. logo
     image_info: ""
     logo_brand: '## [Blue Point Brewing Co.](https://www.bluepointbrewing.com "blue
       point link")'
     logo: true
+    logo_name: Blue Point Brewing Co.
+    logo_url: https://www.bluepointbrewing.com
   - gallery_image: "/images/island-harvest.png"
     alt: Island Harvest Food bank logo
     image_info: ""
     logo_brand: '## [Island Harvest](https://www.islandharvest.org "Island Harvest
       link")'
     logo: true
+    logo_name: Island Harvest
+    logo_url: https://www.islandharvest.org
   - gallery_image: "/images/logo-good-steer.png"
     alt: The good steer link
     image_info: ""
     logo_brand: '## [The Good Steer](http://www.goodsteer.com "the good steer link")'
     logo: true
+    logo_name: The Good Steer
+    logo_url: http://www.goodsteer.com
 
 ---
