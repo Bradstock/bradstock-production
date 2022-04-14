@@ -38,17 +38,8 @@ blocks:
   text_area: |-
     ## Who can attend?
 
-    Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup").
+    Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup"). Ticketing can be found at the link info below.
   text_center: true
-- template: title-button
-  component: title_button
-  background: transparent
-  button:
-    button_type: Internal
-    label: click here
-    url: "/ticketing"
-  title: Ticketing information
-  subtitle: ''
 - template: gallery
   component: gallery
   gallery_field_group:
@@ -76,5 +67,14 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
+- template: title-button
+  component: title_button
+  background: transparent
+  button:
+    button_type: Internal
+    label: click here
+    url: "/ticketing"
+  title: Ticketing information
+  subtitle: ''
 
 ---
