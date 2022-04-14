@@ -15,14 +15,6 @@ blocks:
     button_type: Internal
     label: Ticketing Info
     url: "/tickets"
-- template: text-and-image
-  component: text_and_image
-  tai_image: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"
-  background: light
-  orientation: Image Right
-  alt: alt
-  title: title
-  content: text <br>text text
 - template: text-area
   component: text_area
   text_area: "## What is Lorem Ipsum?\n\n* sldkjf\n* skjdfsdkjnf\n* sdkjfnsdkfjn\n*

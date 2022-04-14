@@ -8,9 +8,8 @@ const HomeHero = ({ block }) => (
     className="relative z-0 -mt-[7.75rem] min-h-[36rem]"
   >
 <div className="relative">
-
       {/* background */}
-      <div className="absolute min-h-[47rem] md:min-h-[36rem] inset-0 ">
+      <div className="absolute h-full min-h-[47rem] md:min-h-[36rem] inset-0 ">
         {block.home_background_image && (
               <img
                 alt={block.title}

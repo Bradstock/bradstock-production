@@ -151,6 +151,7 @@ export const pageQuery = graphql`
           subtitle
           content
           text_area
+          text_center
           gallery_field_group {
             gallery_image{
               childImageSharp {
