@@ -43,6 +43,15 @@ blocks:
       Over<br></em><br><br>'
     show_image: true
     alt: Bradstock platinum ticket rainbow with daisies
+- template: title-button
+  component: title_button
+  background: transparent
+  button:
+    button_type: Internal
+    url: "/checkout"
+    label: Buy Tickets
+  title: Checkout Page below
+  subtitle: ''
 - template: table
   component: table
   title: 'Camping '
@@ -71,5 +80,14 @@ blocks:
     content: ''
     show_image: false
     alt: ''
+- template: title-button
+  component: title_button
+  background: transparent
+  button:
+    button_type: Internal
+    label: Buy Tickets
+    url: "/checkout"
+  title: Checkout Page below
+  subtitle: ''
 
 ---
