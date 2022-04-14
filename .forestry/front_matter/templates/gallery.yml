@@ -31,6 +31,17 @@ fields:
         format: markdown
     label: Image Info
     description: optional image description
+  - name: logo_brand
+    type: text
+    config:
+      required: false
+    label: Logo Brand
+    showOnly:
+      field: logo
+      value: true
+  - name: logo
+    type: boolean
+    label: Logo
   config:
     min: 
     max: 
