@@ -12,13 +12,14 @@ const Gallery = ({ block }) => (
           >
               {block.gallery_field_group.map((chunk)=> (
                 <div>
-                  <h2>{chunk.title}</h2>
+                  <div className='h-[20rem] w-[97%] mx-auto'>
                     <img
                       alt={chunk.alt}
-                      className="object-cover shadow-lg rounded-lg max-w-full"
+                      className="object-contain w-full h-full"
                       srcSet={chunk.gallery_image.childImageSharp.fluid.srcSet}
                       />
-                    <div className="text-lg leading-6 font-medium space-y-1">
+                      </div>
+                    <div className=" leading-6 font-medium space-y-1 text-center text-cyan-700 hover:text-teal-400">
                       <ReactMarkdown children={chunk.image_info} allowDangerousHtml></ReactMarkdown>
                     </div>
                   </div>

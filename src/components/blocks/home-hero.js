@@ -5,7 +5,7 @@ import { Link } from 'gatsby'
 
 const HomeHero = ({ block }) => (
   <section
-    className="relative z-0 -mt-[7.75rem] min-h-[36rem]"
+    className="relative z-0 -mt-[7.75rem] min-h-[47rem] md:min-h-[36rem]"
   >
 <div className="relative">
       {/* background */}
