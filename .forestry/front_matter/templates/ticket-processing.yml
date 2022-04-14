@@ -7,11 +7,6 @@ fields:
   label: component
   hidden: true
   default: ticket_processing
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
 - name: widget_html
   type: textarea
   default: ''
