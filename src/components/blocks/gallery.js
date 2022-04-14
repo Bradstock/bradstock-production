@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown'
 
 const Gallery = ({ block }) => (
   <section>
-  {/* map */}
+  {console.log(block)}
 
                   
   <div className="bg-white w-full mx-auto py-12 px-4 max-w-[90%]">
@@ -19,7 +19,15 @@ const Gallery = ({ block }) => (
                       srcSet={chunk.gallery_image.childImageSharp.fluid.srcSet}
                       />
                       </div>
-                    <div className=" leading-6 font-medium space-y-1 text-center text-cyan-700 hover:text-teal-400">
+                      <div className={
+                        block.logo_brand
+                        ? 'block'
+                        : 'hidden'
+                      }>
+                        <div className='text-center text-cyan-700 hover:text-teal-400'>{block.logo_brand}</div>
+
+                      </div>
+                    <div className=" leading-6 font-medium space-y-1 text-center ">
                       <ReactMarkdown children={chunk.image_info} allowDangerousHtml></ReactMarkdown>
                     </div>
                   </div>
