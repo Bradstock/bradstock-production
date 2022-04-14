@@ -1,4 +1,15 @@
 ---
 label: Two Column
 hide_body: true
-fields: []
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
