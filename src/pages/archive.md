@@ -9,12 +9,18 @@ blocks:
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
-  text_area: '# ✿ [2019](/archive#2019 "2019") ✿ [2018](/archive#2018 "2018") ✿ [2017](/archive#2017
-    "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿'
+  text_area: |-
+    # ✿ [2019](/archive#2019 "2019") ✿ [2018](/archive#2018 "2018") ✿ [2017](/archive#2017 "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿
+
+    ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
 - template: tag
   component: tag
   tag: '2019'
+- template: text-area
+  component: text_area
+  text_area: "### 2019"
+  text_center: true
 - template: gallery
   component: gallery
   gallery_field_group:
@@ -27,6 +33,10 @@ blocks:
 - template: tag
   component: tag
   tag: '2018'
+- template: text-area
+  component: text_area
+  text_area: "### 2018"
+  text_center: true
 - template: gallery
   component: gallery
   gallery_field_group:
@@ -38,7 +48,27 @@ blocks:
     logo_url: ''
 - template: tag
   component: tag
+  tag: '2017'
+- template: text-area
+  component: text_area
+  text_area: "### 2017"
+  text_center: true
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/136708417_10224942289170537_2721481594352044058_n.jpg"
+    alt: man wit a rainbow umbrella
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+- template: tag
+  component: tag
   tag: pre2016
+- template: text-area
+  component: text_area
+  text_area: "### Pre 2016"
+  text_center: true
 - template: gallery
   component: gallery
   gallery_field_group:
@@ -48,5 +78,19 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
+- template: tag
+  component: tag
+  tag: remember
+- template: text-and-image
+  component: text_and_image
+  tai_image: "/images/wilson-mathew-kircjweh5da-unsplash.jpg"
+  background: dark
+  orientation: Image Left
+  title: In Remembrance
+  alt: oil pot with wick burning
+  content: ''
+- template: gallery
+  component: gallery
+  gallery_field_group: []
 
 ---
