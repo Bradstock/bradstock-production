@@ -31,17 +31,20 @@ fields:
         format: markdown
     label: Image Info
     description: optional image description
-  - name: logo_brand
-    type: text
-    config:
-      required: false
-    label: Logo Brand
-    showOnly:
-      field: logo
-      value: true
   - name: logo
     type: boolean
     label: Logo
+  - name: logo_brand
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Logo Brand
+    showOnly:
+      field: logo
   config:
     min: 
     max: 
