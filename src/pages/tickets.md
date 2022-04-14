@@ -10,6 +10,8 @@ blocks:
 - template: text-area
   component: text_area
   text_area: |-
+    # Ticketing Info
+
     #### Proceeds from Bradstock ticketing cover festival operating costs only. Remaining proceeds are donated to local Long Island charities & not for profit organizations.
 
     #### To date, Bradstock has donated over $275,000 with the support of our loyal Bradstock performers & family!
