@@ -45,6 +45,7 @@ fields:
     label: Logo Brand
     showOnly:
       field: logo
+      value: true
   config:
     min: 
     max: 
