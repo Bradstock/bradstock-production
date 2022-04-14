@@ -38,7 +38,7 @@ blocks:
   text_area: |-
     ## Who can attend?
 
-    ![Women and toddlers at the main stage](/images/14141940_1098019090281241_8849456856272359599_n.jpg)Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup").
+    Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup").
   text_center: true
 - template: title-button
   component: title_button
@@ -49,5 +49,26 @@ blocks:
     url: "/ticketing"
   title: Ticketing information
   subtitle: ''
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/69500440_10216580868608870_4050238672199483392_n.jpg"
+    alt: man with cat ears
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/1277637_502150176534805_81312218_o.jpg"
+    alt: child decorating shells
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/14141940_1098019090281241_8849456856272359599_n.jpg"
+    alt: people in front of the stage
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
 
 ---
