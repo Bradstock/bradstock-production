@@ -6,7 +6,7 @@ const Column = ({ columnData, noImage }) => (
     
     <div className={
       noImage === true
-      ? 'h-[20rem] w-[97%] mx-auto'
+      ? 'md:h-[20rem] w-[97%] mx-auto'
       : 'w-[97%] mx-auto'
     } 
       >
@@ -25,8 +25,8 @@ const Column = ({ columnData, noImage }) => (
       </div>
     </div>
 
-    <div>
-    <h3 className="mx-2">{columnData.title}</h3>
+    <div className='mx-2 mb-4 md:mb-0'>
+    <h3 className="">{columnData.title}</h3>
     <div
       className=""
       dangerouslySetInnerHTML={{ __html: columnData.content }}

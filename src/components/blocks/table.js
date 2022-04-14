@@ -3,7 +3,7 @@ import Column from './inc/column'
 
 const Table = ({ block, noImage }) => (
   <section>
-      <div className="max-w-5xl mx-auto py-10 my-8 section box-shadow">
+      <div className="max-w-5xl mx-auto md:py-10 md:my-8 section shadow-none md:shadow-lg">
         {block.title && (
           <>
           {/* todo: fix has-text-centered */}
@@ -11,14 +11,14 @@ const Table = ({ block, noImage }) => (
           <hr class="border-2 w-3/4 border-cyan-700 border-solid"/>
           </>
         )}
-    <div className="flex flex-row justify-center px-10 py-8">
-          <div className="basis-1/3 flex justify-center">
+    <div className="grid grid-cols-1 md:grid-cols-3 justify-center px-10 md:py-8">
+          <div className=" flex justify-center">
             <Column columnData={block.col1}  noImage={noImage} />
           </div>
-          <div className="basis-1/3 flex justify-center">
+          <div className=" flex justify-center">
             <Column columnData={block.col2} noImage={noImage}/>
           </div>
-          <div className="basis-1/3 flex justify-center">
+          <div className=" flex justify-center">
             <Column columnData={block.col3}  noImage={noImage}/>
           </div>
       </div>
