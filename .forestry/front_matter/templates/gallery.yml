@@ -34,18 +34,6 @@ fields:
   - name: logo
     type: boolean
     label: Logo
-  - name: logo_brand
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: Logo Brand
-    showOnly:
-      field: logo
-      value: true
   - name: logo_name
     type: text
     config:
