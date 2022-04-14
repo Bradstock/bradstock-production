@@ -46,6 +46,22 @@ fields:
     showOnly:
       field: logo
       value: true
+  - name: logo_name
+    type: text
+    config:
+      required: false
+    label: Logo Name
+    showOnly:
+      field: logo
+      value: true
+  - name: logo_url
+    type: text
+    config:
+      required: false
+    label: Logo URL
+    showOnly:
+      field: logo
+      value: true
   config:
     min: 
     max: 
