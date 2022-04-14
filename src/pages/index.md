@@ -52,6 +52,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/69840862_10221262999432822_1145453634515894272_n.jpg"
+    alt: child in the audience
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/69500440_10216580868608870_4050238672199483392_n.jpg"
     alt: man with cat ears
     image_info: ''
