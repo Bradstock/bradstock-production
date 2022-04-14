@@ -16,3 +16,6 @@ fields:
     schema:
       format: markdown
   label: Text Area
+- name: text_center
+  type: boolean
+  label: Text Center
