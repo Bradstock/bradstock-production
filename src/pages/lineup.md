@@ -60,7 +60,7 @@ blocks:
     show_image: true
     alt: sunday img
     content: "<strong>10:00am</strong> Band 1<br><strong>11:00am</strong> Band 2<br><strong>12:00am</strong>
-      Band 3<br><strong>1:00pm</strong>   Band 4<br><strong>2:00pm</strong>   Band
+      Band 3<br><strong>1:00pm</strong>   Band 4<br><strong>2:00pm</strong>  Band
       5"
     title: Sunday
   title: Stage 3
