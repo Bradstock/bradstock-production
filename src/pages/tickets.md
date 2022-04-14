@@ -15,6 +15,8 @@ blocks:
     #### Proceeds from Bradstock ticketing cover festival operating costs only. Remaining proceeds are donated to local Long Island charities & not for profit organizations.
 
     #### To date, Bradstock has donated over $275,000 with the support of our loyal Bradstock performers & family!
+
+    [test](/checkout "tickets")
   text_center: true
 - template: table
   component: table
