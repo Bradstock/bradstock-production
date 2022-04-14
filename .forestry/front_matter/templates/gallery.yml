@@ -10,11 +10,6 @@ fields:
 - name: gallery_field_group
   type: field_group_list
   fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Title
   - name: gallery_image
     type: file
     config:
