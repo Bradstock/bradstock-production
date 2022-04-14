@@ -10,9 +10,9 @@ blocks:
 - template: text-area
   component: text_area
   text_area: "#### Proceeds from Bradstock ticketing cover festival operating costs
-    only, remaining proceeds are donated to local Long Island charities & not for
-    profit organizations.  To date, Bradstock has donated over $275,000 with the support
-    of our loyal Bradstock performers & family!"
+    only.\n\n#### Remaining proceeds are donated to local Long Island charities &
+    not for profit organizations.  \n\n#### To date, Bradstock has donated over $275,000
+    with the support of our loyal Bradstock performers & family!"
 - template: table
   component: table
   title: Festival Admission
