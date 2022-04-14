@@ -3,6 +3,7 @@ import Column from './inc/column'
 
 const TowColumn = ({ block, noImage }) => (
   <section>
+      {console.log(block)}
       <div className="max-w-5xl mx-auto md:py-10 md:my-8 section shadow-none md:shadow-lg">
         {block.title && (
           <>

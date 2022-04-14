@@ -8,6 +8,7 @@ blocks:
   subtitle: 'Schedule for all Stages '
   background_image: "/images/21366695_1566913633391782_7392532547451706060_o-2.jpg"
 - template: two-column
+  component: two_column
   col1:
     col_image: "/images/favicon.png"
     title: Saturday
@@ -25,8 +26,8 @@ blocks:
       5"
     title: Sunday
   title: Stage 1
-  component: ''
 - template: two-column
+  component: two_column
   col1:
     col_image: "/images/favicon.png"
     show_image: true
@@ -43,24 +44,25 @@ blocks:
     content: "<strong>10:00am -</strong> Band 1<br><strong>11:00am -</strong> Band
       2<br><strong>12:00am -</strong> Band 3<br><strong>1:00pm -</strong>  Band 4<br><strong>2:00pm
       -</strong>  Band 5"
-  component: ''
   title: Stage 2
 - template: two-column
   component: two_column
   col1:
     col_image: "/images/favicon.png"
+    title: Saturday
+    show_image: true
+    alt: Saturday img
     content: "<strong>10:00am -</strong> Band 1<br><strong>11:00am -</strong> Band
-      2<br><strong>12:00am -</strong> Band 3<br><strong>1:00pm -</strong> Band 4<br><strong>2:00pm
-      -</strong> Band 5"
-    title: sat
-    show_image: false
-    alt: ''
+      2<br><strong>12:00am -</strong> Band 3<br><strong>1:00pm -</strong>  Band 4<br><strong>2:00pm
+      -</strong>  Band 5"
   col2:
     col_image: "/images/favicon.png"
-    show_image: false
-    alt: ''
-    title: ''
-    content: ''
+    show_image: true
+    alt: sunday img
+    content: "<strong>10:00am</strong> Band 1<br><strong>11:00am</strong> Band 2<br><strong>12:00am</strong>
+      Band 3<br><strong>1:00pm</strong>   Band 4<br><strong>2:00pm</strong>   Band
+      5"
+    title: Sunday
   title: Stage 3
 
 ---

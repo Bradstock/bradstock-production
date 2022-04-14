@@ -7,6 +7,7 @@ import Layout from '../components/layout'
 
 // import blocks
 import Table from '../components/blocks/table'
+import TowColumn from '../components/blocks/two-column'
 import TextAndImage from '../components/blocks/text-and-image'
 import TitleButton from '../components/blocks/title-button'
 import Hero from '../components/blocks/hero'
@@ -81,6 +82,8 @@ class BlocksTemplate extends React.Component {
           switch (block.component) {
             case 'table':
               return <Table block={block} noImage={noImage(block)}/>
+            case 'two_column':
+              return <TowColumn block={block} noImage={noImage(block)}/>
             case 'text_and_image':
               return <TextAndImage block={block} />
             case 'title_button':
