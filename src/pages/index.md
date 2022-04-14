@@ -35,9 +35,10 @@ blocks:
   subtitle: ''
 - template: text-area
   component: text_area
-  text_area: "## Who can attend?\n\nAnyone! Children and adults young and old, there
-    is programming for everyone. More information on the lineups found [**here**](/lineup
-    \"lineup\"). "
+  text_area: |-
+    ## Who can attend?
+
+    ![Women and toddlers at the main stage](/images/14141940_1098019090281241_8849456856272359599_n.jpg)Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup").
   text_center: true
 - template: title-button
   component: title_button
