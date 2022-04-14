@@ -24,10 +24,16 @@ const Gallery = ({ block }) => (
                         ? 'block'
                         : 'hidden'
                       }>
-                        <div className='text-center text-cyan-700 hover:text-teal-400'>
-                          <ReactMarkdown children={chunk.logo_brand} allowDangerousHtml>
-
-                          </ReactMarkdown>
+                        <div className='flex justify-center'>
+                            <a
+                            className=
+                                'text-md md:text-lg text-center content-center outline-none border-transparent text-white bg-cyan-600 border hover:border-solid hover:border-cyan-600  hover:text-cyan-600 hover:bg-white/50 font-bold uppercase px-10 py-4 rounded focus:outline-none ease-linear transition-all duration-150'
+                            href={chunk.logo_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {chunk.logo_name}
+                          </a>
                         </div>
                       </div>
                       <div className="leading-6 font-medium space-y-1 text-center ">

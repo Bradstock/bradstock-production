@@ -163,7 +163,8 @@ export const pageQuery = graphql`
             alt
             image_info
             logo
-            logo_brand
+            logo_url
+            logo_name
           }
           url
           iframe_height
