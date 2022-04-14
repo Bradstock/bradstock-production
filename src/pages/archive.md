@@ -9,8 +9,10 @@ blocks:
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
-  text_area: '## [2019](/archive#2019 "2019") **•** [2018](/archive#2018 "2018") **•**
-    [2017](/archive#2017 "2017") **•** [pre 2016](/archive#pre2016 "pre 2016")'
+  text_area: |-
+    ## [2019](/archive#2019 "2019") ✻ [2018](/archive#2018 "2018") ✻ [2017](/archive#2017 "2017") ✻ [pre 2016](/archive#pre2016 "pre 2016")
+
+    ✿
   text_center: true
 - template: tag
   component: tag
