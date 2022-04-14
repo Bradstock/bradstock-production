@@ -5,14 +5,8 @@ blocks:
 - template: hero
   component: hero
   title: Lineups
-  subtitle: ''
-  background_image: "/images/69676704_2217081291731603_2552956740022829056_n.jpg"
-- template: image
-  component: image
-  position: Center
-  image: "/images/dove.jpg"
-  alt: Multi-Day Bradstock Line-up across all stages
-  image_center_width: ''
+  subtitle: 'Schedule for all Stages '
+  background_image: "/images/21366695_1566913633391782_7392532547451706060_o-2.jpg"
 - template: two-column
   col1:
     col_image: "/images/favicon.png"
@@ -32,8 +26,7 @@ blocks:
     title: Sunday
   title: Stage 1
   component: ''
-- template: table
-  component: table
+- template: two-column
   col1:
     col_image: "/images/favicon.png"
     show_image: false
@@ -46,12 +39,7 @@ blocks:
     alt: ''
     title: ''
     content: ''
-  col3:
-    col_image: "/images/favicon.png"
-    show_image: false
-    alt: ''
-    title: ''
-    content: ''
+  component: ''
   title: ''
 
 ---
