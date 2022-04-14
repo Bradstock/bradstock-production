@@ -13,3 +13,13 @@ fields:
   config:
     required: false
   label: Title
+- name: columns
+  type: field_group
+  config: {}
+  fields:
+  - name: col1
+    type: include
+    config: {}
+    template: column
+    label: col1
+  label: Columns
