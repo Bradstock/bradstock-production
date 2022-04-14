@@ -9,7 +9,7 @@ const TitleButton = ({ block }) => (
         : 'bg-white'
     }
   >
-      <div className="items-center content-center mx-auto py-10 my-4">
+      <div className="items-center content-center mx-auto py-6 my-4">
         <h2 className="flex justify-center text-cyan-700">{block.title}</h2>
         {block.subtitle && <p className="flex justify-center">{block.subtitle}</p>}
       <div className="w-full flex justify-center float-center">
