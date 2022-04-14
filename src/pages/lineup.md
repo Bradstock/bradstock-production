@@ -35,16 +35,18 @@ blocks:
     show_image: false
     alt: sat img
     title: Saturday 9/3
-    content: "<strong>12-12:45 Free Grass Union1:15-2 Pressure Cookers2:30-3:15 Jerry
-      Mcdonald Experience3:45-4:30 The belle curves5-6 Noah’s Arc6:30-7:30 Quarter
-      Horse</strong>"
+    content: "<strong>12-12:45 - </strong>Free Grass Union<strong><br>1:15-2 - </strong>Pressure
+      Cookers<strong><br>2:30-3:15 - </strong>Jerry Mcdonald Experience<strong><br>3:45-4:30
+      - </strong>The belle curves<strong><br>5-6 - </strong>Noah’s Arc<strong><br>6:30-7:30
+      - </strong>Quarter Horse"
   col2:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sun img
     title: Sunday 9/4
-    content: "<strong>12-12:45 Annie Trezza1:15-2:15 Ernie &amp; The Band2:45-3:45
-      MJT4:15-5:15 Chris Maloy and the Family Band5:45-6:45 Funkin A’</strong>"
+    content: "<strong>12-12:45 - </strong>Annie Trezza<strong><br>1:15-2:15 - </strong>Ernie
+      &amp; The Band<strong><br>2:45-3:45 - </strong>MJT<strong><br>4:15-5:15 - </strong>Chris
+      Maloy and the Family Band<strong><br>5:45-6:45 - </strong>Funkin A’"
   title: Flower Power Stage
 - template: two-column
   component: two_column
