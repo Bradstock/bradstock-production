@@ -2,12 +2,11 @@
 label: Two Column
 hide_body: true
 fields:
-- name: component
-  type: text
-  config:
-    required: false
-  label: Component
+- type: text
+  name: component
+  label: component
   hidden: true
+  default: two_column
 - name: title
   type: text
   config:
