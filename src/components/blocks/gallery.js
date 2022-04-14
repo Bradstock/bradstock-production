@@ -20,15 +20,18 @@ const Gallery = ({ block }) => (
                       />
                       </div>
                       <div className={
-                        block.logo_brand
+                        chunk.logo
                         ? 'block'
                         : 'hidden'
                       }>
-                        <div className='text-center text-cyan-700 hover:text-teal-400'>{block.logo_brand}</div>
+                        <div className='text-center text-cyan-700 hover:text-teal-400'>
+                          <ReactMarkdown children={chunk.logo_brand} allowDangerousHtml>
 
+                          </ReactMarkdown>
+                        </div>
                       </div>
-                    <div className=" leading-6 font-medium space-y-1 text-center ">
-                      <ReactMarkdown children={chunk.image_info} allowDangerousHtml></ReactMarkdown>
+                      <div className="leading-6 font-medium space-y-1 text-center ">
+                        <ReactMarkdown children={chunk.image_info} allowDangerousHtml></ReactMarkdown>
                     </div>
                   </div>
             ))}
