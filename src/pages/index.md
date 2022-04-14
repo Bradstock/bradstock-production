@@ -17,13 +17,16 @@ blocks:
     url: "/tickets"
 - template: text-area
   component: text_area
-  text_area: "## What is Bradstock?\n\nBradstock is a two day multi stage festival
-    event, which focuses on a good time had by all while fundraising for local organisations
-    in need of funding. \n\nBeneficiaries include Camp-Pa-Qua-Tuck, the Long Island
-    Maritime Museum, Friends of Connetquot River State Park, the Sayville Kiwanis
-    Club, G.R.O.W., WUSB, They Often Cry Out, the Unbroken Chain Foundation, the Sayville
-    Village Improvement Society, the Bayport and West Sayville Civic Associations
-    and the Peconic Baykeeper. "
+  text_area: |-
+    ## What is Bradstock?
+
+    Bradstock is a two day multi stage festival event, which focuses on a good time had by all while fundraising for local organisations in need of funding.
+
+    Beneficiaries include Camp-Pa-Qua-Tuck, the Long Island Maritime Museum, Friends of Connetquot River State Park, the Sayville Kiwanis Club, G.R.O.W., WUSB, They Often Cry Out, the Unbroken Chain Foundation, the Sayville Village Improvement Society, the Bayport and West Sayville Civic Associations and the Peconic Baykeeper.
+
+    ## Who can attend?
+
+    Anyone! Children and adults young and old, there is programming for everyone. More information on the lineups found [**here**](/lineup "lineup"). For ticketing information click [**here**](/tickets "ticketing").
   text_center: true
 - template: title-button
   component: title_button
