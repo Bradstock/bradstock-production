@@ -13,6 +13,7 @@ blocks:
     only.\n\n#### Remaining proceeds are donated to local Long Island charities &
     not for profit organizations.  \n\n#### To date, Bradstock has donated over $275,000
     with the support of our loyal Bradstock performers & family!"
+  text_center: true
 - template: table
   component: table
   title: Festival Admission
