@@ -25,5 +25,14 @@ blocks:
     Village Improvement Society, the Bayport and West Sayville Civic Associations
     and the Peconic Baykeeper. "
   text_center: true
+- template: title-button
+  component: title_button
+  background: transparent
+  button:
+    button_type: Internal
+    label: About Us
+    url: "/about"
+  title: More Information about Bradstock
+  subtitle: ''
 
 ---
