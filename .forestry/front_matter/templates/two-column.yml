@@ -13,7 +13,7 @@ fields:
   config:
     required: false
   label: Title
-- name: columns
+- name: col1
   type: field_group
   config: {}
   fields:
@@ -22,4 +22,24 @@ fields:
     config: {}
     template: column
     label: col1
-  label: Columns
+  label: Column 1
+- name: col2
+  type: field_group
+  config: {}
+  fields:
+  - name: col2
+    type: include
+    config: {}
+    template: column
+    label: col2
+  label: Column 2
+- name: col3
+  type: field_group
+  config: {}
+  fields:
+  - name: col3
+    type: include
+    config: {}
+    template: column
+    label: col3
+  label: Column 3
