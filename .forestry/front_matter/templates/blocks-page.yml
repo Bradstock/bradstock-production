@@ -18,6 +18,7 @@ fields:
   - home-hero
   - text-and-image
   - table
+  - two-column
   - title-button
   - text-area
   - image
