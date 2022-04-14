@@ -34,15 +34,19 @@ fields:
   - name: logo
     type: boolean
     label: Logo
-  - name: logo_brand
-    type: textarea
-    default: ''
+  - name: logo_name
+    type: text
     config:
       required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: Logo Brand
+    label: Logo Name
+    showOnly:
+      field: logo
+      value: true
+  - name: logo_url
+    type: text
+    config:
+      required: false
+    label: Logo URL
     showOnly:
       field: logo
       value: true
