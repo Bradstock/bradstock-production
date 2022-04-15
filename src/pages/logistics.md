@@ -58,7 +58,7 @@ blocks:
   tag: directions
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/screen-shot-2022-03-26-at-3-18-46-pm.png"
+  tai_image: "/images/directions.png"
   background: light
   orientation: Image Left
   title: Directions
@@ -73,7 +73,7 @@ blocks:
   tag: parking
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/cars.jpg"
+  tai_image: "/images/parking.png"
   background: light
   orientation: Image Right
   title: Parking
