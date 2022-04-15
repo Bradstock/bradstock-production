@@ -7,9 +7,12 @@ blocks:
   home_logo_image: "/images/favicon.png"
   home_background_image: "/images/69722263_2471955769557169_8972831291510620160_n.jpg"
   alt: Bradstock Icon with a skull and eagle
-  title: 2022 Bradstock Fest XXIX
+  title: 2022 - Bradstock XXIX
   text_area: |-
     ## September 3 - 4,  2022
+
+    Camp Pa Qua Tuck, Center Moriches, NY
+
     #### More info and tickets below
   button:
     button_type: Internal
