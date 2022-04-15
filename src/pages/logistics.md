@@ -12,7 +12,7 @@ blocks:
   tag: camping
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/118888076_3716970208315761_1069899642486786127_n.jpg"
+  tai_image: "/images/camping.png"
   background: light
   orientation: Image Left
   content: ''
@@ -30,6 +30,7 @@ blocks:
     or swimming in Kalers Pond\n* Entry into camp buildings other than showers/toilets
     for campers\n\nWe expect the privilege to camp will not be abused by our peace-loving
     & considerate Bradstock family."
+  text_center: false
 - template: tag
   component: tag
   tag: Eats
@@ -51,6 +52,7 @@ blocks:
     Food trucks are also onsite offering various items for lunch, dinner & breakfast for campers.
 
     Unlike other festivals, you can also bring your own snacks, drinks & meals to Bradstock ... we only ask that you clean up after yourself - leaving the camp better than you found it!
+  text_center: false
 - template: tag
   component: tag
   tag: directions
@@ -65,6 +67,7 @@ blocks:
 - template: text-area
   component: text_area
   text_area: directions info
+  text_center: false
 - template: tag
   component: tag
   tag: parking
@@ -84,6 +87,7 @@ blocks:
     helping with parking, they are doing their best. \n\nIf you require Handicapped
     Parking please let the parking team know and they will direct you on where to
     park.\n\n "
+  text_center: false
 - template: tag
   component: tag
   tag: accessibility
@@ -103,6 +107,7 @@ blocks:
     needing help getting around.  Feel free to let one of our security guards or volunteer
     staff know if you need assistance getting from here to there.  We will do our
     best to help you get around ... you just may need to be patient with us.  "
+  text_center: false
 - template: tag
   component: tag
   tag: camp
@@ -126,5 +131,6 @@ blocks:
     Looking back on [our history](https://camppaquatuck.com/about-the-camp/camp-history/), Camp Pa-Qua-Tuck extends the deepest gratitude to the volunteers, Rotarians, community organizations and the Pa-Qua-Tuck Squaws who made our special camp possible. We would not exist today without your help.
 
     For more information and to donate to the camp: [https://camppaquatuck.com/](https://camppaquatuck.com/ "https://camppaquatuck.com/")
+  text_center: false
 
 ---
