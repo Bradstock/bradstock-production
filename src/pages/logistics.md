@@ -63,7 +63,7 @@ blocks:
   orientation: Image Left
   title: Directions
   alt: image of a map of camp Pa Qua Tuck
-  content: ''
+  content: <a href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
 - template: text-area
   component: text_area
   text_area: directions info
