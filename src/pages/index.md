@@ -76,7 +76,7 @@ blocks:
   button:
     button_type: Internal
     label: click here
-    url: "/ticketing"
+    url: "/tickets"
   title: Ticketing information
   subtitle: ''
 
