@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Artists
-  subtitle: Apply to be an artist at Bradstock
+  subtitle: Apply to be an artist at Bradstock testing
   background_image: "/images/14203139_1097232923693191_1748357548291967710_n.jpg"
 - template: iframe
   component: iframe
