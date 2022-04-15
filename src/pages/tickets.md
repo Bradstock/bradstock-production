@@ -66,7 +66,7 @@ blocks:
     show_image: true
     alt: RV Parking is sold out camper van
   col1:
-    col_image: "/images/4.png"
+    col_image: "/images/camping-webiste.png"
     title: Camp- Add On ($40 per-person +tax/fee)
     content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
