@@ -10,13 +10,13 @@ blocks:
 - template: text-area
   component: text_area
   text_area: |-
-    # ✿ [2019](/archive#2019 "2019") ✿ [2018](/archive#2018 "2018") ✿ [2017](/archive#2017 "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿
+    # ✿ [2019](/archive#year2019 "2019") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
 - template: tag
   component: tag
-  tag: '2019'
+  tag: year2019
 - template: text-area
   component: text_area
   text_area: "### 2019"
@@ -32,7 +32,7 @@ blocks:
     logo_url: ''
 - template: tag
   component: tag
-  tag: '2018'
+  tag: year2018
 - template: text-area
   component: text_area
   text_area: "### 2018"
@@ -48,7 +48,7 @@ blocks:
     logo_url: ''
 - template: tag
   component: tag
-  tag: '2017'
+  tag: year2017
 - template: text-area
   component: text_area
   text_area: "### 2017"
