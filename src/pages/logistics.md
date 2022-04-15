@@ -113,7 +113,7 @@ blocks:
   tag: camp
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/dining-hall-camp-pa-qua-tuck.jpg"
+  tai_image: "/images/pqt-logo.png"
   background: light
   orientation: Image Right
   title: Camp Pa Qua Tuck
