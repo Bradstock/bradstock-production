@@ -5,18 +5,24 @@ blocks:
 - template: hero
   component: hero
   title: Social Conscience
-  subtitle: Be the change that you wish to see in the world.
+  subtitle: If I had the world to give, I'd give it to you
   background_image: "/images/social-conscience.png"
 - template: text-area
   component: text_area
-  text_area: |-
-    ### **For 25+ years, an important part of our Bradstock mission has been to give back to our community.**
-
-    ### **We have donated every year to Island Harvest with non-perishable food from our loyal Bradstock family.  We have made cash donations as well, over** $xxx **since our inception.**
-
-    ### **Many other local charitable and NFP organizations have benefited from the our proceeds.**
-
-    ### **Camp Pa Qua Tuck is the current home of Bradstock, we are grateful to have the camp as the venue for our annual event.  Bradstock has donated over** $xxx **since the first Bradstock at camp in 2011.**
+  text_area: "##### An important part of our Bradstock mission has been to give back
+    to our community.  Friends of Bradstock is a 501c3 not for profit organization.\n\n#####
+    Over the years, we have supported many local Long Island charitable organizations
+    that work to preserve our beautiful island and help our neighbors in need.  \n\n#####
+    **_To date, Bradstock has donated over $275,000._**\n\n##### Since Bradstock's
+    early beginnings, we've collected non-perishable food for Island Harvest from
+    our generous Bradstock family.  Over the years, truck loads have been donated
+    to Island Harvest, as well as, cash donations. \n\n##### Many local charitable
+    organizations have benefited from the  proceeds from our event, such as The LI
+    Baykeeper, SEED, ???\n\n##### Camp Pa Qua Tuck is the current home of Bradstock,
+    we are grateful to the Moriches Rotary Club for use of their beautiful camp for
+    our annual event.  Since 2011, our first year at the camp, the bulk of our annual
+    donation is made to Camp Pa Qua Tuck, to date Bradstock and our loyal supporters
+    have donated over $100,000 to Camp Pa Qua Tuck."
   text_center: true
 
 ---
