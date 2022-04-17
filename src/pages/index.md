@@ -4,12 +4,14 @@ template: blocks
 blocks:
 - template: home-hero
   component: home_hero
-  home_logo_image: "/images/favicon.png"
+  home_logo_image: "/images/brad22.png"
   home_background_image: "/images/69722263_2471955769557169_8972831291510620160_n.jpg"
   alt: Bradstock Icon with a skull and eagle
-  title: 2022 - Bradstock XXIX
+  title: Bradstock XXIX
   text_area: |-
-    ## September 3 - 4,  2022
+    ## Labor Day Weekend
+
+    ## Sept 3rd & 4th 2022
 
     Camp Pa Qua Tuck, Center Moriches, NY
 
@@ -23,7 +25,7 @@ blocks:
   text_area: |-
     ## What is Bradstock?
 
-    Bradstock is a two day multi stage festival event, which focuses on a good time had by all while fundraising for local organisations in need of funding.
+    Bradstock is a local two-day multi-stage music festival in it's 29th year. Bradstock showcases local performers & artisans. Our mission since Bradstock I is that a good time should be had by all. Friends of Bradstock, Inc is a 501c3 not for profit organization run by volunteers.  Proceeds from Bradstock are donated to local Long Island charitable organization.
 
     Beneficiaries include Camp-Pa-Qua-Tuck, the Long Island Maritime Museum, Friends of Connetquot River State Park, the Sayville Kiwanis Club, G.R.O.W., WUSB, They Often Cry Out, the Unbroken Chain Foundation, the Sayville Village Improvement Society, the Bayport and West Sayville Civic Associations and the Peconic Baykeeper.
   text_center: true
