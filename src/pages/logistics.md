@@ -96,7 +96,7 @@ blocks:
   background: light
   orientation: Image Left
   title: Accessibility
-  content: Accessibility info
+  content: ''
   alt: Wheelchair Accessibility
 - template: text-area
   component: text_area
