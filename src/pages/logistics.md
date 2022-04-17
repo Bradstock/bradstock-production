@@ -15,7 +15,15 @@ blocks:
   tai_image: "/images/camping.png"
   background: light
   orientation: Image Left
-  content: ''
+  content: Camp Pa Qua Tuck allows Bradstock to offer camping for festival goers so
+    they can stay the weekend and enjoy the festivities.  As guests of the Camp, Bradstock
+    Chiefs expect that those staying over night will be respectful of all Camp property,
+    the Camp's neighbors and of other campers.  If not, Bradstock reserves the right
+    to immediately expel unruly campers from camping and from the festival without
+    refund. <br><br>The camp explicitly prohibits:<br>- Open campfires<br>- Boating
+    or swimming in Kalers Pond<br>- Entry into camp buildings other than showers/toilets
+    for campers<br><br>We expect the privilege to camp will not be abused by our peace-loving
+    &amp; considerate Bradstock family.
   alt: Bradstock overhead view
   title: Camping
 - template: text-area
