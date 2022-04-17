@@ -82,12 +82,10 @@ blocks:
   content: ''
 - template: text-area
   component: text_area
-  text_area: "We have limited parking at the Camp, so if you can car pool with friends
-    - we'd appreciate it.  As the parking filed fill up you may need to park on Montauk
-    Highway.  Please take care while parking and please be respectful of the team
-    helping with parking, they are doing their best. \n\nIf you require Handicapped
-    Parking please let the parking team know and they will direct you on where to
-    park.\n\n "
+  text_area: |-
+    Camp Pa Qua Tuck has limited parking, we have a parking crew that will help direct guests on where to park.   If you can car pool with friends, we'd appreciate it.  As the parking fields fill up you may need to park on Montauk Highway.  Please take care while parking and please be respectful of the team helping with parking, they are doing their best.
+
+    If you require Handicapped Parking please let the parking team know and they will direct you on where to park.
   text_center: false
 - template: tag
   component: tag
