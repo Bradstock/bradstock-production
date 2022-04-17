@@ -9,7 +9,7 @@ blocks:
   background_image: "/images/bradstock-updated-6.png"
 - template: text-area
   component: text_area
-  text_area: "."
+  text_area: "# Ticketing Info"
   text_center: true
 - template: table
   component: table
@@ -38,15 +38,6 @@ blocks:
       Over<br></em><br><br>'
     show_image: true
     alt: Bradstock platinum ticket rainbow with daisies
-- template: title-button
-  component: title_button
-  background: transparent
-  button:
-    button_type: Internal
-    url: "/checkout"
-    label: Buy Tickets
-  title: Checkout Page below
-  subtitle: ''
 - template: table
   component: table
   title: 'Camping '
