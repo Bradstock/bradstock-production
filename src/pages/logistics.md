@@ -63,10 +63,11 @@ blocks:
   orientation: Image Left
   title: Directions
   alt: image of a map of camp Pa Qua Tuck
-  content: <a href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
+  content: <a href="https://www.google.com/maps/dir/Camp+Pa+Qua+Tuck,+2+Chet+Swezey+Rd,+Center+Moriches,+NY+11934/@40.8035509,-72.7765539,17z/data=!4m16!1m6!3m5!1s0x89e859bceae55299:0xcc1e85b44974958e!2sCamp+Pa+Qua+Tuck!8m2!3d40.8035509!4d-72.7743652!4m8!1m0!1m5!1m1!1s0x89e859bceae55299:0xcc1e85b44974958e!2m2!1d-72.7743652!2d40.8035509!3e1">Directions
+    to Camp Pa Qua Tuck</a><br>2 Chet Swezey Rd, Center Moriches, NY 11934
 - template: text-area
   component: text_area
-  text_area: directions info
+  text_area: "."
   text_center: false
 - template: tag
   component: tag
