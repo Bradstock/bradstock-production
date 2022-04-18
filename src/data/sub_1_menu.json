@@ -1,38 +1,38 @@
 [
   {
-    "title": "Lineup",
-    "type": "internal",
-    "url": "/lineup",
+    "type": "Internal",
+    "url": "/tickets",
+    "title": "Tickets",
     "text_color": "text-cyan-600"
   },
   {
-    "title": "Vendor Inquiry",
     "type": "internal",
-    "url": "/vendors",
-    "text_color": "text-teal-600"
+    "url": "/lineup",
+    "title": "Lineup",
+    "text_color": "text-emerald-600"
   },
   {
-    "title": "Artist Inquiry",
     "type": "internal",
-    "url": "/artists",
+    "url": "/vendors",
+    "title": "Vendor Inquiry",
     "text_color": "text-lime-500"
   },
   {
-    "title": "Social Conscience",
     "type": "internal",
     "url": "/social-conscience",
+    "title": "Social Conscience",
     "text_color": "text-yellow-500"
   },
   {
-    "title": "Supporters and Partners",
     "type": "internal",
     "url": "/supporters-and-partners",
-    "text_color": "text-pink-600"
+    "title": "Supporters and Partners",
+    "text_color": "text-pink-700"
   },
   {
-    "title": "Tickets",
-    "type": "internal",
-    "url": "/tickets",
+    "title": "Archive",
+    "type": "Internal",
+    "url": "/archive",
     "text_color": "text-rose-700"
   }
 ]
