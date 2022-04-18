@@ -121,11 +121,11 @@ blocks:
   tag: remember
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/wilson-mathew-kircjweh5da-unsplash.jpg"
+  tai_image: "/images/ripple.png"
   background: dark
   orientation: Image Left
   title: In Remembrance
-  alt: oil pot with wick burning
+  alt: Ripple song lyrics with water image of ripples
   content: ''
 - template: gallery
   component: gallery
