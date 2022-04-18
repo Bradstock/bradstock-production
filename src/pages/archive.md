@@ -64,6 +64,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/acoustic.JPG"
+    alt: Acoustic Stage Bradstock XXV
+    image_info: Acoustic Stage Bradstock XXV
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/flower-power.jpg"
     alt: Flower Power Stage Bradstock XXV
     image_info: Flower Power Stage Bradstock XXV
