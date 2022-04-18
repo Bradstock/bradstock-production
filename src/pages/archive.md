@@ -24,6 +24,18 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/main-stage-lineup-final.JPG"
+    alt: Main Stage BS XXVI
+    image_info: Main Stage BS XXVI
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/flower-power-lineup-final.jpg"
+    alt: Flower Power Stage BS XXVI
+    image_info: Flower Power Stage BS XXVI
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/bsxxvi-poster.jpeg"
     alt: BS XXVI Poster
     image_info: ''
