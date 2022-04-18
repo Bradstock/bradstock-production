@@ -24,9 +24,15 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/acoustic-stage-line-up-final.jpg"
-    alt: Acoustic Stage Bradstock XXVI
-    image_info: Acoustic Stage Bradstock XXVI
+  - gallery_image: "/images/poetry-porch-draft-7-with-toni.png"
+    alt: Poetry Stage Bradstock XXVI
+    image_info: Poetry Stage Bradstock XXVI
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/bsxxvi-poster.jpeg"
+    alt: BS XXVI Poster
+    image_info: ''
     logo: false
     logo_name: ''
     logo_url: ''
@@ -36,15 +42,15 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/flower-power-lineup-final.jpg"
-    alt: Flower Power Stage Bradstock XXVI
-    image_info: Flower Power Stage Bradstock XXVI
+  - gallery_image: "/images/acoustic-stage-line-up-final.jpg"
+    alt: Acoustic Stage Bradstock XXVI
+    image_info: Acoustic Stage Bradstock XXVI
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/bsxxvi-poster.jpeg"
-    alt: BS XXVI Poster
-    image_info: ''
+  - gallery_image: "/images/flower-power-lineup-final.jpg"
+    alt: Flower Power Stage Bradstock XXVI
+    image_info: Flower Power Stage Bradstock XXVI
     logo: false
     logo_name: ''
     logo_url: ''
