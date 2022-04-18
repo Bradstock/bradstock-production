@@ -99,14 +99,20 @@ blocks:
   tag: year2017
 - template: text-area
   component: text_area
-  text_area: "### 2017"
+  text_area: "### 2017 Bradstock XXIV"
   text_center: true
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/136708417_10224942289170537_2721481594352044058_n.jpg"
-    alt: man wit a rainbow umbrella
-    image_info: ''
+  - gallery_image: "/images/multistage-lineup-bradstock-xxiv.jpeg"
+    alt: Multi-Stage Line-up Bradstock XXIV
+    image_info: Multi-Stage Line-up Bradstock XXIV
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/slide1.JPG"
+    alt: Poetry Stage Bradstock XXIV
+    image_info: Poetry Stage Bradstock XXIV
     logo: false
     logo_name: ''
     logo_url: ''
