@@ -11,9 +11,9 @@ blocks:
   text_area: |-
     ## Labor Day Weekend
 
-    ## Sept 3rd & 4th 2022
+    ### September 3rd & 4th 2022
 
-    Camp Pa Qua Tuck, Center Moriches, NY
+    ##### Camp Pa Qua Tuck, Center Moriches, NY
 
     #### More info and tickets below
   button:
