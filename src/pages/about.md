@@ -7,6 +7,12 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: "/images/275557916_10227717602791643_7708293183269079265_n.jpg"
+- template: image
+  component: image
+  position: Left
+  image_center_width: N/A
+  image: "/images/stage.jpg"
+  alt: bradstock stage
 - template: text-area
   component: text_area
   text_area: "## Our History\n\nOver Labor Day weekend in 1994, several friends from
