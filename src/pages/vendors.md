@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Vendors
   subtitle: Apply to be a Vendor
-  background_image: "/images/vending.jpg"
+  background_image: "/images/5-1.png"
 - template: text-area
   component: text_area
   text_area: |-
@@ -21,6 +21,7 @@ blocks:
     You will be notified if you are approved to vend this year.  There is a small vending fee that will be charged for each vending spot, this is in addition to festival tickets which are required for all to enter Bradstock.
 
     Once again, thank you for your interest & support.
+  text_center: false
 - template: iframe
   component: iframe
   url: https://docs.google.com/forms/d/e/1FAIpQLSc18-HVB6fFYp4GM68q97M5TfxxBLvhBBx2k533gb6jxxu70w/viewform?embedded=true
