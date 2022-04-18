@@ -24,8 +24,8 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/69500440_10216580868608870_4050238672199483392_n.jpg"
-    alt: man smiling with cat ears
+  - gallery_image: "/images/bsxxvi-poster.jpeg"
+    alt: BS XXVI Poster
     image_info: ''
     logo: false
     logo_name: ''
