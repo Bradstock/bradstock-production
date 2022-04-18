@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Social Conscience
   subtitle: If I had the world to give, I'd give it to you
-  background_image: "/images/social-conscience.png"
+  background_image: "/images/social-conscience-original-image.png"
 - template: text-area
   component: text_area
   text_area: |-
