@@ -64,6 +64,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/logo.JPG"
+    alt: Bradstock XXV
+    image_info: Bradstock XXV
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/poets.JPG"
     alt: Poetry Stage Bradstock XXV
     image_info: Poetry Stage Bradstock XXV
