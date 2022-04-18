@@ -31,8 +31,8 @@ blocks:
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/main-stage-lineup-final.JPG"
-    alt: Main Stage BS XXVI
-    image_info: Main Stage BS XXVI
+    alt: Main Stage Bradstock XXVI
+    image_info: Main Stage Bradstock XXVI
     logo: false
     logo_name: ''
     logo_url: ''
