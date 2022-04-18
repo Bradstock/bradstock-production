@@ -105,30 +105,14 @@ blocks:
   component: gallery
   gallery_field_group:
   - gallery_image: "/images/multistage-lineup-bradstock-xxiv.jpeg"
-    alt: Multi-Stage Line-up Bradstock XXIV
-    image_info: Multi-Stage Line-up Bradstock XXIV
+    alt: Multi-Stage Lineup Bradstock XXIV
+    image_info: Multi-Stage Lineup Bradstock XXIV
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/slide1.JPG"
-    alt: Poetry Stage Bradstock XXIV
-    image_info: Poetry Stage Bradstock XXIV
-    logo: false
-    logo_name: ''
-    logo_url: ''
-- template: tag
-  component: tag
-  tag: pre2016
-- template: text-area
-  component: text_area
-  text_area: "### Pre 2016"
-  text_center: true
-- template: gallery
-  component: gallery
-  gallery_field_group:
-  - gallery_image: "/images/69840862_10221262999432822_1145453634515894272_n.jpg"
-    alt: children at the festival dresses as hippies
-    image_info: ''
+    alt: Poetry Stage Lineup Bradstock XXIV
+    image_info: Poetry Stage Lineup Bradstock XXIV
     logo: false
     logo_name: ''
     logo_url: ''
