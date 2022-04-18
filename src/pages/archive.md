@@ -10,7 +10,7 @@ blocks:
 - template: text-area
   component: text_area
   text_area: |-
-    # ✿ [2019](/archive#year2019 "2019") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿
+    # ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿ [pre 2016](/archive#pre2016 "pre 2016") ✿
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
@@ -19,7 +19,7 @@ blocks:
   tag: year2019
 - template: text-area
   component: text_area
-  text_area: "### 2019"
+  text_area: "### 2019 - Bradstock XXVI"
   text_center: true
 - template: gallery
   component: gallery
