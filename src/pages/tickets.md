@@ -61,7 +61,7 @@ blocks:
     show_image: true
     alt: Camp- Add On tent with trees
   col3:
-    col_image: ''
+    col_image: "/images/favicon.png"
     title: ''
     content: ''
     show_image: false
