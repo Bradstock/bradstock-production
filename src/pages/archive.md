@@ -59,7 +59,7 @@ blocks:
   tag: year2018
 - template: text-area
   component: text_area
-  text_area: "### 2018"
+  text_area: "### 2018 - Bradstock XXV"
   text_center: true
 - template: gallery
   component: gallery
