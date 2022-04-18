@@ -37,8 +37,8 @@ blocks:
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/flower-power-lineup-final.jpg"
-    alt: Flower Power Stage BS XXVI
-    image_info: Flower Power Stage BS XXVI
+    alt: Flower Power Stage Bradstock XXVI
+    image_info: Flower Power Stage Bradstock XXVI
     logo: false
     logo_name: ''
     logo_url: ''
