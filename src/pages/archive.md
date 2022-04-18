@@ -64,9 +64,9 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/69407088_10214795494380937_2574208616160559104_n.jpg"
-    alt: 'group photo '
-    image_info: ''
+  - gallery_image: "/images/mainstage.jpg"
+    alt: 'Main Stage Bradstock XXV '
+    image_info: Main Stage Bradstock XXV
     logo: false
     logo_name: ''
     logo_url: ''
