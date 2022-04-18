@@ -24,6 +24,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/acoustic-stage-line-up-final.jpg"
+    alt: Acoustic Stage Bradstock XXVI
+    image_info: Acoustic Stage Bradstock XXVI
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/main-stage-lineup-final.JPG"
     alt: Main Stage BS XXVI
     image_info: Main Stage BS XXVI
