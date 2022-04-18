@@ -8,7 +8,7 @@
   {
     "type": "internal",
     "url": "/lineup",
-    "title": "Lineup",
+    "title": "Lineups",
     "text_color": "text-emerald-600"
   },
   {
@@ -27,7 +27,7 @@
     "type": "internal",
     "url": "/supporters-and-partners",
     "title": "Supporters and Partners",
-    "text_color": "text-pink-700"
+    "text_color": "text-pink-600"
   },
   {
     "title": "Archive",
