@@ -2,11 +2,13 @@
 template: blocks
 title: Lineups
 blocks:
-- template: hero
-  component: hero
-  title: Lineups
-  subtitle: 'Schedule for all Stages '
-  background_image: "/images/21366695_1566913633391782_7392532547451706060_o-2.jpg"
+- template: text-area
+  component: text_area
+  text_area: |-
+    # Lineups
+
+    Schedule for all Stages
+  text_center: true
 - template: two-column
   component: two_column
   col1:
