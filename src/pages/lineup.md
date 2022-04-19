@@ -112,11 +112,5 @@ blocks:
       </span><strong><span class="Apple-converted-space"><br></span>10:00 AM - </strong>Yogo
       on the Club House Porch<strong><br>11:15 AM - </strong>Kids Wake-Up Parade
   title: 'Poetry Stage & More '
-- template: image
-  component: image
-  position: Center
-  image_center_width: N/A
-  image: "/images/tickets-background-tie-dye.png"
-  alt: x
 
 ---
