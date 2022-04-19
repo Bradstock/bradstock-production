@@ -40,6 +40,7 @@ fields:
     - 25%
     - 50%
     - 75%
+    - Verticle
     source:
       type: simple
       section: 
