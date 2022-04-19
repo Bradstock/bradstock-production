@@ -81,5 +81,11 @@ blocks:
     url: "/tickets"
   title: Ticketing information
   subtitle: ''
+- template: image
+  component: image
+  position: Center
+  image_center_width: 25%
+  image: "/images/brad22.png"
+  alt: bradstock poster skull and Phoenix
 
 ---
