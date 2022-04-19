@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: ''
   subtitle: ''
-  background_image: "/images/bradstock-updated-6.png"
+  background_image: "/images/bradstock-updated-final.png"
 - template: text-area
   component: text_area
   text_area: "# Ticketing Info"
