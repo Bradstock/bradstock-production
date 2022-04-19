@@ -1,9 +1,7 @@
 import React from 'react'
 
 const Column = ({ columnData, noImage }) => (
-  <div>
-    {console.log(noImage)}
-    
+  <div>    
     <div className={
       noImage === true
       ? 'md:h-[20rem] w-[97%] mx-auto'

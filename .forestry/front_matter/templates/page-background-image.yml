@@ -2,6 +2,11 @@
 label: Page Background Image
 hide_body: true
 fields:
+- type: text
+  name: component
+  label: component
+  hidden: true
+  default: page_background_image
 - name: background_image
   type: file
   config:

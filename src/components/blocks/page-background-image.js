@@ -3,7 +3,7 @@ import React from 'react'
 const PBI = ({ block }) => (
  
     <section>
-
+    {console.log(block)}
     {block.background_image && (
       <div 
       alt='background'
