@@ -11,7 +11,7 @@ blocks:
   component: image
   position: Left
   image_center_width: N/A
-  image: "/images/stage.jpg"
+  image: "/images/social-conscience-original-image.png"
   alt: bradstock stage
 - template: text-area
   component: text_area
