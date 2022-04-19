@@ -9,9 +9,7 @@ blocks:
   alt: Bradstock Icon with a skull and eagle
   title: Bradstock XXIX
   text_area: |-
-    ## Labor Day Weekend
-
-    ### September 3rd & 4th 2022
+    ## Labor Day Weekend September 3rd & 4th 2022
 
     ##### Camp Pa Qua Tuck, Center Moriches, NY
 
