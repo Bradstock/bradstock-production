@@ -17,7 +17,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: 25%
   image: "/images/1167665_499908766758946_1603767001_o.jpg"
   alt: bradstock stage
 - template: text-area
@@ -30,7 +30,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: 25%
   image: "/images/118881508_10217750954827527_4957954583375051959_n.jpg"
   alt: love sign
 - template: text-area
