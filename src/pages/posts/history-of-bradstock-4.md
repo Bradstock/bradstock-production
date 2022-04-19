@@ -5,6 +5,8 @@ date: 2022-01-20
 ---
 Last  year we celebrated 24 years of Bradstock magic and hearkened back 50 years to 1967 -  The Summer of Love.  And isn't that really the magic ingredient that propels our Circle of Chiefs year after year? Love. Community. Music. XXIV attendees were treated to a performance by none other than Tom Constanten, former Grateful Dead keyboardist, who with his band Live Dead 69 brought that San Francisco vibe to Center Moriches. Mother Nature once again had us on pins and needles as Saturday night's howling winds had us hold our breaths on what Sunday would bring.  Sunshine poured down and XXIV gloriously played on right up to the Electrix's second encore to close out the festival with a homage to the passing of Chuck Berry – Johnny B. Goode!
 
+![](/images/41069117_1979782295438245_4788172649891102720_n.jpg)
+
 And that brings us today to our silver anniversary – XXV years of Bradstock karma. May the Circle of Chiefs be unbroken!
 
 The Camp has so much to offer – not just to Bradstock but to the campers it hosts throughout the summer.  Knowing that our donations are helping children with special challenges have a week of summer fun and camp enjoyment is a true motivator to the Circle of Chiefs.  The hardy band of regulars and the newbies who decide they want to participate and give of their time and effort to make Bradstock happen are inspired by the mission of the Camp.  We especially want to acknowledge the support of Camp Director Bridget Costello and the Board of the Rotary Health Club of Center Moriches as we work together to improve our Festival and continue to make enduring contributions to the Camp.
