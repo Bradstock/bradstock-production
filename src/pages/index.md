@@ -29,12 +29,6 @@ blocks:
 
     Beneficiaries include Camp-Pa-Qua-Tuck, the Long Island Maritime Museum, Friends of Connetquot River State Park, the Sayville Kiwanis Club, G.R.O.W., WUSB, They Often Cry Out, the Unbroken Chain Foundation, the Sayville Village Improvement Society, the Bayport and West Sayville Civic Associations and the Peconic Baykeeper.
   text_center: true
-- template: image
-  component: image
-  position: Center
-  image_center_width: 25%
-  image: "/images/brad22.png"
-  alt: bradstock poster skull and Phoenix
 - template: title-button
   component: title_button
   background: transparent
@@ -44,6 +38,12 @@ blocks:
     url: "/about"
   title: More Information about Bradstock
   subtitle: ''
+- template: image
+  component: image
+  position: Center
+  image_center_width: 25%
+  image: "/images/brad22.png"
+  alt: bradstock poster skull and Phoenix
 - template: text-area
   component: text_area
   text_area: |-
