@@ -4,7 +4,7 @@ template: blocks
 blocks:
 - template: home-hero
   component: home_hero
-  home_logo_image: "/images/brad22.png"
+  home_logo_image: "/images/group.png"
   home_background_image: "/images/69722263_2471955769557169_8972831291510620160_n.jpg"
   alt: Bradstock Icon with a skull and eagle
   title: Bradstock XXIX
