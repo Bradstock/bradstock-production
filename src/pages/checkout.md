@@ -6,5 +6,8 @@ blocks:
   component: text_area
   text_area: "## Buy Tickets Below"
   text_center: true
+- template: ticket-processing
+  component: ticket_processing
+  widget_html: ''
 
 ---
