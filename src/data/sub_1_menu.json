@@ -31,7 +31,7 @@
   },
   {
     "title": "Archive",
-    "type": "Internal",
+    "type": "internal",
     "url": "/archive",
     "text_color": "text-rose-700"
   }
