@@ -13,7 +13,6 @@ const Image = ({ block }) => (
         block.image_center_width === 'Verticle' ? `w-[85%] md:w-[65%] lg:w-[30%] mx-auto my-4` : 
         `w-[50%] mx-auto my-4` :
         `w-[50%] mx-auto my-4`
-
     }
   >
     {/* {console.log(block)} */}
