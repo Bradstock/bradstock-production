@@ -34,9 +34,9 @@ const HomeHero = ({ block }) => (
             </div>
             {/* col 2 text */}
             <div className="md:min-h-[26rem] text-center lg:text-left flex items-center justify-center">
-              <div>
+              <div className='w-full'>
 
-              <h1 className="text-4xl tracking-tight font-extrabold text-cyan-700 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl">
+              <h1 className="text-4xl tracking-tight font-extrabold text-cyan-700 sm:text-5xl md:text-5xl lg:text-5xl xl:text-6xl">
                  {block.title}
               </h1>
               {/* <div className="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl"> */}
