@@ -30,7 +30,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: Verticle
   image: "/images/brad22.png"
   alt: bradstock poster skull and Phoenix
 - template: title-button
