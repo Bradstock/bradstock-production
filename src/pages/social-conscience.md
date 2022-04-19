@@ -14,7 +14,7 @@ blocks:
 
     Over the years, we have supported many local Long Island charitable organizations that work to preserve our beautiful island and help our neighbors in need.
 
-    #### <h4 style='text-align:enter'>To date, Bradstock has donated over $275,000.</h4/>
+    #### To date, Bradstock has donated over $275,000.
 
     Since Bradstock's early beginnings, we've collected non-perishable food for Island Harvest from our generous Bradstock family.  Over the years, truck loads have been donated to Island Harvest, as well as, cash donations.
 
