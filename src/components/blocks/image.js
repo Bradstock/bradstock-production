@@ -10,8 +10,10 @@ const Image = ({ block }) => (
         block.image_center_width === '25%' ? `w-[25%] mx-auto my-4` :
         block.image_center_width === '50%' ? `w-[50%] mx-auto my-4` :
         block.image_center_width === '75%' ? `w-[75%] mx-auto my-4` : 
-        `w-[50%] mx-auto my-4` : 
+        block.image_center_width === 'Verticle' ? `w-[85%] md:w-[65%] lg:w-[30%] mx-auto my-4` : 
+        `w-[50%] mx-auto my-4` :
         `w-[50%] mx-auto my-4`
+
     }
   >
     {/* {console.log(block)} */}
