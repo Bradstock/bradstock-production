@@ -7,6 +7,12 @@ blocks:
   title: About Us
   subtitle: ''
   background_image: "/images/275557916_10227717602791643_7708293183269079265_n.jpg"
+- template: image
+  component: image
+  position: Center
+  image_center_width: 25%
+  image: "/images/1167665_499908766758946_1603767001_o.jpg"
+  alt: bradstock stage
 - template: text-area
   component: text_area
   text_area: |-
@@ -14,12 +20,6 @@ blocks:
 
     Over Labor Day weekend in 1994, several friends from the Bayport-Sayville area organized a day of music, food and fun. Held in the backyard of Bayport resident Brad Ringhouse, the event, which proved to be a rousing success, was aptly dubbed “Bradstock.” With enthusiasm sky high, the all-volunteer organizers planned Bradstock II for the following Labor Day. However, two extra ingredients were to be added to the original, successful formula - a focus on our environment, and a determination to raise funds to donate to area organizations. The good time had by all was to be complemented with a good cause supported by all. Which is exactly what has happened.
   text_center: false
-- template: image
-  component: image
-  position: Center
-  image_center_width: 25%
-  image: "/images/1167665_499908766758946_1603767001_o.jpg"
-  alt: bradstock stage
 - template: text-area
   component: text_area
   text_area: |-
