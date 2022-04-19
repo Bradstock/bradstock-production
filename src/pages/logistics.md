@@ -100,7 +100,7 @@ blocks:
   tag: accessibility
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/accesibility.png"
+  tai_image: "/images/handicapped-accessable.png"
   background: light
   orientation: Image Left
   title: Accessibility
