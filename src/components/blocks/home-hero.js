@@ -26,7 +26,7 @@ const HomeHero = ({ block }) => (
               <div className="order-first md:order-last min-h-[13rem] sm:min-h-[15rem] md:min-h-[26rem] flex items-end md:items-center justify-center">
                   {block.home_logo_image && (
                     <img
-                      className='h-40 sm:h-52 md:h-64 lg:h-72 xl:h-96'
+                      className='h-44 sm:h-56 md:h-64 lg:h-72 xl:h-96'
                       alt={block.alt}
                       srcSet={block.home_logo_image.childImageSharp.fluid.srcSet}
                     />
