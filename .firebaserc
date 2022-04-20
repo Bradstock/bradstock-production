@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "bradstock-production",
+    "default": "bradstock-stage",
+    "stage": "bradstock-stage",
     "prod": "bradstock-production"
   }
 }
