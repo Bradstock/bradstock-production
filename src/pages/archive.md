@@ -120,11 +120,11 @@ blocks:
   tag: remember
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/in-rememberance-image.png"
+  tai_image: "/images/in-rememberance-image-fix.png"
   background: dark
   orientation: Image Left
   title: In Remembrance
-  alt: Ripple song lyrics with water image of ripples
+  alt: 'In remembrance '
   content: If you'd like to share a photo of a Bradstocker who's passed, please send
     one photo and their name to FriendsofBradstock@gmail.com
 - template: gallery
