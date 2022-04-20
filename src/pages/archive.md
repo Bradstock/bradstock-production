@@ -128,6 +128,12 @@ blocks:
   content: ''
 - template: gallery
   component: gallery
-  gallery_field_group: []
+  gallery_field_group:
+  - gallery_image: "/images/angela-woolly-esposito-3.jpg"
+    alt: Angela Woolly Esposito
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
 
 ---
