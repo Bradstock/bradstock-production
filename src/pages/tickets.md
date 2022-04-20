@@ -71,12 +71,12 @@ blocks:
     alt: ''
 - template: title-button
   component: title_button
-  background: transparent
+  background: dark
   button:
-    button_type: Internal
-    label: Buy Tickets
-    url: "/checkout"
-  title: Checkout Page below
+    button_type: External
+    label: Buy Tickets Here
+    url: https://fareharbor.com/embeds/book/bradstock/items/374736/?full-items=yes&flow=730827
+  title: Checkout with FareHarbor below
   subtitle: ''
 
 ---
