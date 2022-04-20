@@ -78,7 +78,7 @@ blocks:
     logo_url: ''
 - template: title-button
   component: title_button
-  background: transparent
+  background: light
   button:
     button_type: Internal
     label: click here
