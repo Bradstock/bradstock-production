@@ -80,17 +80,13 @@ blocks:
   background: light
   orientation: Image Left
   title: Accessibility
-  content: ''
-  alt: Wheelchair Accessibility
-- template: text-area
-  component: text_area
-  text_area: "Camp Pa Qua Tuck is a camp for children & adults with special needs
-    therefore you can get around Camp with a wheelchair or walker.\n\nBradstock has
+  content: Camp Pa Qua Tuck is a camp for children &amp; adults with special needs
+    therefore you can get around Camp with a wheelchair or walker.<br>Bradstock has
     a limited number of golf carts in regular circulation that can also assist those
     needing help getting around.  Feel free to let one of our security guards or volunteer
     staff know if you need assistance getting from here to there.  We will do our
-    best to help you get around ... you just may need to be patient with us.  "
-  text_center: false
+    best to help you get around ... you just may need to be patient with us.
+  alt: Wheelchair Accessibility
 - template: tag
   component: tag
   tag: camp
