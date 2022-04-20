@@ -3,6 +3,7 @@ template: blocks
 title: Lineups
 blocks:
 - template: page-background-image
+  component: page_background_image
   background_image: "/images/tickets-background-tie-dye.png"
 - template: text-area
   component: text_area

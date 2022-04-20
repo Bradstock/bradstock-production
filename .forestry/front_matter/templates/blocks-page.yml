@@ -27,7 +27,6 @@ fields:
   - button
   - tag
   - video
-  - ticket-processing
   - page-background-image
 pages:
 - src/pages/about.md

@@ -19,7 +19,6 @@ import Gallery from '../components/blocks/gallery'
 import Tag from '../components/blocks/tag'
 import Button from '../components/blocks/button'
 import Video from '../components/blocks/video'
-import TicketProcessing from '../components/blocks/ticket-processing'
 import PBI from '../components/blocks/page-background-image'
 
 
@@ -108,8 +107,6 @@ class BlocksTemplate extends React.Component {
               return <Video block={block} />
             case 'tag':
             return <Tag block={block} />
-            case 'ticket_processing':
-            return <TicketProcessing block={block} />
             case 'page_background_image':
               return <PBI block={block} />
             default:
