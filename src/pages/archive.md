@@ -129,6 +129,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/heather-petrie.jpg"
+    alt: Heather Petri
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/203642926_10219545016046504_5833197862622700564_n.jpg"
     alt: 'Eric '
     image_info: ''
