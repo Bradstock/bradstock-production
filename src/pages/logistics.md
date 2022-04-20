@@ -51,7 +51,7 @@ blocks:
   background: light
   orientation: Image Left
   title: Directions
-  alt: image of a map of camp Pa Qua Tuck
+  alt: 'image of a map '
   content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934<br><br><a
     href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
 - template: tag
