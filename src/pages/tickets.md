@@ -9,7 +9,10 @@ blocks:
   background_image: "/images/bradstock-updated-final.png"
 - template: text-area
   component: text_area
-  text_area: "# Ticketing Info"
+  text_area: |-
+    # Ticketing Info
+
+    Scroll to bottom to purchase tickets
   text_center: true
 - template: table
   component: table
