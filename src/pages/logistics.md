@@ -36,7 +36,12 @@ blocks:
   orientation: Image Right
   title: Eats
   alt: 'food truck '
-  content: ''
+  content: We have multiple food vendors at Bradstock.<br>The US Coast Guard offers
+    a basic menu of burgers &amp; dogs, as well as breakfast for campers on Sunday
+    morning.<br>Food trucks are also onsite offering various items for lunch, dinner
+    &amp; breakfast for campers.<br>Unlike other festivals, you can also bring your
+    own snacks, drinks &amp; meals to Bradstock ... we only ask that you clean up
+    after yourself - leaving the camp better than you found it!
 - template: text-area
   component: text_area
   text_area: |-
