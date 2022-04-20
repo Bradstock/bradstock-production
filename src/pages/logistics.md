@@ -96,7 +96,7 @@ blocks:
   background: light
   orientation: Image Right
   title: Camp Pa Qua Tuck
-  alt: Camp pa qua tuck dining hall
+  alt: Camp pa qua tuck logo
   content: 'Camp Pa-Qua-Tuck – dedicated to the benefit of special needs individuals
     of Long Island and beyond – stands today, not from the efforts of one organization,
     but rather as a culmination of a tremendous wave of effort from many Rotary Clubs
