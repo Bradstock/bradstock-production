@@ -26,19 +26,6 @@ blocks:
     &amp; considerate Bradstock family.
   alt: Bradstock overhead view
   title: Camping
-- template: text-area
-  component: text_area
-  text_area: "Camp Pa Qua Tuck allows Bradstock to offer camping for festival goers
-    so they can stay the weekend and enjoy the festivities.  \n\nFriends of Bradstock
-    employs overnight security at camp during the festival.\n\nAs guests of the Camp,
-    Bradstock Chiefs expect that those staying over night will be respectful of all
-    Camp property, the Camp's neighbors and of other campers.  If not, Bradstock reserves
-    the right to immediately expel unruly campers from camping and from the festival
-    without refund. \n\nThe camp explicitly prohibits:\n\n* Open campfires \n* Boating
-    or swimming in Kalers Pond\n* Entry into camp buildings other than showers/toilets
-    for campers\n\nWe expect the privilege to camp will not be abused by our peace-loving
-    & considerate Bradstock family."
-  text_center: false
 - template: tag
   component: tag
   tag: Eats
@@ -48,7 +35,7 @@ blocks:
   background: light
   orientation: Image Right
   title: Eats
-  alt: Man drinking a beer from a glass boot
+  alt: 'food truck '
   content: ''
 - template: text-area
   component: text_area
