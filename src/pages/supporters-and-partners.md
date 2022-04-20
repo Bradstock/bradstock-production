@@ -6,7 +6,7 @@ blocks:
   component: hero
   title: Partners and Supporters
   subtitle: Thank You for your support
-  background_image: "/images/jene-stephaniuk-mcrf6hnoju-unsplash.jpg"
+  background_image: "/images/partners-heading.png"
 - template: text-area
   component: text_area
   text_center: true
