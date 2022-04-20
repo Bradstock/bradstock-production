@@ -129,6 +129,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/136708417_10224942289170537_2721481594352044058_n.jpg"
+    alt: Joe Poppi Lienau
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/travis-mckevny.jpg"
     alt: Travis McKeveny
     image_info: ''
