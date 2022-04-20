@@ -129,6 +129,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/heather-petrie.jpg"
+    alt: Heather Petrie
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
     alt: KC Cowen
     image_info: ''
