@@ -24,19 +24,6 @@ const PBI = ({ block }) =>
         </div>
       </BackgroundImage>
     )
-     
-//     // return (
-//     // <div  className='w-full h-full bg-no-repeat bg-cover'>
-//     // {block.background_image && (
-//     //     <img
-//     //       alt={block.title}
-//     //       className="w-full h-full object-cover"
-//     //       srcSet={block.background_image.childImageSharp.fluid.srcSet}
-//     //     />
-//     // )}
-//     //  </div>
-    // )
-
 }
 
   

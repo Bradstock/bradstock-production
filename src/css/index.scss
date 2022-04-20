@@ -155,3 +155,7 @@ footer{
 .scoll-btn-style:hover:before{
 	transform: rotate(360deg);
 }
+
+[data-rmiz-wrap='visible'], [data-rmiz-wrap='hidden'] {
+    display: flex !important;
+}

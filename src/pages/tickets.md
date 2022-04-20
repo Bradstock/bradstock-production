@@ -71,7 +71,7 @@ blocks:
     alt: ''
 - template: title-button
   component: title_button
-  background: primary
+  background: light
   button:
     button_type: External
     label: Buy Tickets Here

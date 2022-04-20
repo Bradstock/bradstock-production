@@ -106,7 +106,7 @@ class BlocksTemplate extends React.Component {
             case 'video':
               return <Video block={block} />
             case 'tag':
-            return <Tag block={block} />
+              return <Tag block={block} />
             case 'page_background_image':
               return <PBI block={block} />
             default:

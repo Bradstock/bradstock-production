@@ -18,7 +18,7 @@ const HomeHero = ({ block }) => (
               />
         )}
         {/* bg pic overlay */}
-        <div className="absolute inset-0 backdrop-saturate-50 bg-amber-50/70" aria-hidden="true" />
+        <div className="absolute inset-0 backdrop-saturate-50 bg-amber-50/60" aria-hidden="true" />
 
           {/* row cols */}
           <div className='absolute md:min-h-[26rem] inset-0 mt-[8rem] md:columns-2'>
