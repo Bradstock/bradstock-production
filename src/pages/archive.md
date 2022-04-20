@@ -125,7 +125,8 @@ blocks:
   orientation: Image Left
   title: In Remembrance
   alt: Ripple song lyrics with water image of ripples
-  content: ''
+  content: If you'd like to share a photo of a Bradstocker who's passed, please send
+    one photo and their name to FriendsofBradstock@gmail.com
 - template: gallery
   component: gallery
   gallery_field_group:
