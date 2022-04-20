@@ -129,6 +129,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/robert-winterhawk-de-loney-5.jpg"
+    alt: Robert Winterhawk De Loney
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/heather-petrie.jpg"
     alt: Heather Petrie
     image_info: ''
