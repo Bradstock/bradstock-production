@@ -42,17 +42,6 @@ blocks:
     &amp; breakfast for campers.<br>Unlike other festivals, you can also bring your
     own snacks, drinks &amp; meals to Bradstock ... we only ask that you clean up
     after yourself - leaving the camp better than you found it!
-- template: text-area
-  component: text_area
-  text_area: |-
-    We have multiple food vendors at Bradstock.
-
-    The US Coast Guard offers a basic menu of burgers & dogs, as well as breakfast for campers on Sunday morning.
-
-    Food trucks are also onsite offering various items for lunch, dinner & breakfast for campers.
-
-    Unlike other festivals, you can also bring your own snacks, drinks & meals to Bradstock ... we only ask that you clean up after yourself - leaving the camp better than you found it!
-  text_center: false
 - template: tag
   component: tag
   tag: directions
@@ -63,12 +52,8 @@ blocks:
   orientation: Image Left
   title: Directions
   alt: image of a map of camp Pa Qua Tuck
-  content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934
-- template: text-area
-  component: text_area
-  text_area: '[https://goo.gl/maps/KekxWShXyBikGgcc7](https://goo.gl/maps/KekxWShXyBikGgcc7
-    "https://goo.gl/maps/KekxWShXyBikGgcc7")'
-  text_center: false
+  content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934<br><br><a
+    href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
 - template: tag
   component: tag
   tag: parking
@@ -79,14 +64,13 @@ blocks:
   orientation: Image Right
   title: Parking
   alt: cars in a field
-  content: ''
-- template: text-area
-  component: text_area
-  text_area: |-
-    Camp Pa Qua Tuck has limited parking, we have a parking crew that will help direct guests on where to park.   If you can car pool with friends, we'd appreciate it.  As the parking fields fill up you may need to park on Montauk Highway.  Please take care while parking and please be respectful of the team helping with parking, they are doing their best.
-
-    If you require Handicapped Parking please let the parking team know and they will direct you on where to park.
-  text_center: false
+  content: Camp Pa Qua Tuck has limited parking, we have a parking crew that will
+    help direct guests on where to park.   If you can car pool with friends, we'd
+    appreciate it.  As the parking fields fill up you may need to park on Montauk
+    Highway.  Please take care while parking and please be respectful of the team
+    helping with parking, they are doing their best.<br>If you require Handicapped
+    Parking please let the parking team know and they will direct you on where to
+    park.
 - template: tag
   component: tag
   tag: accessibility
