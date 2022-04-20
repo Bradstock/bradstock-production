@@ -60,22 +60,22 @@ render() {
                         <span className='text-2xl items-top mr-2'>&#10005;</span> CLOSE
                         </div>
                         <div className='flex justify-start'>
-                        <a
-                          href="https://www.facebook.com/BradstockFest/"
-                          target="_blank"
-                          rel="noreferrer"
-                          className='mx-2'
-                        >
-                        <FontAwesomeIcon className='text-gray-600 hover:text-gray-400' icon={faFacebook} size="2x" />
-                        </a>
-                        <a
-                          href="mailto:someone@example.com"
-                          target="_blank"
-                          rel="noreferrer"
-                          className='mx-2'
+                          <a
+                            href="https://www.facebook.com/BradstockFest/"
+                            target="_blank"
+                            rel="noreferrer"
+                            className='mx-2'
                           >
-                        <FontAwesomeIcon className='text-gray-600 hover:text-gray-400' icon={faEnvelope} size="2x" />
-                        </a>
+                            <FontAwesomeIcon className='text-gray-600 hover:text-gray-400' icon={faFacebook} size="2x" />
+                          </a>
+                          <a
+                            href="mailto:contact@bradstock.org"
+                            target="_blank"
+                            rel="noreferrer"
+                            className='mx-2'
+                            >
+                            <FontAwesomeIcon className='text-gray-600 hover:text-gray-400' icon={faEnvelope} size="2x" />
+                          </a>
                         </div>
 
                       </div>
@@ -106,7 +106,7 @@ render() {
                           })}
                         </div>
                         {/* cols2  */}
-                        <div className=''>
+                        <div>
                         {this.props.sub2.edges.map(edge => {
                           return edge.node.type === 'internal' ? (
                              edge.node.url.includes('#') ? (
@@ -145,13 +145,13 @@ render() {
                         <div className="justify-start my-1 sm:my-4">
                           {this.props.mainMenu.edges.map(edge => {
                             return edge.node.type === 'internal' ? (
-                                <a
+                                <Link
                                   key={edge.node.id}
                                   to={edge.node.url}
                                   className="whitespace-nowrap text-sm md:text-2xl mx-2 text-gray-500 hover:text-cyan-600 hover:underline"
                                 >
                                   {edge.node.title} 
-                                </a> 
+                                </Link> 
                               ) : (
                                 <a
                                   key={edge.node.id}

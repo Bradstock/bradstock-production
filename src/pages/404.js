@@ -14,7 +14,7 @@ const NotFoundPage = () => (
             <main className="max-w-5xl mx-auto content-container">
               Please choose a link from the menu for menu droptown.
               <br/>
-              If you have further issues, you can contact the site admin <a href='someone@example.com'>here</a>.
+              If you have further issues, you can contact the site admin <a href='help@bradstock.org'>here</a>.
             </main>
           </div>
         </section>
