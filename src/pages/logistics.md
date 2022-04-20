@@ -24,7 +24,7 @@ blocks:
     or swimming in Kalers Pond<br>- Entry into camp buildings other than showers/toilets
     for campers<br><br>We expect the privilege to camp will not be abused by our peace-loving
     &amp; considerate Bradstock family.
-  alt: Bradstock overhead view
+  alt: Bradstock Camping Logo
   title: Camping
 - template: tag
   component: tag
