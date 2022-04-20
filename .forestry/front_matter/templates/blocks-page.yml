@@ -32,7 +32,6 @@ pages:
 - src/pages/about.md
 - src/pages/archive.md
 - src/pages/artists.md
-- src/pages/checkout.md
 - src/pages/examples-of-blocks.md
 - src/pages/index.md
 - src/pages/lineup.md
