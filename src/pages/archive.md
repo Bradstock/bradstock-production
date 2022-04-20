@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Archive
-  subtitle: ''
+  subtitle: 'Click on an image to enlarge it'
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
