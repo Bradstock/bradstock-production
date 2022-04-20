@@ -130,7 +130,7 @@ blocks:
   component: gallery
   gallery_field_group:
   - gallery_image: "/images/heather-petrie.jpg"
-    alt: Heather Petri
+    alt: Heather Petrie
     image_info: ''
     logo: false
     logo_name: ''
