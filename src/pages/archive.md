@@ -129,8 +129,8 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/robert-winterhawk-de-loney-5.jpg"
-    alt: Robert Winterhawk De Loney
+  - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
+    alt: KC Cowen
     image_info: ''
     logo: false
     logo_name: ''
@@ -141,8 +141,8 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
-    alt: KC Cowen
+  - gallery_image: "/images/angela-woolly-esposito-3.jpg"
+    alt: Angela Woolly Esposito
     image_info: ''
     logo: false
     logo_name: ''
@@ -165,8 +165,8 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/angela-woolly-esposito-3.jpg"
-    alt: Angela Woolly Esposito
+  - gallery_image: "/images/robert-winterhawk-de-loney-5.jpg"
+    alt: Robert Winterhawk De Loney
     image_info: ''
     logo: false
     logo_name: ''
