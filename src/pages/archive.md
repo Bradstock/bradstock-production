@@ -126,7 +126,7 @@ blocks:
   title: In Remembrance
   alt: 'In remembrance '
   content: If you'd like to share a photo of a Bradstocker who's passed, please send
-    one photo and their name to FriendsofBradstock@gmail.com
+    one photo and their name to <a href="" title="">FriendsofBradstock@gmail.com</a>
 - template: gallery
   component: gallery
   gallery_field_group:
