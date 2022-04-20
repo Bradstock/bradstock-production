@@ -77,6 +77,6 @@ blocks:
     label: Buy Tickets Here
     url: https://fareharbor.com/embeds/book/bradstock/items/374736/?full-items=yes&flow=730827
   title: Checkout with FareHarbor below
-  subtitle: ''
+  subtitle: Will open a new tab
 
 ---
