@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Archive
-  subtitle: 'Click on an image to enlarge it'
+  subtitle: Click on an image to enlarge it
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
@@ -120,7 +120,7 @@ blocks:
   tag: remember
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/ripple.png"
+  tai_image: "/images/in-rememberance-image.png"
   background: dark
   orientation: Image Left
   title: In Remembrance
