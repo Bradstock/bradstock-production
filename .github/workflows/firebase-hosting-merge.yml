@@ -5,7 +5,6 @@ name: Deploy to Firebase Hosting on merge
 'on':
   push:
     branches:
-      # - master
       - stage
       # - prod
 jobs:
@@ -17,6 +16,8 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BRADSTOCK_STAGING }}'
+          # firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BRADSTOCK_PRODUCTION }}'
           channelId: live
           projectId: bradstock-staging
+          # projectId: bradstock-production
