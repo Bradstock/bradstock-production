@@ -136,7 +136,7 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/heather-petrie.jpg"
+  - gallery_image: "/images/heather-petrie-dancing1.jpg"
     alt: Heather Petrie
     image_info: ''
     logo: false
