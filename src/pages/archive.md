@@ -160,7 +160,7 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/travis-mckevny.jpg"
+  - gallery_image: "/images/travis.jpg"
     alt: Travis McKeveny
     image_info: ''
     logo: false
