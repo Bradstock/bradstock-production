@@ -13,7 +13,7 @@ const Gallery = ({ block }) => (
               {block.gallery_field_group.map((chunk)=> (
                 <div>
                     <Zoom>
-                      <div className='h-[20rem] w-[97%] mx-auto'>
+                      <div className='h-[20rem] w-[97%] mx-auto my-6' >
                         <img
                           alt={chunk.alt}
                           className="object-contain w-full h-full"
