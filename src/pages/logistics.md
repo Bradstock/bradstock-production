@@ -26,6 +26,7 @@ blocks:
     &amp; considerate Bradstock family.
   alt: Bradstock Camping Logo
   title: Camping
+  icon: false
 - template: tag
   component: tag
   tag: Eats
@@ -42,6 +43,7 @@ blocks:
     &amp; breakfast for campers.<br>Unlike other festivals, you can also bring your
     own snacks, drinks &amp; meals to Bradstock ... we only ask that you clean up
     after yourself - leaving the camp better than you found it!
+  icon: false
 - template: tag
   component: tag
   tag: directions
@@ -54,6 +56,7 @@ blocks:
   alt: 'image of a map '
   content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934<br><br><a
     href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
+  icon: false
 - template: title-button
   component: title_button
   background: transparent
@@ -65,9 +68,7 @@ blocks:
   subtitle: Will open in new window
 - template: iframe
   component: iframe
-  url: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24162.999333858006!2d-72.7707757!3d40.7977544!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e859bceae55299%3A0xcc1e85b44974958e!2sCamp%20Pa%20Qua%20Tuck!5e0!3m2!1sen!2sus!4v1650567963518!5m2!1sen!2sus"
-    width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"></iframe>
+  url: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24162.999333858006!2d-72.7707757!3d40.7977544!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e859bceae55299%3A0xcc1e85b44974958e!2sCamp%20Pa%20Qua%20Tuck!5e0!3m2!1sen!2sus!4v1650567963518!5m2!1sen!2sus
   iframe_height: '400'
 - template: tag
   component: tag
@@ -86,6 +87,7 @@ blocks:
     helping with parking, they are doing their best.<br>If you require Handicapped
     Parking please let the parking team know and they will direct you on where to
     park.
+  icon: false
 - template: tag
   component: tag
   tag: accessibility
@@ -102,6 +104,7 @@ blocks:
     staff know if you need assistance getting from here to there.  We will do our
     best to help you get around ... you just may need to be patient with us.
   alt: Wheelchair Accessibility
+  icon: false
 - template: tag
   component: tag
   tag: camp
@@ -128,5 +131,6 @@ blocks:
     Rotarians, community organizations and the Pa-Qua-Tuck Squaws who made our special
     camp possible. We would not exist today without your help.For more information
     and to donate to the camp: <a href="https://camppaquatuck.com/" title="https://camppaquatuck.com/">https://camppaquatuck.com/</a>'
+  icon: false
 
 ---
