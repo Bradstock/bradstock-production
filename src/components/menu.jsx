@@ -61,7 +61,7 @@ render() {
                         </div>
                         <div className='flex justify-start'>
                           <a
-                            href="https://www.facebook.com/BradstockFest/"
+                            href={this.props.site.facebook}
                             target="_blank"
                             rel="noreferrer"
                             className='mx-2'
@@ -69,7 +69,7 @@ render() {
                             <FontAwesomeIcon className='text-gray-600 hover:text-gray-400' icon={faFacebook} size="2x" />
                           </a>
                           <a
-                            href="mailto:contact@bradstock.org"
+                            href={`mailto:=${this.props.site.email}`}
                             target="_blank"
                             rel="noreferrer"
                             className='mx-2'
@@ -181,6 +181,13 @@ export default () => (
   <StaticQuery
     query={graphql`
        {
+        site {
+          siteMetadata {
+            title
+            facebook
+            email
+          }
+        }
         allMainMenuJson {
             edges {
             node {
@@ -216,6 +223,7 @@ export default () => (
     `}
     render={(data) => (
       <Menu 
+      site = {data.site.siteMetadata}
       mainMenu={data.allMainMenuJson} 
       sub1={data.allSub1MenuJson} 
       sub2={data.allSub2MenuJson} 

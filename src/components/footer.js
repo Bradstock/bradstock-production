@@ -8,15 +8,15 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 
 
-const Footer = ({ content }) => (
+const Footer = ({ content, facebook, email }) => (
   <footer className="flex flex-col mb-8 py-5 h-48">
     <div className='mx-auto text-center'> 
       <h5 className='text-gray-600'>{content}</h5>
       <div>
-        <a href='https://www.facebook.com/BradstockFest/' target='_blank' rel='noreferrer' className='mx-2'>
+        <a href={facebook} target='_blank' rel='noreferrer' className='mx-2'>
           <FontAwesomeIcon className='text-cyan-700 hover:text-gray-400' icon={faFacebook} size='2x' /> 
         </a> 
-        <a href='mailto:contact@bradstock.org' target='_blank' rel='noreferrer' className='mx-2'> 
+        <a href={`mailto:=${email}`} target='_blank' rel='noreferrer' className='mx-2'> 
           <FontAwesomeIcon className='text-cyan-700 hover:text-gray-400' icon={faEnvelope} size='2x' /> 
         </a>    
       </div> 
