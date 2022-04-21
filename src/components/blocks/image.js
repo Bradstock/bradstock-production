@@ -7,12 +7,12 @@ const Image = ({ block }) => (
       block.position === 'Left' ? `w-1/4 h-auto ml-[15%] mr-4 mb-4 mt-10 float-left` :
       block.position === 'Right' ? `w-1/4 h-auto mr-[15%] ml-4 mb-4 mt-10 float-right` :
       block.position === 'Center' ? 
-        block.image_center_width === '25%' ? `w-[25%] mx-auto my-4` :
-        block.image_center_width === '50%' ? `w-[50%] mx-auto my-4` :
-        block.image_center_width === '75%' ? `w-[75%] mx-auto my-4` : 
+        block.image_center_width === '25%' ? `w-[85%] md:w-[25%] mx-auto my-4` :
+        block.image_center_width === '50%' ? `w-[85%] md:w-[50%] mx-auto my-4` :
+        block.image_center_width === '75%' ? `w-[85%] md:w-[75%] mx-auto my-4` : 
         block.image_center_width === 'Verticle' ? `w-[85%] md:w-[65%] lg:w-[30%] mx-auto my-4` : 
-        `w-[50%] mx-auto my-4` :
-        `w-[50%] mx-auto my-4`
+        `w-[85%] md:w-[50%] mx-auto my-4` :
+        `w-[85%] md:w-[50%] mx-auto my-4`
     }
   >
     {/* {console.log(block)} */}

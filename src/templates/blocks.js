@@ -178,6 +178,7 @@ export const pageQuery = graphql`
           background
           image_center_width
           tag
+          icon
           image {
             childImageSharp {
               fluid(maxWidth: 800) {
