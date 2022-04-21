@@ -23,6 +23,13 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: text_center
+  type: boolean
+  label: Text Center
+  description: Center text in the content section for the logo
+  showOnly:
+    field: icon
+    value: true
 - type: file
   name: tai_image
   default: "/images/pawel-czerwinski-NR7ZrUuVB3Q-unsplash.jpg"
