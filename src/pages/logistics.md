@@ -137,6 +137,6 @@ blocks:
   button:
     button_type: External
     label: Donate to the Camp!
-    url: https://camppaquatuck.com/
+    url: https://camppaquatuck.com/product/donation/
 
 ---
