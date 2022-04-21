@@ -21,14 +21,14 @@ blocks:
     title: 1 Day Ticket ($60 + tax/fee)
     col_image: "/images/1.png"
     content: Good for one day entry Saturday <strong>OR </strong>Sunday - All Day
-      Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
+      Pass<br><br><em>Does not include Camping <br></em><strong><em>21 &amp; Over</em></strong>
     show_image: true
     alt: Bradstock one day ticket rainbow with daisies
   col2:
     title: 2-Day Ticket ($100 +tax/fee)
     col_image: "/images/2.png"
     content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
-      Pass<br><br><em>Does not include Camping <br>21 &amp; Over</em>
+      Pass<br><br><em>Does not include Camping <br></em><strong><em>21 &amp; Over</em></strong>
     show_image: true
     alt: Bradstock two day ticket rainbow with daisies
   col3:
@@ -37,8 +37,8 @@ blocks:
     content: 'Good for entry both days Saturday <strong>AND</strong> Sunday - All
       Day Pass<br><em>Includes Platinum Perks: </em>Back Stage access w/premium beers,
       Bradstock reusable mug &amp; Platinum T-Shirt coupon to be redeemed during the
-      festival (while supplies last)<br><br><em>Does not include Camping<br>21 &amp;
-      Over<br></em><br><br>'
+      festival (while supplies last)<br><br><em>Does not include Camping<br></em><strong><em>21
+      &amp; Over</em></strong><em><br></em><br><br>'
     show_image: true
     alt: Bradstock platinum ticket rainbow with daisies
 - template: table
