@@ -26,7 +26,7 @@ blocks:
     &amp; considerate Bradstock family.
   alt: Bradstock Camping Logo
   title: Camping
-  icon: false
+  icon: true
 - template: tag
   component: tag
   tag: Eats
@@ -43,7 +43,7 @@ blocks:
     &amp; breakfast for campers.<br>Unlike other festivals, you can also bring your
     own snacks, drinks &amp; meals to Bradstock ... we only ask that you clean up
     after yourself - leaving the camp better than you found it!
-  icon: false
+  icon: true
 - template: tag
   component: tag
   tag: directions
@@ -87,7 +87,7 @@ blocks:
     helping with parking, they are doing their best.<br>If you require Handicapped
     Parking please let the parking team know and they will direct you on where to
     park.
-  icon: false
+  icon: true
 - template: tag
   component: tag
   tag: accessibility
@@ -104,7 +104,7 @@ blocks:
     staff know if you need assistance getting from here to there.  We will do our
     best to help you get around ... you just may need to be patient with us.
   alt: Wheelchair Accessibility
-  icon: false
+  icon: true
 - template: tag
   component: tag
   tag: camp
@@ -131,6 +131,6 @@ blocks:
     Rotarians, community organizations and the Pa-Qua-Tuck Squaws who made our special
     camp possible. We would not exist today without your help.For more information
     and to donate to the camp: <a href="https://camppaquatuck.com/" title="https://camppaquatuck.com/">https://camppaquatuck.com/</a>'
-  icon: false
+  icon: true
 
 ---

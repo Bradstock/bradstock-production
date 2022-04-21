@@ -8,6 +8,11 @@ fields:
   label: component
   hidden: true
   default: text_and_image
+- name: icon
+  type: boolean
+  label: Icon
+  description: This should be selected if you want a small icon with your title and
+    text as opposed to a big image and text on the side of it.
 - type: text
   name: title
   label: Title
@@ -55,8 +60,3 @@ fields:
   default: Image Left
   showOnly:
     field: icon
-- name: icon
-  type: boolean
-  label: Icon
-  description: This should be selected if you want a small icon with your title and
-    text as opposed to a big image and text on the side of it.
