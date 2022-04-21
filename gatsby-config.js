@@ -6,6 +6,8 @@ module.exports = {
     title: config.title,
     description: config.description,
     footer: config.footer,
+    facebook: config.facebook,
+    email: config.email,
   },
   plugins: [
     {
