@@ -12,7 +12,7 @@ blocks:
   tai_image: "/images/1167665_499908766758946_1603767001_o.jpg"
   background: light
   orientation: Image Left
-  alt: bradstock stage being built
+  alt: 'bradstock stage being built '
   content: Over Labor Day weekend in 1994, several friends from the Bayport-Sayville
     area organized a day of music, food and fun. Held in the backyard of Bayport resident
     Brad Ringhouse, the event, which proved to be a rousing success, was aptly dubbed
