@@ -54,6 +54,15 @@ blocks:
   alt: 'image of a map '
   content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934<br><br><a
     href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
+- template: title-button
+  component: title_button
+  background: transparent
+  button:
+    button_type: External
+    url: https://goo.gl/maps/KekxWShXyBikGgcc7
+    label: Directions
+  title: Open in Google Maps
+  subtitle: Will open in new window
 - template: iframe
   component: iframe
   url: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24162.999333858006!2d-72.7707757!3d40.7977544!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e859bceae55299%3A0xcc1e85b44974958e!2sCamp%20Pa%20Qua%20Tuck!5e0!3m2!1sen!2sus!4v1650567963518!5m2!1sen!2sus"
