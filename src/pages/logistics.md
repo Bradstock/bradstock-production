@@ -136,7 +136,7 @@ blocks:
   component: button
   button:
     button_type: External
-    label: Donate!
+    label: Donate to the Camp!
     url: https://camppaquatuck.com/
 
 ---
