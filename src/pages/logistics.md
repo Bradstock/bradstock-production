@@ -23,7 +23,7 @@ blocks:
     refund. <br><br>The camp explicitly <strong>prohibits</strong>:<br>✗ Open campfires<br>✗
     Boating or swimming in Kaler's Pond<br>✗ Entry into camp buildings other than
     showers/toilets for campers<br><br>We expect the privilege to camp will not be
-    abused by our peace-loving &amp; considerate Bradstock family.
+    abused by our <strong>✌ </strong>peace-loving &amp; considerate Bradstock family.
   alt: Bradstock Camping Logo
   title: Camping
   icon: true
@@ -37,12 +37,12 @@ blocks:
   orientation: Image Right
   title: Eats
   alt: 'food truck '
-  content: We have multiple food vendors at Bradstock.<br>The US Coast Guard offers
+  content: We have multiple food vendors at Bradstock.<br><br>The US Coast Guard offers
     a basic menu of burgers &amp; dogs, as well as breakfast for campers on Sunday
-    morning.<br>Food trucks are also onsite offering various items for lunch, dinner
-    &amp; breakfast for campers.<br>Unlike other festivals, you can also bring your
-    own snacks, drinks &amp; meals to Bradstock ... we only ask that you clean up
-    after yourself - leaving the camp better than you found it!
+    morning.<br><br>Food trucks are also onsite offering various items for lunch,
+    dinner &amp; breakfast for campers.<br><br>Unlike other festivals, you can also
+    bring your own snacks, drinks &amp; meals to Bradstock. We only ask that you clean
+    up after yourself and leave the camp better than you found it!
   icon: true
 - template: tag
   component: tag
