@@ -41,7 +41,7 @@ fields:
     - dark
     - light
   label: Background
-  default: primary
+  default: transparent
 - type: select
   name: orientation
   config:
@@ -50,6 +50,11 @@ fields:
     options:
     - Image Left
     - Image Right
-    required: true
+    required: false
   label: Orientation
   default: Image Left
+- name: icon
+  type: boolean
+  label: Icon
+  description: This should be selected if you want a small icon with your title and
+    text as opposed to a big image and text on the side of it.
