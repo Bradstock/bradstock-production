@@ -81,12 +81,11 @@ blocks:
   title: Parking
   alt: cars in a field
   content: Camp Pa Qua Tuck has limited parking, we have a parking crew that will
-    help direct guests on where to park.   If you can car pool with friends, we'd
-    appreciate it.  As the parking fields fill up you may need to park on Montauk
-    Highway.  Please take care while parking and please be respectful of the team
-    helping with parking, they are doing their best.<br>If you require Handicapped
-    Parking please let the parking team know and they will direct you on where to
-    park.
+    help direct guests on where to park. If you can car pool with friends, we'd appreciate
+    it!<br><br>As the parking fields fill up you may need to park on Montauk Highway.
+    Please take care while parking and please be respectful of the team helping with
+    parking, they are doing their best.<br><br>If you require Handicapped Parking
+    please let the parking team know and they will direct you on where to park.
   icon: true
 - template: tag
   component: tag
@@ -98,11 +97,12 @@ blocks:
   orientation: Image Left
   title: Accessibility
   content: Camp Pa Qua Tuck is a camp for children &amp; adults with special needs
-    therefore you can get around Camp with a wheelchair or walker.<br>Bradstock has
-    a limited number of golf carts in regular circulation that can also assist those
-    needing help getting around.  Feel free to let one of our security guards or volunteer
-    staff know if you need assistance getting from here to there.  We will do our
-    best to help you get around ... you just may need to be patient with us.
+    therefore you can get around Camp with a wheelchair or walker.<br><br>Bradstock
+    has a limited number of golf carts in regular circulation that can also assist
+    those needing help getting around. Feel free to let one of our security guards
+    or volunteer staff know if you need assistance getting from here to there. <br><br>We
+    will do our best to help you get around. But please be prepared to be patient
+    with us.
   alt: Wheelchair Accessibility
   icon: true
 - template: tag
@@ -115,22 +115,28 @@ blocks:
   orientation: Image Right
   title: Camp Pa Qua Tuck
   alt: Camp pa qua tuck logo
-  content: 'Camp Pa-Qua-Tuck – dedicated to the benefit of special needs individuals
-    of Long Island and beyond – stands today, not from the efforts of one organization,
-    but rather as a culmination of a tremendous wave of effort from many Rotary Clubs
-    throughout District 7260.Camp Pa-Qua-Tuck, The Moriches Rotary Health Camp, Inc.,
+  content: Dedicated to the benefit of special needs individuals of Long Island and
+    beyond, stands today, not from the efforts of one organization, but rather as
+    a culmination of a tremendous wave of effort from many Rotary Clubs throughout
+    District 7260.<br><br>Camp Pa-Qua-Tuck, The Moriches Rotary Health Camp, Inc.,
     maintains a more than 70-year track record for making the dreams of individuals
     with disabilities a reality. Each year, we invite thousands of campers to enjoy
     a session of summer fun at our 37-acre site on the shores of Kaler’s Pond in Center
-    Moriches.At Camp Pa-Qua-Tuck, our campers experience the joys of boating, arts
-    and crafts, music, adaptive sports and games, swimming, campfires and more. In
-    a supportive environment, our counselors encourage campers to reach outside their
-    comfort zones and join with their fellow campers in activities designed to enhance
-    their lives.Looking back on <a href="https://camppaquatuck.com/about-the-camp/camp-history/">our
-    history</a>, Camp Pa-Qua-Tuck extends the deepest gratitude to the volunteers,
-    Rotarians, community organizations and the Pa-Qua-Tuck Squaws who made our special
-    camp possible. We would not exist today without your help.For more information
-    and to donate to the camp: <a href="https://camppaquatuck.com/" title="https://camppaquatuck.com/">https://camppaquatuck.com/</a>'
+    Moriches.<br><br>At Camp Pa-Qua-Tuck, our campers experience the joys of boating,
+    arts and crafts, music, adaptive sports and games, swimming, campfires and more.
+    In a supportive environment, our counselors encourage campers to reach outside
+    their comfort zones and join their fellow campers in activities designed to enhance
+    their lives.<br><br>Looking back on <a href="https://camppaquatuck.com/about-the-camp/camp-history/"
+    title="camp history">our history</a>, Camp Pa-Qua-Tuck extends the deepest gratitude
+    to the volunteers, Rotarians, community organizations and the Pa-Qua-Tuck Squaws
+    who made our special camp possible. We would not exist today without your help.For
+    more information and to donate to the camp below.
   icon: true
+- template: button
+  component: button
+  button:
+    button_type: External
+    label: Donate!
+    url: https://camppaquatuck.com/
 
 ---
