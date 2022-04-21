@@ -129,8 +129,8 @@ blocks:
     their lives.<br><br>Looking back on <a href="https://camppaquatuck.com/about-the-camp/camp-history/"
     title="camp history">our history</a>, Camp Pa-Qua-Tuck extends the deepest gratitude
     to the volunteers, Rotarians, community organizations and the Pa-Qua-Tuck Squaws
-    who made our special camp possible. We would not exist today without your help.For
-    more information and to donate to the camp below.
+    who made our special camp possible. We would not exist today without your help.
+    For more information and to donate to the camp below.
   icon: true
 - template: button
   component: button
