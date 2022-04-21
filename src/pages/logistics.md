@@ -50,13 +50,13 @@ blocks:
 - template: text-and-image
   component: text_and_image
   tai_image: "/images/directions.png"
-  background: light
+  background: transparent
   orientation: Image Left
   title: Directions
   alt: 'image of a map '
-  content: Camp Pa Qua Tuck<br>2 Chet Swezey Rd, Center Moriches, NY 11934<br><br><a
-    href="https://goo.gl/maps/KekxWShXyBikGgcc7" title="https://goo.gl/maps/KekxWShXyBikGgcc7">https://goo.gl/maps/KekxWShXyBikGgcc7</a>
-  icon: false
+  content: "<strong>Camp Pa Qua Tuck</strong><br>2 Chet Swezey Road<br>Center Moriches,
+    NY 11934"
+  icon: true
 - template: title-button
   component: title_button
   background: transparent
