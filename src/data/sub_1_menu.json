@@ -1,6 +1,6 @@
 [
   {
-    "type": "Internal",
+    "type": "internal",
     "url": "/tickets",
     "title": "Tickets",
     "text_color": "text-cyan-600"
