@@ -53,6 +53,8 @@ fields:
     required: false
   label: Orientation
   default: Image Left
+  showOnly:
+    field: icon
 - name: icon
   type: boolean
   label: Icon
