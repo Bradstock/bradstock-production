@@ -52,8 +52,8 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/69500440_10216580868608870_4050238672199483392_n.jpg"
-    alt: man with cat ears
+  - gallery_image: "/images/138061552_10224942288810528_1986764327583181248_n.jpg"
+    alt: man with muppet puppet and a lovely beard
     image_info: ''
     logo: false
     logo_name: ''
