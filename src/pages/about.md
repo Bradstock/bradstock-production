@@ -37,22 +37,21 @@ blocks:
   icon: false
 - template: text-area
   component: text_area
-  text_area: "#### Our Mission\n\nThanks to the generosity of the many friends of
-    Bradstock, in the past twenty-eight years we have donated over $275,000 including
-    $120,000 to Camp-Pa-Qua-Tuck. \n\nOther beneficiaries include the \n\n* Long Island
-    Maritime Museum\n* Friends of Connetquot River State Park\n* The Sayville Kiwanis
-    Club\n* G.R.O.W.\n* WUSB\n* They Often Cry Out\n* The Unbroken Chain Foundation\n*
-    The Sayville Village Improvement Society\n* The Bayport and West Sayville Civic
-    Associations \n* The Peconic Bay Keeper\n\nOur friends from the U.S. Coast Guard
-    Chief Petty Officers Association, man and woman the grills to keep us in grub
-    over the weekend. The profits from the sale of the food goes to fund their own
-    charitable cause – and they kick in a contribution to Bradstock as well. \n\nOver
-    these many years, the Bradstock organization has donated a mountain of food and
-    ongoing monetary contributions to Island Harvest to help those less fortunate
-    than ourselves. The Chiefs presented a check for $3,000 to Island Harvest at our
-    year’s Platinum Party (pre-COVID).\n\n  \nWe are confident that the Circle of
-    Chiefs moves forward in a manner befitting the labor that we expend. **_May the
-    circle be unbroken._**"
+  text_area: "### Our Mission\n\nThanks to the generosity of the many friends of Bradstock,
+    in the past twenty-eight years we have donated over $275,000 including $120,000
+    to Camp-Pa-Qua-Tuck. \n\nOther beneficiaries include the \n\n* Long Island Maritime
+    Museum\n* Friends of Connetquot River State Park\n* The Sayville Kiwanis Club\n*
+    G.R.O.W.\n* WUSB\n* They Often Cry Out\n* The Unbroken Chain Foundation\n* The
+    Sayville Village Improvement Society\n* The Bayport and West Sayville Civic Associations
+    \n* The Peconic Bay Keeper\n\nOur friends from the U.S. Coast Guard Chief Petty
+    Officers Association, man and woman the grills to keep us in grub over the weekend.
+    The profits from the sale of the food goes to fund their own charitable cause
+    – and they kick in a contribution to Bradstock as well. \n\nOver these many years,
+    the Bradstock organization has donated a mountain of food and ongoing monetary
+    contributions to Island Harvest to help those less fortunate than ourselves. The
+    Chiefs presented a check for $3,000 to Island Harvest at our year’s Platinum Party
+    (pre-COVID).\n\n  \nWe are confident that the Circle of Chiefs moves forward in
+    a manner befitting the labor that we expend. **_May the circle be unbroken._**"
   text_center: false
 - template: image
   component: image
