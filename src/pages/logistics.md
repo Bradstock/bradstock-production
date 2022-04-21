@@ -27,6 +27,7 @@ blocks:
   alt: Bradstock Camping Logo
   title: Camping
   icon: true
+  text_center: false
 - template: tag
   component: tag
   tag: Eats
@@ -44,6 +45,7 @@ blocks:
     bring your own snacks, drinks &amp; meals to Bradstock. We only ask that you clean
     up after yourself and leave the camp better than you found it!
   icon: true
+  text_center: false
 - template: tag
   component: tag
   tag: directions
@@ -57,6 +59,7 @@ blocks:
   content: "<strong>Camp Pa Qua Tuck</strong><br>2 Chet Swezey Road<br>Center Moriches,
     NY 11934"
   icon: true
+  text_center: true
 - template: title-button
   component: title_button
   background: transparent
@@ -87,6 +90,7 @@ blocks:
     parking, they are doing their best.<br><br>If you require Handicapped Parking
     please let the parking team know and they will direct you on where to park.
   icon: true
+  text_center: false
 - template: tag
   component: tag
   tag: accessibility
@@ -105,6 +109,7 @@ blocks:
     with us.
   alt: Wheelchair Accessibility
   icon: true
+  text_center: false
 - template: tag
   component: tag
   tag: camp
@@ -132,6 +137,7 @@ blocks:
     who made our special camp possible. We would not exist today without your help.
     For more information and to donate to the camp below.
   icon: true
+  text_center: true
 - template: button
   component: button
   button:
