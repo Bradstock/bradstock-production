@@ -120,7 +120,7 @@ class BlocksTemplate extends React.Component {
               case 'home_hero':
                 return <HomeHero block={block} />
               case 'text_area':
-                return <TextArea block={block} />
+                return <TextArea block={block} /> 
               case 'iframe':
                 return <Iframe block={block} />
               case 'image':
