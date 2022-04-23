@@ -3,7 +3,6 @@ import React from 'react'
 const TextAndImage = ({ block }) => (
   // TODO: fix responsivness
   <section className='my-12'>
-      {console.log(block)}
         {
           block.icon === true ? (
             <div className='w-[90%] md:w-[70%] lg:w-[60%] lg:max-w-[60%] xl:max-w-[70%] mx-auto'>

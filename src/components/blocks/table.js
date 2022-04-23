@@ -3,7 +3,7 @@ import Column from './inc/column'
 
 const Table = ({ block, noImage }) => (
   <section>
-      <div className="max-w-5xl mx-auto md:py-10 md:my-8 section shadow-none md:shadow-lg">
+      <div className="bg-white max-w-5xl mx-auto md:py-10 md:my-8 section shadow-none md:shadow-lg">
         {block.title && (
           <>
           {/* todo: fix has-text-centered */}

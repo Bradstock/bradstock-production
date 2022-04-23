@@ -12,7 +12,7 @@ const TextArea = ({ block }) => (
         }>
           <ReactMarkdown children={block.text_area} 
           components={
-            {img:({node,...props})=><img className='w-[60%] h-auto ml-4 mr-4 mb-4 mt-10'{...props}/>}
+            {img:({node,...props})=><img className='w-[60%] h-auto ml-4 mr-4 mb-4 mt-10' {...props}/>}
           }
           ></ReactMarkdown>
         </div>
