@@ -127,9 +127,17 @@ blocks:
   alt: 'In remembrance '
   content: If you'd like to share a photo of a Bradstocker who's passed, please send
     one photo and their name to <a href="" title="">FriendsofBradstock@gmail.com</a>
+  icon: false
+  text_center: false
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/ken-scotto-aka-ken-do.jpg"
+    alt: Ken Scotto
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
     alt: KC Cowen
     image_info: ''
