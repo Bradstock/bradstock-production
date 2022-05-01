@@ -62,16 +62,18 @@ blocks:
     alt: Saturday img
     content: <strong>12:00 - </strong>Skip Bement<strong><br>12:30 - </strong>Bryan
       Gallo<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>1:00
-      - </strong>Nick Russell<strong><span class="Apple-converted-space"> <br></span>1:30
-      - </strong>Dave Christian<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>2:00 -</strong> KC Tribute<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>3:00 - </strong>Rocket
-      &amp; the Launchers<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>4:00 - </strong>Karin Wagner<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>4:20 - </strong>Imbibe
-      the Vibe<strong><br>4:45 - </strong>Grand Folk Railroad<strong><br>5:45 - </strong>Mike
-      Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
-      - </strong>Pete Mancini<strong><br>6:45 - </strong>Plain Spoken<span class="Apple-converted-space">
+      - </strong><a href="https://nickrussellmusic.com/" title="Nick Russell">Nick
+      Russell<strong><span class="Apple-converted-space"> </span></strong></a><strong><span
+      class="Apple-converted-space"><br></span>1:30 - </strong>Dave Christian<span
+      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>2:00
+      -</strong> KC Tribute<span class="Apple-converted-space"> </span><strong><span
+      class="Apple-converted-space"><br></span>3:00 - </strong>Rocket &amp; the Launchers<span
+      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:00
+      - </strong>Karin Wagner<span class="Apple-converted-space"> </span><strong><span
+      class="Apple-converted-space"><br></span>4:20 - </strong>Imbibe the Vibe<strong><br>4:45
+      - </strong>Grand Folk Railroad<strong><br>5:45 - </strong>Mike Kelly<span class="Apple-converted-space">
+      </span><strong><span class="Apple-converted-space"><br></span>6:15 - </strong>Pete
+      Mancini<strong><br>6:45 - </strong>Plain Spoken<span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>7:30 -</strong>
       Ted Cremer<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>8:00
       -</strong> Dark Heart Tavern Band
