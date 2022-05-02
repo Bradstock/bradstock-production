@@ -71,7 +71,8 @@ blocks:
       class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:00
       - </strong>Karin Wagner<span class="Apple-converted-space"> </span><strong><span
       class="Apple-converted-space"><br></span>4:20 - </strong>Imbibe the Vibe<strong><br>4:45
-      - </strong>Grand Folk Railroad<strong><br>5:45 - </strong>Mike Kelly<span class="Apple-converted-space">
+      - </strong><a href="www.grandfolkrailroad.com" title="Grand Folk Railroad">Grand
+      Folk Railroad</a><strong><br>5:45 - </strong>Mike Kelly<span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>6:15 - </strong>Pete
       Mancini<strong><br>6:45 - </strong>Plain Spoken<span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>7:30 -</strong>
