@@ -97,9 +97,10 @@ blocks:
       class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:30
       - </strong>Melanie Morin<strong><br>5:00 - </strong>Claudia &amp; Scott<strong><br>5:45
       - </strong>Val Levine &amp; Rich Lanahan<strong><br>6:30 - </strong>Tim Yerves<strong><br>7:00
-      - </strong>Tobacco Roadies<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>8:00 - </strong>Electric-Off Acoustic
-      Jam
+      - </strong>Tobacco Roadies<span class="Apple-converted-space"> <br></span><strong><span
+      class="Apple-converted-space">7:30</span></strong><span class="Apple-converted-space">
+      - The Melting Pots</span><strong><span class="Apple-converted-space"><br></span>8:00
+      - </strong>Electric-Off Acoustic Jam
     title: Sunday 9/4
   title: Acoustic Stage
 - template: two-column
