@@ -76,7 +76,7 @@ blocks:
       the Vibe</a><strong><br>4:45 - </strong><a href="www.grandfolkrailroad.com"
       title="Grand Folk Railroad">Grand Folk Railroad</a><strong><br>5:45 - </strong>Mike
       Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
-      - </strong><a href="petemancini.com" title="Pete Mancini">Pete Mancini</a><strong><br>6:45
+      - </strong><a href="https://petemancini.com/" title="Pete Mancini">Pete Mancini</a><strong><br>6:45
       - </strong>Plain Spoken<span class="Apple-converted-space"> </span><strong><span
       class="Apple-converted-space"><br></span>7:30 -</strong> Ted Cremer<span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>8:00 -</strong>
