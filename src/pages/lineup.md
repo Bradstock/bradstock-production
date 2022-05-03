@@ -60,7 +60,7 @@ blocks:
     title: Saturday 9/3
     show_image: false
     alt: Saturday img
-    content: <strong>12:00 - </strong>Skip Bement<strong><br>12:30 - </strong><a href="bryangallo.com"
+    content: <strong>12:00 - </strong>Skip Bement<strong><br>12:30 - </strong><a href="https://bryangallo.com/"
       title="Bryan Gallo w/ Mick Hargreaves">Bryan Gallo</a><span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>1:00 - </strong><a
       href="https://nickrussellmusic.com/" title="Nick Russell">Nick Russell<strong><span
