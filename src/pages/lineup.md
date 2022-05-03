@@ -65,7 +65,7 @@ blocks:
       </span><strong><span class="Apple-converted-space"><br></span>1:00 - </strong><a
       href="https://nickrussellmusic.com/" title="Nick Russell">Nick Russell<strong><span
       class="Apple-converted-space"> </span></strong></a><strong><span class="Apple-converted-space"><br></span>1:30
-      - </strong><a href="https://www.davechristianmusic.com/" title="Dave Christian">Dave
+      - </strong><a href="https://davechristianmusic.com/" title="Dave Christian">Dave
       Christian</a><span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>2:00
       -</strong> KC Tribute<span class="Apple-converted-space"> </span><strong><span
       class="Apple-converted-space"><br></span>3:00 - </strong><a href="http://fb.me/rocketandlaunchers"
@@ -73,7 +73,7 @@ blocks:
       </span><strong><span class="Apple-converted-space"><br></span>4:00 - </strong>Karin
       Wagner<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:20
       - </strong><a href="https://www.imbibethevibemusic.com/" title="Imbibe the Vibe">Imbibe
-      the Vibe</a><strong><br>4:45 - </strong><a href="www.grandfolkrailroad.com"
+      the Vibe</a><strong><br>4:45 - </strong><a href="https://grandfolkrailroad.com/"
       title="Grand Folk Railroad">Grand Folk Railroad</a><strong><br>5:45 - </strong>Mike
       Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
       - </strong><a href="https://petemancini.com/" title="Pete Mancini">Pete Mancini</a><strong><br>6:45
