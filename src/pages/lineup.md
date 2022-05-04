@@ -99,7 +99,8 @@ blocks:
       - </strong>Val Levine &amp; Rich Lanahan<strong><br>6:30 - </strong>Tim Yerves<strong><br>7:00
       - </strong>Tobacco Roadies<span class="Apple-converted-space"> <br></span><strong><span
       class="Apple-converted-space">7:30</span></strong><span class="Apple-converted-space">
-      - The Melting Pots</span><strong><span class="Apple-converted-space"><br></span>8:00
+      - </span><a href="https://Instagram.com/meltingpotsny/" title="The Melting Pots"><span
+      class="Apple-converted-space">The Melting Pots</span></a><strong><span class="Apple-converted-space"><br></span>8:00
       - </strong>Electric-Off Acoustic Jam
     title: Sunday 9/4
   title: Acoustic Stage
