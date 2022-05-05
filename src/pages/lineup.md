@@ -70,10 +70,11 @@ blocks:
       -</strong> KC Tribute<span class="Apple-converted-space"> </span><strong><span
       class="Apple-converted-space"><br></span>3:00 - </strong><a href="http://fb.me/rocketandlaunchers"
       title="Rocket &amp; the Launchers">Rocket &amp; the Launchers</a><span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>4:00 - </strong>Karin
-      Wagner<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:20
-      - </strong><a href="https://www.imbibethevibemusic.com/" title="Imbibe the Vibe">Imbibe
-      the Vibe</a><strong><br>4:45 - </strong><a href="https://grandfolkrailroad.com/"
+      </span><strong><span class="Apple-converted-space"><br></span>4:00 - </strong><a
+      href="https://www.facebook.com/Karin-Wagner-Singer-songwriter-102104062501325/"
+      title="Karin Wagner">Karin Wagner</a><span class="Apple-converted-space"> </span><strong><span
+      class="Apple-converted-space"><br></span>4:20 - </strong><a href="https://www.imbibethevibemusic.com/"
+      title="Imbibe the Vibe">Imbibe the Vibe</a><strong><br>4:45 - </strong><a href="https://grandfolkrailroad.com/"
       title="Grand Folk Railroad">Grand Folk Railroad</a><strong><br>5:45 - </strong>Mike
       Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
       - </strong><a href="https://petemancini.com/" title="Pete Mancini">Pete Mancini</a><strong><br>6:45
