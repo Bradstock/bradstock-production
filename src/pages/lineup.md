@@ -21,8 +21,9 @@ blocks:
     alt: Saturday img
     content: <strong>12:00-1:00 - </strong>The Brother Pluckers<strong><br>1:30-2:30
       - </strong>The Famous Dr. Scanlon Band<strong><br>3:00-4:00 - </strong>Albums
-      We Love<strong><br>4:30-5:30 - </strong><a href="" title="">Cassandra House</a><strong><br>6:00-7:00
-      - </strong>Soundswell<strong><br>7:30-8:30 - </strong>Jellyband
+      We Love<strong><br>4:30-5:30 - </strong><a href="https://www.casshousemusic.com/"
+      title="Cassandra House">Cassandra House</a><strong><br>6:00-7:00 - </strong>Soundswell<strong><br>7:30-8:30
+      - </strong>Jellyband
   col2:
     col_image: "/images/favicon.png"
     show_image: false
