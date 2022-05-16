@@ -87,7 +87,7 @@ blocks:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sunday img
-    content: <strong>12:00 - </strong>Shannon Foley<span class="Apple-converted-space">
+    content: <strong>12:00 - </strong>Khalil Jade Carney<span class="Apple-converted-space">
       </span><strong><span class="Apple-converted-space"><br></span>12:30 - </strong>Steve
       Mall<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>1:00
       - </strong>Hank Stone &amp; Todd Evans<span class="Apple-converted-space"> </span><strong><span
