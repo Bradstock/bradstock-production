@@ -132,6 +132,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/jay-morin.jpg"
+    alt: Andre Morin
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/ken-scotto-aka-ken-do.jpg"
     alt: Ken Scotto
     image_info: ''
