@@ -97,7 +97,8 @@ blocks:
       -</strong> Night Owls<span class="Apple-converted-space"> </span><strong><span
       class="Apple-converted-space"><br></span>4:00 -</strong> Cosmic Pioneers<span
       class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:30
-      - </strong>Melanie Morin<strong><br>5:00 - </strong>Claudia &amp; Scott<strong><br>5:45
+      - </strong><a href="https://www.facebook.com/MelanieMorinMusic" title="Melanie
+      Morin">Melanie Morin</a><strong><br>5:00 - </strong>Claudia &amp; Scott<strong><br>5:45
       - </strong>Val Levine &amp; Rich Lanahan<strong><br>6:30 - </strong>Tim Yerves<strong><br>7:00
       - </strong>Tobacco Roadies<span class="Apple-converted-space"> <br></span><strong><span
       class="Apple-converted-space">7:30</span></strong><span class="Apple-converted-space">
