@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Vendors
-  subtitle: Apply to be a Vendor
+  subtitle: Vending Now CLOSED for Bradstock XXIX - 2022
   background_image: "/images/5-1.png"
 - template: text-area
   component: text_area
