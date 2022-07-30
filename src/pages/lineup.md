@@ -41,9 +41,9 @@ blocks:
     show_image: false
     alt: sat img
     title: Saturday 9/3
-    content: "<strong>12-12:45 - </strong>Free Grass Union<strong><br>1:15-2 - </strong>Pressure
-      Cookers<strong><br>2:30-3:15 - </strong>Jerry Mcdonald Experience<strong><br>3:45-4:30
-      - </strong>The belle curves<strong><br>5-6 - </strong>Noah’s Arc<strong><br>6:30-7:30
+    content: "<strong>12:00-12:45 - </strong>Free Grass Union<strong><br>1:15-2:00
+      - </strong>Pressure Cookers<strong><br>2:30-3:30 - </strong>Jerry McDonald Experience<strong><br>4:00-4:45
+      - </strong>The Belle Curves<strong><br>5:15-6:15 - </strong>Noah’s Arc<strong><br>6:45-7:45
       - </strong>Quarter Horse"
   col2:
     col_image: "/images/favicon.png"
