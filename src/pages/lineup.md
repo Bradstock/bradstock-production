@@ -123,9 +123,9 @@ blocks:
     title: Sunday 9/4
     show_image: false
     alt: ''
-    content: <strong>8:30 AM - </strong>Food Trucks - Breakfast for Campers<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>10:00 AM - </strong>Yogo
-      on the Club House Porch<strong><br>11:15 AM - </strong>Kids Wake-Up Parade
+    content: "<strong>10:00 AM - </strong>Yoga on the Club House Porch<strong><br>11:15
+      AM - </strong>Kids Wake-Up Parade<br><strong>12:00 PM</strong> - Kid's Stage
+      throughout the day"
   title: 'Poetry Stage & More '
 
 ---
