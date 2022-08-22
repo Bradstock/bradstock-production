@@ -127,12 +127,13 @@ blocks:
     show_image: false
     alt: ''
     content: '<strong>10:00 AM - </strong>Yoga on the Club House Porch<strong><br>11:15
-      AM - </strong>Kids Wake-Up Parade<br><strong><span style="text-decoration: underline;">Poet''s
-      Stage:</span> </strong><em>Hosted by Bri Onishea &amp; Russ Green<br> </em><strong>11:15-11:45:
-      </strong>Kathy Meyers, Brendan McCurdy, Bri Onishea, Elizabeth Sackett<br>     <strong>2:00-2:30:
-      </strong>Russ Green, Lauren O''Brien, Kelly J. Powell, Craig Kite<br>     <strong>3:30-4:00:</strong>
-      Wayne Mennecke, Pauline Salotti, Rosa Todaro, Kenny Gordon<br>     <strong>6:15-6:45:
-      </strong>Sharon Dockweiler, Rob Plath, Billy Lamont, Kristyna Serdock<br><br> '
+      AM - </strong>Kids Wake-Up Parade<br><strong><span style="text-decoration: underline;">Poetry
+      Post:</span> </strong><em>Hosted by Bri Onishea &amp; Russ Green<br></em>This
+      year''s Poetry Post is dedicated to Barbara Reiher-Meyers<em><br> </em><strong>11:15-11:45:
+      </strong>Kathy Meyers, Brendan McCurdy, Bri Onishea, Elizabeth Sackett<br> <strong>2:00-2:30:
+      </strong>Russ Green, Lauren O''Brien, Kelly J. Powell, Craig Kite<br> <strong>3:30-4:00:</strong>
+      Wayne Mennecke, Pauline Salotti, Rosa Todaro, Kenny Gordon<br> <strong>6:15-6:45:
+      </strong>Sharon Dockweiler, Rob Plath, Billy Lamont, Kristyna Serdock<br><br>'
   title: 'Poetry Stage & More '
 
 ---
