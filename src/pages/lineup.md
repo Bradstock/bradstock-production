@@ -117,7 +117,10 @@ blocks:
     alt: ''
     content: '<strong><span class="JsGRdQ">Kid''s Stage throughout the day: </span></strong><span
       class="JsGRdQ">Various activities are planned by Bradstock parents, stop by
-      and check it out!</span>'
+      and check it out!<br></span><strong><span class="JsGRdQ">11:15-11:45:</span></strong><span
+      class="JsGRdQ"> Kicking off the day </span><strong><span class="JsGRdQ">Children''s
+      Story Time</span></strong><span class="JsGRdQ"> w/Dan Trupia in collaboration
+      w/Sarah Prendergast</span>'
   col2:
     col_image: "/images/favicon.png"
     title: Sunday 9/4
