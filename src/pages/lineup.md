@@ -115,10 +115,8 @@ blocks:
     title: Saturday 9/3
     show_image: false
     alt: ''
-    content: <strong><span class="JsGRdQ">12:00-3:00 -</span><span class="JsGRdQ white-space-prewrap">
-      </span></strong><span class="JsGRdQ white-space-prewrap">Poetry Stage </span><span
-      class="JsGRdQ">local Poet readings &amp; performances</span><strong><span class="JsGRdQ"><br>After
-      3:00 - </span></strong><span class="JsGRdQ">Kid's Stage throughout the day</span>
+    content: '<strong><span class="JsGRdQ">Kid''s Stage throughout the day: </span></strong><span
+      class="JsGRdQ">Various activities are planned, stop by and check it out!</span>'
   col2:
     col_image: "/images/favicon.png"
     title: Sunday 9/4
