@@ -116,7 +116,8 @@ blocks:
     show_image: false
     alt: ''
     content: '<strong><span class="JsGRdQ">Kid''s Stage throughout the day: </span></strong><span
-      class="JsGRdQ">Various activities are planned, stop by and check it out!</span>'
+      class="JsGRdQ">Various activities are planned by Bradstock parents, stop by
+      and check it out!</span>'
   col2:
     col_image: "/images/favicon.png"
     title: Sunday 9/4
