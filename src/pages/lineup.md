@@ -117,10 +117,14 @@ blocks:
     alt: ''
     content: '<strong><span class="JsGRdQ">Kid''s Stage throughout the day: </span></strong><span
       class="JsGRdQ">Various activities are planned by Bradstock parents, stop by
-      and check it out!<br></span><strong><span class="JsGRdQ">11:15-11:45:</span></strong><span
-      class="JsGRdQ"> Kicking off the day </span><strong><span class="JsGRdQ">Children''s
-      Story Time</span></strong><span class="JsGRdQ"> w/Dan Trupia in collaboration
-      w/Sarah Prendergast</span>'
+      and check it out!<br></span><strong><span class="JsGRdQ">11:15-12:00</span></strong><span
+      class="JsGRdQ white-space-prewrap"> </span><span class="JsGRdQ">Children''s
+      Story Time<br></span><strong><span class="JsGRdQ">12:50-1:10</span></strong><span
+      class="JsGRdQ"> Mermaids &amp; Giants<br></span><strong><span class="JsGRdQ">2:05-2:25</span></strong><span
+      class="JsGRdQ"> Open - TBD<br></span><strong><span class="JsGRdQ">3:35-3:55</span></strong><span
+      class="JsGRdQ"> Bryan Gallo<br></span><strong><span class="JsGRdQ">4:45-5:00</span></strong><span
+      class="JsGRdQ"> The Preddice Sisters<br></span><strong><span class="JsGRdQ">6:20-6:40</span></strong><span
+      class="JsGRdQ"> Kathy &amp; Karin</span>'
   col2:
     col_image: "/images/favicon.png"
     title: Sunday 9/4
