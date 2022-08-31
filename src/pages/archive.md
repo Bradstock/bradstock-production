@@ -132,6 +132,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/scott-perino1.jpg"
+    alt: Scott Perino
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/angela-melugin.jpg"
     alt: Angela Melugin
     image_info: ''
