@@ -14,25 +14,25 @@ blocks:
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
-- template: tag
-  component: tag
-  tag: year2022
 - template: text-area
   component: text_area
   text_area: "### 2022 - Bradstock XXIX"
   text_center: false
+- template: tag
+  component: tag
+  tag: year2022
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/brad22-poster.png"
-    alt: Bradstock XXIX Event Poster
-    image_info: Bradstock XXIX Event Poster
+  - gallery_image: "/images/final-poet-kid-stage.png"
+    alt: Bradstock XXIX - Poetry Post & Kids Stage Line-ups
+    image_info: Bradstock XXIX - Poetry Post & Kid's Stage Line-ups
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/mainstage.png"
-    alt: Bradstock XXIX - Mainstage Line-up
-    image_info: Bradstock XXIX - Mainstage Line-up
+  - gallery_image: "/images/flower-power.png"
+    alt: Bradstock XXIX - Flower Power Stage Line-up
+    image_info: Bradstock XXIX - Flower Power Stage Line-up
     logo: false
     logo_name: ''
     logo_url: ''
@@ -42,15 +42,15 @@ blocks:
     logo_name: ''
     logo_url: ''
     alt: Bradstock XXIX - Acoustic Stage Line-up
-  - gallery_image: "/images/flower-power.png"
-    alt: Bradstock XXIX - Flower Power Stage Line-up
-    image_info: Bradstock XXIX - Flower Power Stage Line-up
+  - gallery_image: "/images/mainstage.png"
+    alt: Bradstock XXIX - Mainstage Line-up
+    image_info: Bradstock XXIX - Mainstage Line-up
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/final-poet-kid-stage.png"
-    alt: Bradstock XXIX - Poetry Post & Kids Stage Line-ups
-    image_info: Bradstock XXIX - Poetry Post & Kid's Stage Line-ups
+  - gallery_image: "/images/brad22-poster.png"
+    alt: Bradstock XXIX Event Poster
+    image_info: Bradstock XXIX Event Poster
     logo: false
     logo_name: ''
     logo_url: ''
