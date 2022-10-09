@@ -9,9 +9,10 @@ blocks:
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
-  text_area: "# ✿ [2019](/archive#year2019 \"Bradstock XXVI\") ✿ [2018](/archive#year2018
-    \"2018\") ✿ [2017](/archive#year2017 \"2017\") ✿ \n\n## ✿ [In Remembrance](/archive#remember)
-    ✿"
+  text_area: |-
+    # ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
+
+    ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
 - template: tag
   component: tag
