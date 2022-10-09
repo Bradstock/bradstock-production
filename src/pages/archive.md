@@ -37,11 +37,11 @@ blocks:
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots.png"
-    image_info: ''
+    image_info: Bradstock XXIX - Acoustic Stage Line-up
     logo: false
     logo_name: ''
     logo_url: ''
-    alt: Bradstock XXIX - Acoustic Stage Lineup
+    alt: Bradstock XXIX - Acoustic Stage Line-up
   - gallery_image: "/images/flower-power.png"
     alt: Bradstock XXIX - Flower Power Stage
     image_info: ''
