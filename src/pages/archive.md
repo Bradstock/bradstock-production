@@ -235,5 +235,9 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
+- template: text-area
+  component: text_area
+  text_area: "### 2022 - Bradstock XXIX"
+  text_center: false
 
 ---
