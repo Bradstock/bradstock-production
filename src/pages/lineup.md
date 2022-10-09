@@ -39,10 +39,8 @@ blocks:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sun img
-    title: Sunday 9/4
-    content: "<strong>12-12:45 - </strong>Annie Trezza<strong><br>1:15-2:15 - </strong>Ernie
-      &amp; The Band<strong><br>2:45-3:45 - </strong>MJT<strong><br>4:15-5:15 - </strong>Cousin
-      Chris &amp; The Family Band<strong><br>5:45-6:45 - </strong>Funkin A’"
+    title: Sunday 9/3
+    content: "<strong>To be posted in 2023</strong>  "
   title: Flower Power Stage
 - template: two-column
   component: two_column
