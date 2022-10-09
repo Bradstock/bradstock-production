@@ -43,8 +43,8 @@ blocks:
     logo_url: ''
     alt: Bradstock XXIX - Acoustic Stage Line-up
   - gallery_image: "/images/flower-power.png"
-    alt: Bradstock XXIX - Flower Power Stage
-    image_info: ''
+    alt: Bradstock XXIX - Flower Power Stage Line-up
+    image_info: Bradstock XXIX - Flower Power Stage Line-up
     logo: false
     logo_name: ''
     logo_url: ''
