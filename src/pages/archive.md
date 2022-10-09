@@ -20,6 +20,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/flower-power.png"
+    alt: Bradstock XXIX - Flower Power Stage
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots-and-khalil.png"
     image_info: ''
     logo: false
