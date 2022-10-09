@@ -10,7 +10,7 @@ blocks:
   text_area: |-
     # Lineups
 
-    Schedule for all Stages
+    Schedule for all Stages - To be updated in 2023
   text_center: true
 - template: two-column
   component: two_column
