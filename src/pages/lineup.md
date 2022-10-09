@@ -33,11 +33,8 @@ blocks:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sat img
-    title: Saturday 9/3
-    content: "<strong>12:00-12:45 - </strong>Free Grass Union<strong><br>1:15-2:00
-      - </strong>Pressure Cookers<strong><br>2:30-3:30 - </strong>Jerry McDonald Experience<strong><br>4:00-4:45
-      - </strong>The Belle Curves<strong><br>5:15-6:15 - </strong>Noah’s Arc<strong><br>6:45-7:45
-      - </strong>Quarter Horse"
+    title: Saturday 9/2
+    content: "<strong>To be posted in 2023</strong>"
   col2:
     col_image: "/images/favicon.png"
     show_image: false
