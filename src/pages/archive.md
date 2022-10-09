@@ -199,5 +199,11 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
+- template: tag
+  component: tag
+  tag: year2022
+- template: gallery
+  component: gallery
+  gallery_field_group: []
 
 ---
