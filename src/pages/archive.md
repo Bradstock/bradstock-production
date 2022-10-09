@@ -43,8 +43,8 @@ blocks:
     logo_url: ''
     alt: Bradstock XXIX - Acoustic Stage Line-up
   - gallery_image: "/images/mainstage.png"
-    alt: Bradstock XXIX - Mainstage Line-up
-    image_info: Bradstock XXIX - Mainstage Line-up
+    alt: 'Main Stage - Bradstock XXIX '
+    image_info: Main Stage - Bradstock XXIX
     logo: false
     logo_name: ''
     logo_url: ''
