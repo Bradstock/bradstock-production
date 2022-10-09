@@ -49,8 +49,8 @@ blocks:
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/brad22-poster.png"
-    alt: Bradstock XXIX Event Poster
-    image_info: Bradstock XXIX Event Poster
+    alt: 'Event Poster - Bradstock XXIX '
+    image_info: Event Poster - Bradstock XXIX
     logo: false
     logo_name: ''
     logo_url: ''
