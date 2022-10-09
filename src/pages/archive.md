@@ -20,32 +20,32 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/brad22-poster.png"
+    alt: Bradstock XXIX Poster
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/mainstage.png"
     alt: 'Bradstock XXIX - Mainstage '
     image_info: ''
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/final-poet-kid-stage.png"
-    alt: Bradstock XXIX - Poetry Post & Kid's Stage
+  - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots.png"
     image_info: ''
     logo: false
     logo_name: ''
     logo_url: ''
+    alt: Bradstock XXIX - Acoustic Stage Lineup
   - gallery_image: "/images/flower-power.png"
     alt: Bradstock XXIX - Flower Power Stage
     image_info: ''
     logo: false
     logo_name: ''
     logo_url: ''
-  - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots-and-khalil.png"
-    image_info: ''
-    logo: false
-    logo_name: ''
-    logo_url: ''
-    alt: Bradstock XXIX - Acoustic Stage Lineup
-  - gallery_image: "/images/brad22-poster.png"
-    alt: Bradstock XXIX Poster
+  - gallery_image: "/images/final-poet-kid-stage.png"
+    alt: Bradstock XXIX - Poetry Post & Kid's Stage
     image_info: ''
     logo: false
     logo_name: ''
