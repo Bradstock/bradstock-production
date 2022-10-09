@@ -46,12 +46,11 @@ blocks:
   title: 'Camping '
   col2:
     title: 'RV Parking Spot ($100 +tax/fee)  '
-    col_image: "/images/6.png"
-    content: "<strong><em>*** SOLD OUT for 2022 ***</em></strong><br><br>If you plan
-      to bring an RV to camp in Saturday <strong>AND/OR</strong> Sunday you must purchase
-      an RV Parking Spot ticket in addition to your festival pass(es) &amp; your Camping
-      Add-On ticket(s). <br>NOTE: We have a very limited number of RV parking spots
-      and they sell out fast.<br>  "
+    col_image: "/images/5.png"
+    content: 'If you plan to bring an RV to camp in Saturday <strong>AND/OR</strong>
+      Sunday you must purchase an RV Parking Spot ticket in addition to your festival
+      pass(es) &amp; your Camping Add-On ticket(s). <br>NOTE: We have a very limited
+      number of RV parking spots and they sell out fast.<br>'
     show_image: true
     alt: RV Parking is sold out camper van
   col1:
