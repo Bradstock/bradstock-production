@@ -25,8 +25,8 @@ blocks:
   component: gallery
   gallery_field_group:
   - gallery_image: "/images/final-poet-kid-stage.png"
-    alt: Bradstock XXIX - Poetry Post & Kids Stage Line-ups
-    image_info: Bradstock XXIX - Poetry Post & Kid's Stage Line-ups
+    alt: Poetry Post & Kids Stage - Bradstock XXIX
+    image_info: Poetry Post & Kids Stage - Bradstock XXIX
     logo: false
     logo_name: ''
     logo_url: ''
