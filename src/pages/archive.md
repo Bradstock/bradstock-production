@@ -17,18 +17,22 @@ blocks:
 - template: tag
   component: tag
   tag: year2022
+- template: text-area
+  component: text_area
+  text_area: "### 2022 - Bradstock XXIX"
+  text_center: false
 - template: gallery
   component: gallery
   gallery_field_group:
   - gallery_image: "/images/brad22-poster.png"
-    alt: Bradstock XXIX Poster
-    image_info: ''
+    alt: Bradstock XXIX Event Poster
+    image_info: Bradstock XXIX Event Poster
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/mainstage.png"
-    alt: 'Bradstock XXIX - Mainstage '
-    image_info: ''
+    alt: Bradstock XXIX - Mainstage Line-up
+    image_info: Bradstock XXIX - Mainstage Line-up
     logo: false
     logo_name: ''
     logo_url: ''
@@ -235,9 +239,5 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-- template: text-area
-  component: text_area
-  text_area: "### 2022 - Bradstock XXIX"
-  text_center: false
 
 ---
