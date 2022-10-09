@@ -46,31 +46,10 @@ blocks:
   component: two_column
   col1:
     col_image: "/images/favicon.png"
-    title: Saturday 9/3
+    title: Saturday 9/2
     show_image: false
     alt: Saturday img
-    content: <strong>12:00 - </strong>Skip Bement<strong><br>12:30 - </strong><a href="https://bryangallo.com/"
-      title="Bryan Gallo w/ Mick Hargreaves">Bryan Gallo</a><span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>1:00 - </strong><a
-      href="https://nickrussellmusic.com/" title="Nick Russell">Nick Russell<strong><span
-      class="Apple-converted-space"> </span></strong></a><strong><span class="Apple-converted-space"><br></span>1:30
-      - </strong><a href="https://davechristianmusic.com/" title="Dave Christian">Dave
-      Christian</a><span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>2:00
-      -</strong> KC Tribute<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>3:00 - </strong><a href="http://fb.me/rocketandlaunchers"
-      title="Rocket &amp; the Launchers">Rocket &amp; the Launchers</a><span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>4:00 - </strong><a
-      href="https://www.facebook.com/Karin-Wagner-Singer-songwriter-102104062501325/"
-      title="Karin Wagner">Karin Wagner</a><span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>4:20 - </strong><a href="https://www.imbibethevibemusic.com/"
-      title="Imbibe the Vibe">Imbibe the Vibe</a><strong><br>4:45 - </strong><a href="https://grandfolkrailroad.com/"
-      title="Grand Folk Railroad">Grand Folk Railroad</a><strong><br>5:45 - </strong>Mike
-      Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
-      - </strong><a href="https://petemancini.com/" title="Pete Mancini">Pete Mancini</a><strong><br>6:45
-      - </strong>Plain Spoken<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>7:30 -</strong> Ted Cremer<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>8:00 -</strong>
-      Dark Heart Tavern Band
+    content: "<strong>To be posted in 2023</strong>  "
   col2:
     col_image: "/images/favicon.png"
     show_image: false
