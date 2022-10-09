@@ -16,23 +16,16 @@ blocks:
   component: two_column
   col1:
     col_image: "/images/favicon.png"
-    title: Saturday 9/3
+    title: Saturday 9/2
     show_image: false
     alt: Saturday img
-    content: <strong>12:00-1:00 - </strong>The Brother Pluckers<strong><br>1:30-2:30
-      - </strong>The Famous Dr. Scanlon Band<strong><br>3:00-4:00 - </strong>Albums
-      We Love<strong><br>4:30-5:30 - </strong><a href="https://www.casshousemusic.com/"
-      title="Cassandra House">Cassandra House</a><strong><br>6:00-7:00 - </strong>Soundswell<strong><br>7:30-8:30
-      - </strong>Jellyband
+    content: "<strong>To be posted in 2023</strong>"
   col2:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sunday img
-    content: "<strong>12:00-12:30 - </strong>Ed Travers &amp; Jimmy Flemming<strong><br>12:30-1:30
-      - </strong>Gathering Time<br><strong>2:00-3:00 - </strong>Shecky &amp; the Twangtones<strong><br>3:30-4:30
-      - </strong>David Amram<strong><br>5:00-6:00 - </strong>Miles to Dayton<strong><br>6:30-8:00
-      - </strong>The Falco Brothers<strong><br>8:30-9:45 - </strong>The Electrix"
-    title: Sunday 9/4
+    content: "<strong>To be posted in 2023</strong>"
+    title: Sunday 9/3
   title: Main Stage
 - template: two-column
   component: two_column
