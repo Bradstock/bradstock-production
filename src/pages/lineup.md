@@ -54,26 +54,8 @@ blocks:
     col_image: "/images/favicon.png"
     show_image: false
     alt: sunday img
-    content: <strong>12:00 - </strong><a href="http://www.facebook.com/khaliljademusic"
-      title="Khalil Jade">Khalil Jade</a> <span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>12:30 - </strong>Steve Mall<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>1:00 - </strong>Hank
-      Stone &amp; Todd Evans<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>1:30 - </strong>Trailer Park Gigilos<span
-      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>2:00
-      - </strong>Jim Kolman<strong><br>2:30 - </strong>Mark Lawlor<strong><br>3:00
-      -</strong> Night Owls<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>4:00 -</strong> Cosmic Pioneers<span
-      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:30
-      - </strong><a href="https://www.facebook.com/MelanieMorinMusic" title="Melanie
-      Morin">Melanie Morin</a><strong><br>5:00 - </strong>Claudia &amp; Scott<strong><br>5:45
-      - </strong>Val Levine &amp; Rich Lanahan<strong><br>6:30 - </strong>Tim Yerves<strong><br>7:00
-      - </strong>Tobacco Roadies<span class="Apple-converted-space"> <br></span><strong><span
-      class="Apple-converted-space">7:30</span></strong><span class="Apple-converted-space">
-      - </span><a href="https://Instagram.com/meltingpotsny/" title="The Melting Pots"><span
-      class="Apple-converted-space">The Melting Pots</span></a><strong><span class="Apple-converted-space"><br></span>8:00
-      - </strong>Electric-Off Acoustic Jam
-    title: Sunday 9/4
+    content: "<strong>To be posted in 2023</strong>  "
+    title: Sunday 9/3
   title: Acoustic Stage
 - template: two-column
   component: two_column
