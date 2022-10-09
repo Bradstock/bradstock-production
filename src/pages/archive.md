@@ -16,6 +16,24 @@ blocks:
   text_center: true
 - template: tag
   component: tag
+  tag: year2022
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots-and-khalil.png"
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+    alt: Bradstock XXIX - Acoustic Stage Lineup
+  - gallery_image: "/images/brad22-poster.png"
+    alt: Bradstock XXIX Poster
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+- template: tag
+  component: tag
   tag: year2019
 - template: text-area
   component: text_area
@@ -199,11 +217,5 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
-- template: tag
-  component: tag
-  tag: year2022
-- template: gallery
-  component: gallery
-  gallery_field_group: []
 
 ---
