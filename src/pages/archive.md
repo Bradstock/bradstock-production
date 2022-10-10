@@ -14,16 +14,22 @@ blocks:
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
+- template: tag
+  component: tag
+  tag: year2022
 - template: text-area
   component: text_area
   text_area: "### 2022 - Bradstock XXIX"
   text_center: false
-- template: tag
-  component: tag
-  tag: year2022
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/mainstage.png"
+    alt: Main Stage - Bradstock XXIX
+    image_info: Main Stage - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/final-poet-kid-stage.png"
     alt: Poetry Post & Kids Stage - Bradstock XXIX
     image_info: Poetry Post & Kids Stage - Bradstock XXIX
@@ -42,12 +48,6 @@ blocks:
     logo_name: ''
     logo_url: ''
     alt: Acoustic Stage - Bradstock XXIX
-  - gallery_image: "/images/mainstage.png"
-    alt: 'Main Stage - Bradstock XXIX '
-    image_info: Main Stage - Bradstock XXIX
-    logo: false
-    logo_name: ''
-    logo_url: ''
   - gallery_image: "/images/brad22-poster.png"
     alt: 'Event Poster - Bradstock XXIX '
     image_info: Event Poster - Bradstock XXIX
