@@ -24,15 +24,9 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
-  - gallery_image: "/images/mainstage.png"
-    alt: Main Stage - Bradstock XXIX
-    image_info: Main Stage - Bradstock XXIX
-    logo: false
-    logo_name: ''
-    logo_url: ''
-  - gallery_image: "/images/final-poet-kid-stage.png"
-    alt: Poetry Post & Kids Stage - Bradstock XXIX
-    image_info: Poetry Post & Kids Stage - Bradstock XXIX
+  - gallery_image: "/images/brad22-poster.png"
+    alt: 'Event Poster - Bradstock XXIX '
+    image_info: Event Poster - Bradstock XXIX
     logo: false
     logo_name: ''
     logo_url: ''
@@ -48,9 +42,9 @@ blocks:
     logo_name: ''
     logo_url: ''
     alt: Acoustic Stage - Bradstock XXIX
-  - gallery_image: "/images/brad22-poster.png"
-    alt: 'Event Poster - Bradstock XXIX '
-    image_info: Event Poster - Bradstock XXIX
+  - gallery_image: "/images/final-poet-kid-stage.png"
+    alt: Poetry Post & Kids Stage - Bradstock XXIX
+    image_info: Poetry Post & Kids Stage - Bradstock XXIX
     logo: false
     logo_name: ''
     logo_url: ''
