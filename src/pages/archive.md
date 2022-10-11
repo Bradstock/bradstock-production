@@ -24,6 +24,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/mainstage.png"
+    alt: Main Stage Lineup - Bradstock XXIX
+    image_info: Main Stage Lineup - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/brad22-poster.png"
     alt: 'Event Poster - Bradstock XXIX '
     image_info: Event Poster - Bradstock XXIX
