@@ -45,17 +45,14 @@ blocks:
   component: table
   title: 'Camping '
   col2:
-    title: 'RV Parking Spot ($100 +tax/fee)  '
-    col_image: "/images/5.png"
-    content: 'If you plan to bring an RV to camp in Saturday <strong>AND/OR</strong>
-      Sunday you must purchase an RV Parking Spot ticket in addition to your festival
-      pass(es) &amp; your Camping Add-On ticket(s). <br>NOTE: We have a very limited
-      number of RV parking spots and they sell out fast.<br>'
-    show_image: true
-    alt: RV Parking is sold out camper van
+    col_image: "/images/favicon.png"
+    title: ''
+    content: ''
+    show_image: false
+    alt: ''
   col1:
     col_image: "/images/camping-webiste.png"
-    title: Camp- Add On ($40 per-person +tax/fee)
+    title: Camp- Add On ($50 per-person +tax/fee)
     content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
       to all ticket types</em>).<br>This is a per-person ticket applicable to adult
