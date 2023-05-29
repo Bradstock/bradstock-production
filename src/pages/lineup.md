@@ -13,7 +13,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: 25%
   image: "/images/mainstage_lineup.png"
   alt: Bradstock 2023 Main Stage Lineup
 - template: two-column
@@ -49,7 +49,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: 25%
   image: "/images/flower_power_lineup.jpg"
   alt: Bradstock 2023 Flower Power Lineup
 - template: two-column
@@ -83,7 +83,7 @@ blocks:
 - template: image
   component: image
   position: Center
-  image_center_width: 50%
+  image_center_width: 25%
   image: "/images/acoustic_lineup.png"
   alt: Bradstock 2023 Acoustic Stage Lineup
 - template: two-column
