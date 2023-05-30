@@ -124,8 +124,9 @@ blocks:
       <strong>2:30</strong> Mark Lawlor<br><br>
       <strong>3:00</strong> Night Owls<br><br>
       <strong>4:00</strong> Leah Kay & Friends<br><br>
-      <strong>4:30</strong> Levine, Lanahan, & Lane<br><br>
-      <strong>5:00</strong> Grand Central Railroad<br><br>
+      <strong>4:30</strong> Melanie Morin<br><br>
+      <strong>5:00</strong> Levine, Lanahan, & Lane<br><br>
+      <strong>5:30</strong> Grand Folk Railroad<br><br>
       <strong>6:30</strong> Timothy C Yerves<br><br>
       <strong>7:00</strong> Debra Lynne<br><br>
       <strong>7:30</strong> Tobacco Roadies<br><br>
@@ -146,7 +147,7 @@ blocks:
     title: Sunday 9/3
     show_image: false
     alt: ''
-    content: "<strong>To be posted in 2023</strong>  <br><br>"
+    content: "<strong>To be posted soon</strong>  <br><br>"
   title: 'Poetry Stage & More '
 
 ---
