@@ -51,7 +51,7 @@ blocks:
     show_image: false
     alt: ''
   col1:
-    col_image: "/images/camping-webiste.png"
+    col_image: "/images/7.png"
     title: Camp- Add On ($50 per-person +tax/fee)
     content: If you plan to camp Saturday <strong>AND/OR</strong> Sunday you must
       purchase a Camping Add-On ticket in addition to your festival pass (<em>applies
