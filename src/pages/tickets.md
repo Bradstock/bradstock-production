@@ -25,7 +25,7 @@ blocks:
     show_image: true
     alt: Bradstock one day ticket rainbow with daisies
   col2:
-    title: 2-Day Ticket ($100 +tax/fee)
+    title: 2-Day Ticket ($110 +tax/fee)
     col_image: "/images/2.png"
     content: Good for entry both days Saturday <strong>AND</strong> Sunday - All Day
       Pass<br><br><em>Does not include Camping <br></em><strong><em>21 &amp; Over</em></strong>
