@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.1.17",
     "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.5",
-    "@tinacms/cli": "^1.5.17",
+    "@tinacms/cli": "^1.5.18",
     "bulma": "^0.9.3",
     "gatsby": "^4.6.1",
     "gatsby-background-image": "^1.6.0",
@@ -44,7 +44,7 @@
     "react-markdown": "^8.0.0",
     "react-medium-image-zoom": "^4.3.7",
     "sass": "^1.49.0",
-    "tinacms": "^1.5.8"
+    "tinacms": "^1.5.9"
   },
   "keywords": [
     "gatsby"

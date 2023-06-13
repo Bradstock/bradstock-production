@@ -1,6 +1,11 @@
 const config = require('./site-config.json')
+const express = require("express");
 
 module.exports = {
+  // for tina
+  developMiddleware: (app) => {
+    app.use("/admin", express.static("static/admin"));
+  },
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     title: config.title,

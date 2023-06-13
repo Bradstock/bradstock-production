@@ -177,7 +177,6 @@ export default defineConfig({
         format: "json",
         label: "Site Config",
         name: "site_config",
-        // "."
         path: "",
         ui: {
           allowedActions: {
