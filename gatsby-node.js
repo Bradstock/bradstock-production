@@ -1,5 +1,10 @@
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+const express = require("express");
+
+exports.onCreateDevServer = ({ app }) => {
+    app.use("/admin", express.static("public/admin"));
+   };
 
 function isIndexPage(post) {
   return path.basename(post.node.fileAbsolutePath) === 'index.md'
