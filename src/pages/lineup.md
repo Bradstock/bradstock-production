@@ -94,21 +94,22 @@ blocks:
     show_image: false
     alt: Saturday img
     content: "
-          <strong>12:00</strong> Brooklyn Tim<br><br>
-      <strong>12:30</strong> Deanna Hudson<br><br>
-      <strong>1:00</strong> Bryan Gallo<br><br>
-      <strong>1:30</strong> Dave Christian<br><br>
+      <strong>12:00</strong> <a style='color: #0e7490'  target=”_blank” href='https://www.facebook.com/BrooklynTim'>Brooklyn Tim</a><br><br>
+      <strong>12:30</strong> <a style='color: #0e7490' target=”_blank” href='https://deannahudsonmusic.com/'>Deanna Hudson</a><br><br>
+      <strong>1:00</strong> <a style='color: #0e7490' target=”_blank” href='https://www.bryangallo.com/'>Bryan Gallo</a><br><br>
+      <strong>1:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.davechristianmusic.com/'>Dave Christian</a><br><br>
       <strong>2:00</strong> KC Tribute<br><br>
       <strong>2:45</strong> Rocket & the Launchers<br><br>
-      <strong>3:15</strong> Who are those Guys?<br><br>
-      <strong>4:00</strong> KarIn Wagner<br><br>
-      <strong>4:30</strong> Imbibe the Vibe<br><br>
-      <strong>5:00</strong> Mike Kelly<br><br>
+      
+      <strong>3:15</strong> <a style='color: #0e7490' target=”_blank” href='https://whoarethoseguys.com/'>Who are those Guys?</a><br><br>
+      <strong>4:00</strong> <a style='color: #0e7490' target=”_blank” href='https://www.facebook.com/profile.php?id=100082983092258'>Karin Wagner</a><br><br>
+      <strong>4:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.Imbibethevibemusic.com'>Imbibe the Vibe</a><br><br>
+      <strong>5:00</strong> <a style='color: #0e7490' target=”_blank” href='https://fb.watch/l2jHmehE4n/ '>Mike Kelly</a><br><br>
       <strong>5:30</strong> Danial Welsch<br><br>
       <strong>6:00</strong> Dark Heart Tavern Band<br><br>
       <strong>6:30</strong> Plain Spoken<br><br>
-      <strong>7:15</strong>Ted Cremer & Son<br><br>
-      <strong>7:45</strong> Free Grass Union<br><br>
+      <strong>7:15</strong><a style='color: #0e7490' target=”_blank” href='https://soundcloud.com/ted-cremer'>Ted Cremer & Son</a><br><br>
+      <strong>7:45</strong> <a style='color: #0e7490' target=”_blank” href='https://freegrassunion.org/'>Free Grass Union</a><br><br>
       <strong>8:45</strong> Electric-Off Acoustic Jam<br><br>
     "
   col2:
@@ -117,16 +118,16 @@ blocks:
     alt: sunday img
     content: "
       <strong>12:00</strong> Todd Evans & the Rocket<br><br>
-      <strong>12:30</strong> Toby Tobias Ensemble<br><br>
+      <strong>12:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.tobytoby.com/'>Toby Tobias Ensemble</a><br><br>
       <strong>1:00</strong> Steve Mall<br><br>
-      <strong>1:30</strong> Trailer Park Gigolos<br><br>
+      <strong>1:30</strong> <a style='color: #0e7490' target=”_blank” href='https://trailerparkgigolos.wixsite.com/gigolos'>Trailer Park Gigolos</a><br><br>
       <strong>2:00</strong> Jim Kolman<br><br>
       <strong>2:30</strong> Mark Lawlor<br><br>
       <strong>3:00</strong> Night Owls<br><br>
-      <strong>4:00</strong> Leah Kay & Friends<br><br>
-      <strong>4:30</strong> Melanie Morin<br><br>
+      <strong>4:00</strong> <a style='color: #0e7490' target=”_blank” href='https://www.dropbox.com/s/j513fjahvbzxoj4/IMG_5614.MOV?dl=0'>Leah Kay & Friends</a><br><br>
+      <strong>4:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.facebook.com/MelanieMorinMusic/'>Melanie Morin</a><br><br>
       <strong>5:00</strong> Levine, Lanahan, & Lane<br><br>
-      <strong>5:30</strong> Grand Folk Railroad<br><br>
+      <strong>5:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.grandfolkrailroad.com'>Grand Folk Railroad</a><br><br>
       <strong>6:30</strong> Timothy C Yerves<br><br>
       <strong>7:00</strong> Debra Lynne<br><br>
       <strong>7:30</strong> Tobacco Roadies<br><br>
