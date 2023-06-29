@@ -105,7 +105,7 @@ blocks:
       <strong>4:00</strong> <a style='color: #0e7490' target=”_blank” href='https://www.facebook.com/profile.php?id=100082983092258'>Karin Wagner</a><br><br>
       <strong>4:30</strong> <a style='color: #0e7490' target=”_blank” href='https://www.Imbibethevibemusic.com'>Imbibe the Vibe</a><br><br>
       <strong>5:00</strong> <a style='color: #0e7490' target=”_blank” href='https://fb.watch/l2jHmehE4n/ '>Mike Kelly</a><br><br>
-      <strong>5:30</strong> Danial Welsch<br><br>
+      <strong>5:30</strong> Daniel Welsch<br><br>
       <strong>6:00</strong> Dark Heart Tavern Band<br><br>
       <strong>6:30</strong> Plain Spoken<br><br>
       <strong>7:15</strong><a style='color: #0e7490' target=”_blank” href='https://soundcloud.com/ted-cremer'>Ted Cremer & Son</a><br><br>
