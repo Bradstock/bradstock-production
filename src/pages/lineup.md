@@ -168,6 +168,6 @@ blocks:
     Krystina Serdock<br><br>
     Swati Srivastava<br><br>
     "
-  title: 'Poetry Stage & More -  Hosts Bri Oniesha & Russ Green'
+  title: 'Poet's Stage Hosts Bri Onishea & Russ Green'
 
 ---
