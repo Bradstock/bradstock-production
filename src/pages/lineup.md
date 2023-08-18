@@ -142,7 +142,15 @@ blocks:
     title: Saturday 9/2
     show_image: false
     alt: ''
-    content: "  "
+    content: "  
+    <strong>11:00-12:00 -</strong> Storytime with Daniel<br><br>
+    <strong>12:50-1:10 -</strong> Karin Wagner & Kathy Meyers<br><br>
+    <strong>2:05 - 2:25 -</strong> Mermaids & Giants<br><br>
+    <strong>3:20 - 3:40 -</strong> The Preddice Sisters<br><br>
+    <strong>4:50 - 5:10 -</strong> Anne O'Rourke<br><br>
+    <strong>6:20- 6:40 -</strong> TBD<br><br>
+    <strong>9:00 PM -</strong> Night Time Story Time
+    "
   col2:
     col_image: "/images/favicon.png"
     title: Sunday 9/3
@@ -168,6 +176,6 @@ blocks:
     Krystina Serdock<br><br>
     Swati Srivastava<br><br>
     "
-  title: 'Poet's Stage Hosts Bri Onishea & Russ Green'
+  title: "Poet's Stage - Hosts Bri Onishea & Russ Green"
 
 ---
