@@ -46,5 +46,11 @@ blocks:
     logo: true
     logo_name: The Good Steer
     logo_url: http://www.goodsteer.com
+  - gallery_image: "/images/screenshot-2022-10-09-114950.png"
+    alt: Shakedown
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
 
 ---

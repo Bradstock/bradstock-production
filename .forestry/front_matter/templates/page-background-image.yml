@@ -7,9 +7,9 @@ fields:
   label: component
   hidden: true
   default: page_background_image
-- name: background_image
+- name: page_background_image
   type: file
   config:
     maxSize: 64
-  label: Background Image
+  label: Page Background Image
   default: "/images/kaity-o-keefe-WyEnJOH0_gA-unsplash.jpg"

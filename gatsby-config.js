@@ -6,6 +6,8 @@ module.exports = {
     title: config.title,
     description: config.description,
     footer: config.footer,
+    facebook: config.facebook,
+    email: config.email,
   },
   plugins: [
     {
@@ -53,8 +55,10 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-altair-graphql`,
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {

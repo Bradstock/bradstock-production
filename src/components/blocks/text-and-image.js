@@ -2,46 +2,72 @@ import React from 'react'
 
 const TextAndImage = ({ block }) => (
   // TODO: fix responsivness
-  <section
-    className={
-      block.background
-        ? 
-        (
-          block.background === 'primary' ? 'bg-primary' :
-          block.background === 'light' ? 'bg-light' :
-          block.background === 'dark' ? 'bg-dark'
-          : 'bg-transparent'
-        ) 
-        : 'bg-white'
-    }
-  >
-    <div className={
-      block.orientation === 'Image Right'
-      ? 'w-full flex flex-row-reverse'
-      : 'w-full flex flex-row' 
-    }
-    >
-      <div className='w-full sm:w-1/2 py-10 mx-20 flex justify-center content-center'>
-          {block.tai_image && (
-            <img
-              className='max-w-full max-h-[30rem]'
-              alt={block.title}
-              srcSet={block.tai_image.childImageSharp.fluid.srcSet}
-            />
-          )}
-      </div>
-      <div className={
-      block.orientation === 'Image Right'
-      ? 'w-full sm:w-1/2 py-10 mx-20 text-right'
-      : 'w-full sm:w-1/2 py-10 mx-20 text-left' 
-    }
-    >
-          <h1 className='text-cyan-700'>{block.title}</h1>
-          <div className=''
-            dangerouslySetInnerHTML={{ __html: block.content }}
-          />
-      </div>
-    </div>
+  <section className='my-12'>
+        {
+          block.icon === true ? (
+            <div className='w-[90%] md:w-[70%] lg:w-[60%] lg:max-w-[60%] xl:max-w-[70%] mx-auto'>
+                <div className='w-full block text-center'>
+                  {block.tai_image && (
+                    <img
+                      className='w-auto h-32 md:h-44'
+                      alt={block.title}
+                      srcSet={block.tai_image.childImageSharp.fluid.srcSet}
+                    />
+                  )}
+                  </div>
+                <h2 className='text-cyan-700 w-full block text-center'>{block.title}</h2>              
+              <div className={
+                block.text_center=== true ?
+                'text-center' :
+                'text-left'
+              }
+                dangerouslySetInnerHTML={{ __html: block.content }}
+              />
+            </div>
+          ) : (
+            <div className={
+              block.background
+                ? 
+                (
+                  block.background === 'primary' ? 'bg-primary  max-w-full lg:max-w-[90%] xl:max-w-[70%] mx-auto' :
+                  block.background === 'light' ? 'bg-light  max-w-full lg:max-w-[90%] xl:max-w-[70%] mx-auto' :
+                  block.background === 'dark' ? 'bg-dark  max-w-full lg:max-w-[90%] xl:max-w-[70%] mx-auto'
+                  : 'bg-transparent  max-w-full lg:max-w-[90%] xl:max-w-[70%] mx-auto'
+                ) 
+                : 'bg-white  max-w-full lg:max-w-[90%] xl:max-w-[70%] mx-auto'
+            }
+          >
+            <div className={
+              block.orientation === 'Image Right'
+              ? 'w-full flex flex-col lg:flex-row-reverse'
+              : 'w-full flex flex-col lg:flex-row' 
+            }
+            >
+              <div className='w-full flex justify-center content-center'>
+                  {block.tai_image && (
+                    <img
+                      className='object-cover hover:object-scale-down w-full h-[20rem] md:h-[30rem]'
+                      alt={block.title}
+                      srcSet={block.tai_image.childImageSharp.fluid.srcSet}
+                    />
+                  )}
+              </div>
+              <div className={
+              block.orientation === 'Image Right'
+              ? 'w-[90%] py-4 text-right px[5%]'
+              : 'w-[90%] py-4 text-left px-[5%]' 
+              }
+              >
+                  <h2 className='text-cyan-700'>{block.title}</h2>
+                  <div className=''
+                    dangerouslySetInnerHTML={{ __html: block.content }}
+                  />
+              </div>
+            </div>
+          </div>  
+
+          )
+       }
   </section>
 )
 

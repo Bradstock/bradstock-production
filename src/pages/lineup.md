@@ -4,114 +4,189 @@ title: Lineups
 blocks:
 - template: page-background-image
   component: page_background_image
-  background_image: "/images/tickets-background-tie-dye.png"
+  page_background_image: "/images/tickets-background-tie-dye.png"
+# - template: text-area
+#   component: text_area
+#   text_area: |-
+#     # Lineups
+  text_center: true
 - template: text-area
   component: text_area
   text_area: |-
-    # Lineups
+    # ‎ 
+    
+    ## ✿ Check back soon for lineups ✿
+    
+    # ‎ 
 
-    Schedule for all Stages
   text_center: true
-- template: two-column
-  component: two_column
-  col1:
-    col_image: "/images/favicon.png"
-    title: Saturday 9/3
-    show_image: false
-    alt: Saturday img
-    content: "<strong>12:00-1:00 - </strong>The Brother Pluckers<strong><br>1:30-2:30
-      - </strong>The Famous Dr. Scanlon Band<strong><br>3:00-4:00 - </strong>Albums
-      We Love<strong><br>4:30-5:30 - </strong>Cassandra House<strong><br>6:00-7:00
-      -  </strong>Soundswell<strong><br>7:30-8:30 - </strong>Jellyband"
-  col2:
-    col_image: "/images/favicon.png"
-    show_image: false
-    alt: sunday img
-    content: "<strong>12:00-12:30 - </strong>Ed Travers &amp; Jimmy Flemming<strong><br>12:30-1:30
-      - </strong>Gathering Time<br><strong>2:00-3:00 - </strong>Shecky &amp; the Twangtones<strong><br>3:30-4:30
-      - </strong>David Amram<strong><br>5:00-6:00 - </strong>Miles to Dayton<strong><br>6:30-8:00
-      - </strong>The Falco Brothers<strong><br>8:30-9:45 - </strong>The Electrix"
-    title: Sunday 9/4
-  title: Main Stage
-- template: two-column
-  component: two_column
-  col1:
-    col_image: "/images/favicon.png"
-    show_image: false
-    alt: sat img
-    title: Saturday 9/3
-    content: "<strong>12-12:45 - </strong>Free Grass Union<strong><br>1:15-2 - </strong>Pressure
-      Cookers<strong><br>2:30-3:15 - </strong>Jerry Mcdonald Experience<strong><br>3:45-4:30
-      - </strong>The belle curves<strong><br>5-6 - </strong>Noah’s Arc<strong><br>6:30-7:30
-      - </strong>Quarter Horse"
-  col2:
-    col_image: "/images/favicon.png"
-    show_image: false
-    alt: sun img
-    title: Sunday 9/4
-    content: "<strong>12-12:45 - </strong>Annie Trezza<strong><br>1:15-2:15 - </strong>Ernie
-      &amp; The Band<strong><br>2:45-3:45 - </strong>MJT<strong><br>4:15-5:15 - </strong>Chris
-      Maloy and the Family Band<strong><br>5:45-6:45 - </strong>Funkin A’"
-  title: Flower Power Stage
-- template: two-column
-  component: two_column
-  col1:
-    col_image: "/images/favicon.png"
-    title: Saturday 9/3
-    show_image: false
-    alt: Saturday img
-    content: <strong>12:00 - </strong>Skip Bement<strong><br>12:30 - </strong>Bryan
-      Gallo<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>1:00
-      - </strong>Nick Russell<strong><span class="Apple-converted-space"> <br></span>1:30
-      - </strong>Dave Christian<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>2:00 -</strong> KC Tribute<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>3:00 - </strong>Rocket
-      &amp; the Launchers<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>4:00 - </strong>Karin Wagner<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>4:20 - </strong>Imbibe
-      the Vibe<strong><br>4:45 - </strong>Grand Folk Railroad<strong><br>5:45 - </strong>Mike
-      Kelly<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>6:15
-      - </strong>Pete Mancini<strong><br>6:45 - </strong>Plain Spoken<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>7:30 -</strong>
-      Ted Cremer<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>8:00
-      -</strong> Dark Heart Tavern Band
-  col2:
-    col_image: "/images/favicon.png"
-    show_image: false
-    alt: sunday img
-    content: <strong>12:00 - </strong>Shannon Foley<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>12:30 - </strong>Steve
-      Mall<span class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>1:00
-      - </strong>Hank Stone &amp; Todd Evans<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>1:30 - </strong>Trailer Park Gigilos<span
-      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>2:00
-      - </strong>Jim Kolman<strong><br>2:30 - </strong>Mark Lawlor<strong><br>3:00
-      -</strong> Night Owls<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>4:00 -</strong> Cosmic Pioneers<span
-      class="Apple-converted-space"> </span><strong><span class="Apple-converted-space"><br></span>4:30
-      - </strong>Melanie Morin<strong><br>5:00 - </strong>Claudia &amp; Scott<strong><br>5:45
-      - </strong>Val Levine &amp; Rich Lanahan<strong><br>6:30 - </strong>Tim Yerves<strong><br>7:00
-      - </strong>Tobacco Roadies<span class="Apple-converted-space"> </span><strong><span
-      class="Apple-converted-space"><br></span>8:00 - </strong>Electric-Off Acoustic
-      Jam
-    title: Sunday 9/4
-  title: Acoustic Stage
-- template: two-column
-  component: two_column
-  col1:
-    col_image: "/images/favicon.png"
-    title: Saturday 9/3
-    show_image: false
-    alt: ''
-    content: "<strong>Poetry Schedule - Coming Soon<br>Kids Stage - Coming Soon</strong>"
-  col2:
-    col_image: "/images/favicon.png"
-    title: Sunday 9/4
-    show_image: false
-    alt: ''
-    content: <strong>8:30 AM - </strong>Food Trucks - Breakfast for Campers<span class="Apple-converted-space">
-      </span><strong><span class="Apple-converted-space"><br></span>10:00 AM - </strong>Yogo
-      on the Club House Porch<strong><br>11:15 AM - </strong>Kids Wake-Up Parade
-  title: 'Poetry Stage & More '
+  background: "white"
+# - template: image
+#   component: image
+#   position: Center
+#   image_center_width: 25%
+#   image: "/images/mainstage_lineup.png"
+#   alt: Bradstock 2024 Main Stage Lineup
+# - template: two-column
+#   component: two_column
+#   col1:
+#     col_image: "/images/favicon.png"
+#     title: Saturday 9/2
+#     show_image: false
+#     alt: Saturday img
+#     content: "
+#   <strong>12:00-1:00 -</strong> The Brother Plukers <br><br>
+#   <strong>1:30-2:30 -</strong> The Famous Dr. Scanlon Band <br><br>
+#   <strong>3:00-4:00 -</strong> Albums We Love <br><br>
+#   <strong>4:30-5:30 -</strong> Soundswell <br><br>
+#   <strong>6:00-7:00 -</strong> Cassandra House <br><br>
+#   <strong>7:30-8:30 -</strong> Shecky & the Twangtones <br><br>
+#     "
+#   col2:
+#     col_image: "/images/favicon.png"
+#     show_image: false
+#     alt: sunday img
+#     content: "
+#      <strong>12:00-12:30 -</strong> Ed Travers & Jimmy Flemming <br><br>
+#     <strong>12:30-1:30 -</strong> Jelly Band <br><br>
+#     <strong>2:00-3:00 -</strong> Gathering Time <br><br>
+#     <strong>3:30-4:30 -</strong> David Amram <br><br>
+#     <strong>5:00-6:00 -</strong> Miles to Dayton <br><br>
+#     <strong>6:30-7:45 -</strong> Easy Chief <br><br>
+#     <strong>8:15-9:30 -</strong> The Electrix <br><br>
+#     "
+#     title: Sunday 9/3
+#   title: Main Stage - M.C. Dennis O'Doherty
+# - template: image
+#   component: image
+#   position: Center
+#   image_center_width: 25%
+#   image: "/images/flower_power_lineup.jpg"
+#   alt: Bradstock 2024 Flower Power Lineup
+# - template: two-column
+#   component: two_column
+#   col1:
+#     col_image: "/images/favicon.png"
+#     show_image: false
+#     alt: sat img
+#     title: Saturday 9/2
+#     content: "
+#     <strong>12:00-12:45 -</strong> Nick Russell<br><br>
+#     <strong>1:15-2:00 -</strong> Safrah<br><br>
+#     <strong>2:30 - 3:15 -</strong> Sugartaste<br><br>
+#     <strong>3:45-4:45 -</strong> Buddy Merriam & Back Roads<br><br>
+#     <strong> 5:15-6:15 -</strong> Half Step<br><br>
+#     <strong>6:45-7:45 -</strong> Black Country Beatnix<br><br>
+#     "
+#   col2:
+#     col_image: "/images/favicon.png"
+#     show_image: false
+#     alt: sun img
+#     title: Sunday 9/3
+#     content: "
+#     <strong>12:00-1:00 -</strong> Jack Falco & Boom<br><br>
+#     <strong>1:30-2:30 -</strong> Sarah Gross<br><br>
+#     <strong>3:00-4:00 -</strong> Quarter Horse<br><br>
+#     <strong>4:30-5:30 -</strong> MJT<br><br>
+#     <strong>6:00-7:00 -</strong> Funkin' A<br><br>
+#     "
+#   title: Flower Power Stage - M.C. Bryan G
+# - template: image
+#   component: image
+#   position: Center
+#   image_center_width: 25%
+#   image: "/images/acoustic_lineup.png"
+#   alt: Bradstock 2024 Acoustic Stage Lineup
+# - template: two-column
+#   component: two_column
+#   col1:
+#     col_image: "/images/favicon.png"
+#     title: Saturday 9/2
+#     show_image: false
+#     alt: Saturday img
+#     content: "
+#       <strong>12:00 -</strong> <a style='color: #0e7490'  target=”_blank” href='https://www.facebook.com/BrooklynTim'>Brooklyn Tim</a><br><br>
+#       <strong>12:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://deannahudsonmusic.com/'>Deanna Hudson</a><br><br>
+#       <strong>1:00 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.bryangallo.com/'>Bryan Gallo</a><br><br>
+#       <strong>1:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.davechristianmusic.com/'>Dave Christian</a><br><br>
+#       <strong>2:00 -</strong> KC Tribute<br><br>
+#       <strong>2:45 -</strong> Rocket & the Launchers<br><br>
+      
+#       <strong>3:15 -</strong> <a style='color: #0e7490' target=”_blank” href='https://whoarethoseguys.com/'>Who are those Guys?</a><br><br>
+#       <strong>4:00 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.facebook.com/profile.php?id=100082983092258'>Karin Wagner</a><br><br>
+#       <strong>4:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.Imbibethevibemusic.com'>Imbibe the Vibe</a><br><br>
+#       <strong>5:00 -</strong> <a style='color: #0e7490' target=”_blank” href='https://fb.watch/l2jHmehE4n/ '>Mike Kelly</a><br><br>
+#       <strong>5:30 -</strong> Daniel Welsch<br><br>
+#       <strong>6:00 -</strong> Dark Heart Tavern Band<br><br>
+#       <strong>6:30 -</strong> Plain Spoken<br><br>
+#       <strong>7:15 -</strong><a style='color: #0e7490' target=”_blank” href='https://soundcloud.com/ted-cremer'> Ted Cremer & Son</a><br><br>
+#       <strong>7:45 -</strong> <a style='color: #0e7490' target=”_blank” href='https://freegrassunion.org/'> Free Grass Union</a><br><br>
+#       <strong>8:45 -</strong> Electric-Off Acoustic Jam<br><br>
+#     "
+#   col2:
+#     col_image: "/images/favicon.png"
+#     show_image: false
+#     alt: sunday img
+#     content: "
+#       <strong>12:00 -</strong> Todd Evans & the Rocket<br><br>
+#       <strong>12:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.tobytoby.com/'>Toby Tobias Ensemble</a><br><br>
+#       <strong>1:00 -</strong> Steve Mall<br><br>
+#       <strong>1:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://trailerparkgigolos.wixsite.com/gigolos'>Trailer Park Gigolos</a><br><br>
+#       <strong>2:00 -</strong> Jim Kolman<br><br>
+#       <strong>2:30 -</strong> Mark Lawlor<br><br>
+#       <strong>3:00 -</strong> Night Owls<br><br>
+#       <strong>4:00 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.dropbox.com/s/j513fjahvbzxoj4/IMG_5614.MOV?dl=0'>Leah Kay & Friends</a><br><br>
+#       <strong>4:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.facebook.com/MelanieMorinMusic/'>Melanie Morin</a><br><br>
+#       <strong>5:00 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.vintageval.com'>Levine, Lanahan, & Lane</a><br><br>
+#       <strong>5:30 -</strong> <a style='color: #0e7490' target=”_blank” href='https://www.grandfolkrailroad.com'>Grand Folk Railroad</a><br><br>
+#       <strong>6:30 -</strong> Timothy C Yerves<br><br>
+#       <strong>7:00 -</strong> Debra Lynne<br><br>
+#       <strong>7:30 -</strong> Timothy C Yerves<br><br>
+#       <strong>8:30 -</strong> Electric-Off Acoustic Jam<br><br>
+#     "
+#     title: Sunday 9/3
+#   title: Acoustic Stage - M.C.s Ken Korb, Lora Kendall & Karin Wagner
+# - template: two-column
+#   component: two_column
+#   col1:
+#     col_image: "/images/favicon.png"
+#     title: Saturday 9/2
+#     show_image: false
+#     alt: ''
+#     content: "  
+#     <strong>11:00-12:00 -</strong> Storytime with Daniel<br><br>
+#     <strong>12:50-1:10 -</strong> Karin Wagner & Kathy Meyers<br><br>
+#     <strong>2:05 - 2:25 -</strong> Mermaids & Giants<br><br>
+#     <strong>3:20 - 3:40 -</strong> The Preddice Sisters<br><br>
+#     <strong>4:50 - 5:10 -</strong> Anne O'Rourke<br><br>
+#     <strong>6:20- 6:40 -</strong> TBD<br><br>
+#     <strong>9:00 PM -</strong> Night Time Story Time
+#     "
+#   col2:
+#     col_image: "/images/favicon.png"
+#     title: Sunday 9/3
+#     show_image: false
+#     alt: ''
+#     content: "<strong>12:00 - 7:00 </br>Poets to perform in between Flower Power sets</strong>  <br><br>
+#     Barbara Branca<br><br>
+#     Elizabeth Chen<br><br>
+#     Brian Geraghty<br><br>
+#     Russ Green<br><br>
+#     Brian Hassett<br><br>
+#     Deborah Hauser<br><br>
+#     Rorie Kelly<br><br>
+#     Melissa Longo<br><br>
+#     Kristen Luft<br><br>
+#     Brendan McCurdy<br><br>
+#     Katie McCurdy<br><br>
+#     Wayne Mennecke<br><br>
+#     Kathy Meyers<br><br>
+#     James Nystrom<br><br>
+#     Bri Onishea<br><br>
+#     Kelly J Powell<br><br>
+#     Krystina Serdock<br><br>
+#     Swati Srivastava<br><br>
+#     "
+#   title: "Poet's Stage - Hosts Bri Onishea & Russ Green"
 
----
+# ---

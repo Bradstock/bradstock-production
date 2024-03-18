@@ -9,10 +9,85 @@ blocks:
   background_image: "/images/henry-be-IicyiaPYGGI-unsplash.jpg"
 - template: text-area
   component: text_area
-  text_area: "# ✿ [2019](/archive#year2019 \"Bradstock XXVI\") ✿ [2018](/archive#year2018
-    \"2018\") ✿ [2017](/archive#year2017 \"2017\") ✿ \n\n## ✿ [In Remembrance](/archive#remember)
-    ✿"
+  text_area: |-
+    # ✿ [2023](/archive#year2023 "Bradstock XXX") ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
+
+    ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
+- template: tag
+  component: tag
+  tag: year2023
+- template: text-area
+  component: text_area
+  text_area: "### 2023 - Bradstock XXX"
+  text_center: false
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/bradstock_poster.jpg"
+    alt: 'Event Poster - Bradstock XXX '
+    image_info: Event Poster - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/mainstage_lineup.png"
+    alt: Main Stage Lineup - Bradstock XXX
+    image_info: Main Stage Lineup - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/flower_power_lineup.jpg"
+    alt: 'Flower Power Stage - Bradstock XXX '
+    image_info: Flower Power Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/acoustic_lineup.png"
+    image_info: Acoustic Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+    alt: Acoustic Stage - Bradstock XXX
+- template: tag
+  component: tag
+  tag: year2022
+- template: text-area
+  component: text_area
+  text_area: "### 2022 - Bradstock XXIX"
+  text_center: false
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/mainstage.png"
+    alt: Main Stage Lineup - Bradstock XXIX
+    image_info: Main Stage Lineup - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/brad22-poster.png"
+    alt: 'Event Poster - Bradstock XXIX '
+    image_info: Event Poster - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/flower-power.png"
+    alt: 'Flower Power Stage - Bradstock XXIX '
+    image_info: Flower Power Stage - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/acoustic-final-updated-w-the-melting-pots.png"
+    image_info: Acoustic Stage - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+    alt: Acoustic Stage - Bradstock XXIX
+  - gallery_image: "/images/final-poet-kid-stage.png"
+    alt: Poetry Post & Kids Stage - Bradstock XXIX
+    image_info: Poetry Post & Kids Stage - Bradstock XXIX
+    logo: false
+    logo_name: ''
+    logo_url: ''
 - template: tag
   component: tag
   tag: year2019
@@ -127,9 +202,35 @@ blocks:
   alt: 'In remembrance '
   content: If you'd like to share a photo of a Bradstocker who's passed, please send
     one photo and their name to <a href="" title="">FriendsofBradstock@gmail.com</a>
+  icon: false
+  text_center: false
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/scott-perino1.jpg"
+    alt: Scott Perino
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/angela-melugin.jpg"
+    alt: Angela Melugin
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/jay-morin.jpg"
+    alt: Andre Morin
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/ken-scotto-aka-ken-do.jpg"
+    alt: Ken Scotto
+    image_info: ''
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
     alt: KC Cowen
     image_info: ''

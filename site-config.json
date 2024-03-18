@@ -1,5 +1,7 @@
 {
   "title": "Bradstock",
-  "description": "Bradstock is a 501c3 not for profit organization",
-  "footer": "<h5 className='text-cyan-600'>Friends of Bradstock, Inc.  is a 501c3 not for profit organization</h5> Built by <a style='color:#0E7490' href=\"https://github.com/LMarlette\" target=\"_blank\">LMarlett</a>" 
+  "description": "Friends of Bradstock, Inc.  is a 501c3 not for profit organization",
+  "footer": "Friends of Bradstock, Inc.  is a 501c3 not for profit organization",
+  "facebook": "https://www.facebook.com/groups/54531303391",
+  "email": "friendsofbradstock@gmail.com"
 }

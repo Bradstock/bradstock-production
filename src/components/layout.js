@@ -17,6 +17,8 @@ const Layout = ({ children }) => (
           siteMetadata {
             title
             footer
+            facebook
+            email
           }
         }
       }
@@ -43,7 +45,7 @@ const Layout = ({ children }) => (
         <Header siteTitle={data.site.siteMetadata.title} />
         {children}
         </div>
-        <Footer content={data.site.siteMetadata.footer} />
+        <Footer content={data.site.siteMetadata.footer} facebook={data.site.siteMetadata.facebook} email={data.site.siteMetadata.email}/>
       </>
     )}
   />

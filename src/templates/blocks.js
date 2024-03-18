@@ -19,7 +19,11 @@ import Gallery from '../components/blocks/gallery'
 import Tag from '../components/blocks/tag'
 import Button from '../components/blocks/button'
 import Video from '../components/blocks/video'
-import PBI from '../components/blocks/page-background-image'
+
+import { getImage, GatsbyImage } from "gatsby-plugin-image"
+
+import { convertToBgImage } from "gbimage-bridge"
+import BackgroundImage from 'gatsby-background-image'
 
 
 class BlocksTemplate extends React.Component {
@@ -60,8 +64,23 @@ class BlocksTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const siteDescription = post.excerpt
-    // console.log(this.props)
-    
+      
+// for background img
+      var front = post.frontmatter.blocks.find(function(block, index) {
+          if(block.component === 'page_background_image') {
+            return true;
+          } else {
+            return false
+          }
+        }) 
+        const image = (block) => {
+          return getImage(block)
+        }
+        const bgImage = (img) => {
+
+          return convertToBgImage(img)
+        }
+  //  for table col imgs
   var noImage = (block) => { 
       if (block.col1.show_image === true || block.col1.show_image === true || block.col1.show_image === true){
         return true
@@ -69,7 +88,7 @@ class BlocksTemplate extends React.Component {
         return false
       }
     }
-    
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet
@@ -77,9 +96,54 @@ class BlocksTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />          
-          
-        {/* switch statmetn with the component name -> the hidden block */}
-        {post.frontmatter.blocks.map(block => {
+        {front ? (
+          <BackgroundImage
+            Tag="section"
+            {...bgImage(image(front.page_background_image))}
+            preserveStackingContext
+            className='bg-scroll bg-no-repeat bg-center bg-cover py-20 '
+          >
+            <div className='min-h-[100vh]'>
+            {
+            post.frontmatter.blocks.map(block => {
+            switch (block.component) {
+              case 'table':
+                return <Table block={block} noImage={noImage(block)}/>
+              case 'two_column':
+                return <TowColumn block={block} noImage={noImage(block)}/>
+              case 'text_and_image':
+                return <TextAndImage block={block} />
+              case 'title_button':
+                return <TitleButton block={block} />
+              case 'hero':
+                return <Hero block={block} />
+              case 'home_hero':
+                return <HomeHero block={block} />
+              case 'text_area':
+                return <TextArea block={block} /> 
+              case 'iframe':
+                return <Iframe block={block} />
+              case 'image':
+                return <Image block={block} />
+              case 'button':
+                return <Button block={block} />
+              case 'gallery':
+                return <Gallery block={block} />
+              case 'video':
+                return <Video block={block} />
+              case 'tag':
+                return <Tag block={block} />
+              default:
+                return ''
+            }
+          })
+        }
+            </div>
+
+          </BackgroundImage>
+        ):(
+        // switch statmetn with the component name -> the hidden block 
+        post.frontmatter.blocks.map(block => {
           switch (block.component) {
             case 'table':
               return <Table block={block} noImage={noImage(block)}/>
@@ -107,19 +171,20 @@ class BlocksTemplate extends React.Component {
               return <Video block={block} />
             case 'tag':
               return <Tag block={block} />
-            case 'page_background_image':
-              return <PBI block={block} />
             default:
               return ''
           }
-        })}
+        })
+        )}
+        
+
+        {/* up btn */}
         <div className={
           this.GetTagBool() === true
           ? 'block' 
           : 'none'
         }>
           <button id="scroll-btn" className="animate-bounce sidebar-btns scoll-btn-style">Scroll To Top</button>
-         
         </div>
       </Layout>
     )
@@ -178,11 +243,17 @@ export const pageQuery = graphql`
           background
           image_center_width
           tag
+          icon
           image {
             childImageSharp {
               fluid(maxWidth: 800) {
                 srcSet
               }
+            }
+          }
+          page_background_image {
+            childImageSharp {
+              gatsbyImageData(layout: FULL_WIDTH)
             }
           }
           background_image {
