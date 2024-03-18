@@ -10,10 +10,44 @@ blocks:
 - template: text-area
   component: text_area
   text_area: |-
-    # ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
+    # ✿ [2023](/archive#year2023 "Bradstock XXX") ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
+- template: tag
+  component: tag
+  tag: year2023
+- template: text-area
+  component: text_area
+  text_area: "### 2023 - Bradstock XXX"
+  text_center: false
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/bradstock_poster.jpg"
+    alt: 'Event Poster - Bradstock XXX '
+    image_info: Event Poster - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/mainstage_lineup.png"
+    alt: Main Stage Lineup - Bradstock XXX
+    image_info: Main Stage Lineup - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/flower_power_lineup.jpg"
+    alt: 'Flower Power Stage - Bradstock XXX '
+    image_info: Flower Power Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/acoustic_lineup.png"
+    image_info: Acoustic Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+    alt: Acoustic Stage - Bradstock XXX
 - template: tag
   component: tag
   tag: year2022
