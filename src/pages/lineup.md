@@ -15,7 +15,7 @@ blocks:
   text_area: |-
     # ‎ 
     
-    ## ✿ Check back soon for lineups ✿
+    ## ✿ Stage Line Ups Coming in the Spring ✿
     
     # ‎ 
 

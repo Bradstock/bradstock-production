@@ -24,6 +24,12 @@ blocks:
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/2022-best.jpg"
+    alt: 'Main Stage - Bradstock XXX '
+    image_info: Main Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/bradstock_poster.jpg"
     alt: 'Event Poster - Bradstock XXX '
     image_info: Event Poster - Bradstock XXX
@@ -200,8 +206,9 @@ blocks:
   orientation: Image Left
   title: In Remembrance
   alt: 'In remembrance '
-  content: If you'd like to share a photo of a Bradstocker who's passed, please send
-    one photo and their name to <a href="" title="">FriendsofBradstock@gmail.com</a>
+  content: |-
+    If you'd like to share a photo of a Bradstocker who's passed, please contact us using the [link below](/archive#contact "link below"). Please send one photo and their name. 
+
   icon: false
   text_center: false
 - template: gallery
@@ -273,5 +280,18 @@ blocks:
     logo: false
     logo_name: ''
     logo_url: ''
+- template: tag
+  component: tag
+  tag: contact
+- template: title-button
+  component: title_button
+  background: light
+  button:
+    button_type: External
+    label: contact us
+    url: "mailto:FriendsofBradstock@gmail.com"
+  title: Submissions
+  subtitle: "If there is someone you'd like to honor in our remembrance section, please contact us. \n\n Please send
+    one photo and their name."
 
 ---
