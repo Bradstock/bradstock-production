@@ -20,7 +20,7 @@ const Footer = ({ content, facebook, email }) => (
           <FontAwesomeIcon className='text-cyan-700 hover:text-gray-400' icon={faEnvelope} size='2x' /> 
         </a>    
       </div> 
-      <p className='text-gray-600'>Built by <a className='text-cyan-700 hover:text-gray-600' href="https://github.com/LMarlette" target="_blank" rel="noreferrer">LMarlett</a></p>
+      <p className='text-gray-600'>Built by <a className='text-cyan-700 hover:text-gray-600' href="https://github.com/LMarlett" target="_blank" rel="noreferrer">LMarlett</a></p>
     </div>
   </footer>
 )
