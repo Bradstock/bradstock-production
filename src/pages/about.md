@@ -26,25 +26,27 @@ blocks:
   orientation: Image Left
   alt: 'bradstock stage being built '
   content: "With the buzz of the first two Bradstocks encouraging new participants
-    to join the cause, and with the success of the festivals far surpassing what the
-    organizers could have ever imagined, Bradstocks III and IV were held on the grounds
+    to join the cause, and the success of the festivals far surpassing what the
+    organizers could have imagined, Bradstocks III and IV were held on the grounds
     of Meadowcroft in Bayport. 
     \n\n
-    Artists came to display their work, various not-for-profit
+    Artists came to display their work, not-for-profit
     environmental organizations set up informative, educational booths, and new musicians
     eagerly joined Bradstock‘s solid line-up of performers. Best of all, the events
-    generated profits, as well as canned foodstuffs, which was donated and distributed
-    to local good causes. 
-    \n\n
-    Since those early years, our Bradstock family has grown.  Now with generations of Bradstockers attending the event and with new festival goers discovering this unique community that is held together with a common love of music, the arts, a spirit of giving back and most of all - a good time.
-    \n\n
-    It’s now 30+ years and the circle of kinship and belonging lives on.
+    generated profits, as well as canned foodstuffs, which were donated and distributed
+    to local causes. 
     "
   title: Building a Community
   icon: false
 - template: text-area
   component: text_area
-  text_area: "### Our Mission\n\nThanks to the generosity of the many friends of Bradstock,
+  text_area: "
+    \n\n
+    Since those early years, our Bradstock family has grown exponentially.  Multiple generations of Bradstockers now attend, and new festival goers are discovering this unique community, held together with a common love of music, the arts, a spirit of giving back, and most of all, a good time.
+    \n\n
+    It’s now thirty plus years later, and the circle of kinship and belonging lives on.
+    
+    ### Our Mission\n\nThanks to the generosity of the many friends of Bradstock,
     in the past twenty-eight years we have donated over $300,000 including $175,000
     to Camp-Pa-Qua-Tuck. \n\nHere are some of our other beneficiaries include the \n\n* Long Island Maritime
     Museum\n* Friends of Connetquot River State Park\n* The Sayville Kiwanis Club\n*
