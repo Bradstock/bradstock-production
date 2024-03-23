@@ -30,7 +30,7 @@ other for the greater good. Just incredible!
 
 The weather, the stage design, posters, and journal were equally so.  The same can be said about crowd enthusiasm and younger, third generation Bradstockers. Evidenced especially by the lively Sunday morning Mermaid parade around Camp. Financially rewarding as well, were Bradstock donations to the Camp and others totaling over $25,000. Wow, one for the record books!
 
-![The 2023 mermaid parade](/images/2023bs20.jpg) 
+![The 2023 mermaid parade](/images/2023bs23.jpg) 
 
 The COVID-19 pandemic forced two year hiatus from putting on a Bradstock at Camp caused us all to wonder if the
 Chiefs could get the mojo flowing and the party back on track. Calling upon the legend of the
@@ -71,7 +71,7 @@ give a big Bradstock thank you to Camp Director Kristin Cafiero. Our ongoing tha
 Board of the Rotary Health Club of Center Moriches as we work together to improve our Festival
 and continue to make enduring contributions to the Camp.
 
-![Bradstock jellyfish parade](/images/2023bs21.jpg) 
+![Bradstock stage with a band playing](/images/2023bs24.jpg) 
 
 Along the way, Bradstock has joined with WUSB 90.1 FM, the radio station of the University
 of Stony Brook, to offer what we believe to be the longest continuous college radio station
