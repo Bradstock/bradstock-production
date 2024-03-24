@@ -10,7 +10,7 @@ blocks:
   title: Bradstock XXXI
   text_area: "
     ## Labor Day Weekend 
-    August 31st & September 1st 2024
+    August 31st & September 1st, 2024
 
     ### Camp Pa Qua Tuck, Center Moriches, NY
 
