@@ -84,7 +84,7 @@ We have confidence that the Circle of Chiefs will progress in a way that reflect
 May the circle be unbroken. There are no mysteries to Bradstock, just an open
 exchange of ideas and good old fashioned perseverance and tenacity. The Circle of Chiefs welcomes and embraces new faces who share the Bradstock creed, “A good time for a good cause.” You can [contact us](mailto:FriendsofBradstock@gmail.com) to make sure you are on the email list and let us know if you want to help.
 
-Smile at your neighbor. Recycle your cans and bottles. Pick up your litter. We look forward to seeing you at Bradstock XXX, labor day weekend 2024. It could be big!
+Smile at your neighbor. Recycle your cans and bottles. Pick up your litter. We look forward to seeing you at Bradstock XXX, labor day weekend 2023. It could be big!
 
 
 
