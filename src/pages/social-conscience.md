@@ -14,7 +14,7 @@ blocks:
 
     Over the years, we have supported many local Long Island charitable organizations that work to preserve our beautiful island and help our neighbors in need.
 
-    #### To date, Bradstock has donated over $275,000.
+    #### To date, Bradstock has donated over $300,000.
 
     Since Bradstock's early beginnings, we've collected non-perishable food for Island Harvest from our generous Bradstock family.  Over the years, truck loads have been donated to Island Harvest, as well as, cash donations.
 
@@ -24,7 +24,7 @@ blocks:
 
     #### Our Venue
 
-    Camp Pa Qua Tuck is the current home of Bradstock, we are grateful to the Moriches Rotary Club for the use of their beautiful camp for our annual event.  Since 2011, our first year at the camp, the bulk of our annual donation is made to Camp Pa Qua Tuck, to date Bradstock and our loyal supporters have donated over $100,000 to Camp Pa Qua Tuck.
+    Camp Pa Qua Tuck is the current home of Bradstock, we are grateful to the Moriches Rotary Club for the use of their beautiful camp for our annual event.  Since 2011, our first year at the camp, the bulk of our annual donation is made to Camp Pa Qua Tuck, to date Bradstock and our loyal supporters have donated over $175,000 to Camp Pa Qua Tuck.
   text_center: false
 
 ---

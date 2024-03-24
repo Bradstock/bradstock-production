@@ -4,7 +4,11 @@ import ReactMarkdown from 'react-markdown'
 // TODO: fix responsive
 const TextArea = ({ block }) => (
   <section>
-      <div className="my-10 w-[90%] md:w-80% mx-auto lg:max-w-5xl">
+      <div className={
+      block.background
+        ? `bg-${block.background} my-10 w-[90%] md:w-80% mx-auto lg:max-w-5xl`
+        : 'bg-transparent my-10 w-[90%] md:w-80% mx-auto lg:max-w-5xl'
+    }>
         <div className={
           block.text_center === true 
           ? 'text-center' 

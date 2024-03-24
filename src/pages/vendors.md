@@ -5,7 +5,7 @@ blocks:
 - template: hero
   component: hero
   title: Vendors
-  subtitle: Vending for Bradstock XXX - 2023
+  subtitle: Vending for Bradstock XXXI - 2024
   background_image: "/images/5-1.png"
 - template: text-area
   component: text_area
@@ -25,6 +25,6 @@ blocks:
 - template: iframe
   component: iframe
   url: https://docs.google.com/forms/d/e/1FAIpQLSc18-HVB6fFYp4GM68q97M5TfxxBLvhBBx2k533gb6jxxu70w/viewform?embedded=true
-  iframe_height: '2800'
+  iframe_height: '3000'
 
 ---

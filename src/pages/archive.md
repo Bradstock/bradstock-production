@@ -10,10 +10,50 @@ blocks:
 - template: text-area
   component: text_area
   text_area: |-
-    # ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
+    # ✿ [2023](/archive#year2023 "Bradstock XXX") ✿ [2022](/archive#year2022 "Bradstock XXIX") ✿ [2019](/archive#year2019 "Bradstock XXVI") ✿ [2018](/archive#year2018 "2018") ✿ [2017](/archive#year2017 "2017") ✿
 
     ## ✿ [In Remembrance](/archive#remember) ✿
   text_center: true
+- template: tag
+  component: tag
+  tag: year2023
+- template: text-area
+  component: text_area
+  text_area: "### 2023 - Bradstock XXX"
+  text_center: false
+- template: gallery
+  component: gallery
+  gallery_field_group:
+  - gallery_image: "/images/2022-best.jpg"
+    alt: 'Main Stage - Bradstock XXX '
+    image_info: Main Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/bradstock_poster.jpg"
+    alt: 'Event Poster - Bradstock XXX '
+    image_info: Event Poster - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/mainstage_lineup.png"
+    alt: Main Stage Lineup - Bradstock XXX
+    image_info: Main Stage Lineup - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/flower_power_lineup.jpg"
+    alt: 'Flower Power Stage - Bradstock XXX '
+    image_info: Flower Power Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/acoustic_lineup.png"
+    image_info: Acoustic Stage - Bradstock XXX
+    logo: false
+    logo_name: ''
+    logo_url: ''
+    alt: Acoustic Stage - Bradstock XXX
 - template: tag
   component: tag
   tag: year2022
@@ -161,83 +201,115 @@ blocks:
   tag: remember
 - template: text-and-image
   component: text_and_image
-  tai_image: "/images/in-rememberance-image-fix.png"
+  tai_image: "/images/in-rememberance-image-fix-3.png"
   background: dark
   orientation: Image Left
   title: In Remembrance
   alt: 'In remembrance '
-  content: If you'd like to share a photo of a Bradstocker who's passed, please send
-    one photo and their name to <a href="" title="">FriendsofBradstock@gmail.com</a>
+  content: |-
+    If you'd like to share a photo of a Bradstocker who's passed, please contact us using the [link below](/archive#contact "link below"). Please send one photo and their name. 
+
   icon: false
   text_center: false
 - template: gallery
   component: gallery
   gallery_field_group:
+  - gallery_image: "/images/Phil & Ursala.jpg"
+    alt: Phil & Ursala
+    image_info: 'Phil & Ursala'
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/Soraya Rizek-Griffin.jpg"
+    alt: Soraya Rizek-Griffin
+    image_info: 'Soraya Rizek-Griffin'
+    logo: false
+    logo_name: ''
+    logo_url: ''
+  - gallery_image: "/images/Dale Costello.jpg"
+    alt: Dale Costello
+    image_info: 'Dale Costello'
+    logo: false
+    logo_name: ''
+    logo_url: ''
   - gallery_image: "/images/scott-perino1.jpg"
     alt: Scott Perino
-    image_info: ''
+    image_info: 'Scott Perino'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/angela-melugin.jpg"
     alt: Angela Melugin
-    image_info: ''
+    image_info: 'Angela Melugin'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/jay-morin.jpg"
     alt: Andre Morin
-    image_info: ''
+    image_info: 'Andre Morin'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/ken-scotto-aka-ken-do.jpg"
     alt: Ken Scotto
-    image_info: ''
+    image_info: 'Ken Scotto'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/44991685_10156571739683503_312498886994296832_n.jpg"
     alt: KC Cowen
-    image_info: ''
+    image_info: 'KC Cowen'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/heather-petrie-dancing1.jpg"
     alt: Heather Petrie
-    image_info: ''
+    image_info: 'Heather Petrie'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/angela-woolly-esposito-3.jpg"
     alt: Angela Woolly Esposito
-    image_info: ''
+    image_info: 'Angela Woolly Esposito'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/203642926_10219545016046504_5833197862622700564_n.jpg"
     alt: 'Eric '
-    image_info: ''
+    image_info: 'Eric'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/136708417_10224942289170537_2721481594352044058_n.jpg"
     alt: Joe Poppi Lienau
-    image_info: ''
+    image_info: 'Joe Poppi Lienau'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/travis.jpg"
     alt: Travis McKeveny
-    image_info: ''
+    image_info: 'Travis McKeveny'
     logo: false
     logo_name: ''
     logo_url: ''
   - gallery_image: "/images/robert-winterhawk-de-loney-5.jpg"
     alt: Robert Winterhawk De Loney
-    image_info: ''
+    image_info: 'Robert Winterhawk De Loney'
     logo: false
     logo_name: ''
     logo_url: ''
+- template: tag
+  component: tag
+  tag: contact
+- template: title-button
+  component: title_button
+  background: light
+  button:
+    button_type: External
+    label: contact us
+    url: "mailto:FriendsofBradstock@gmail.com"
+  title: Submissions
+  subtitle: "If there is someone you'd like to honor in our remembrance section, please contact us. \n\n Please send
+    one photo and their name."
 
 ---
