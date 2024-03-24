@@ -61,7 +61,7 @@ year we were able to support other good causes including
 \* Bradstock also contributed to the making of the Camp’s Sensory Garden
 
 The Camp has so much to offer, not just to Bradstock but to the campers it hosts
-throughout the summer. Knowing that our donations are helping children with disabilities
+throughout the summ er. Knowing that our donations are helping children with disabilities
 have a week of summer fun and camp enjoyment is a true motivator to the Circle of Chiefs. The
 hardy band of regulars and the newbies who decide they want to participate and give of their
 time and effort to make Bradstock happen are inspired by the mission of the Camp. 
